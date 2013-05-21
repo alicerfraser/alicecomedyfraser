@@ -122,12 +122,6 @@ letter-spacing: 2px;
 }
 
 
-
-
-/*Divs*/
-
-@media (min-width:960px ){
-
 .stream {
   min-width: 605px;
   margin-left: 37%;
@@ -150,20 +144,6 @@ letter-spacing: 2px;
   min-height:647px;
 }
 
-.tiles_div{
-position: relative;
-display: block;
-max-width: 800px;
-}
-
-img.center { vertical-align:top; margin:0px; padding: 0px; border:0px; }
-
-/*TABLE*/
-
-/*Elements*/
-
-body { margin:0; padding:0px;}
-
 hr {
   margin: 15px 0;
   border: 0;
@@ -171,12 +151,8 @@ hr {
   border-bottom: 1px solid #ffffff;
 }
 
-}
 
-/*IPAD SCREEN*/
-
-@media (max-width:768px ){
-  body
+ body
 {
     width: 100%;
     max-width: 100%;
@@ -184,58 +160,43 @@ hr {
     margin:0px auto;
     padding: 0px;
     overflow-x: hidden;
+     min-height: 0px;
 }
+
+
+html{
+    min-height: 0px;
+  }
+
+/*IPAD SCREEN*/
+
+@media (max-width:768px ){
+
 
 .helpful{
   font-size: 15px;
 }
 
-  .container {
-width: 100%;
-margin: 0 auto;
-border:0px;
-   padding: 0px;
-}
-
-  html{
-    min-height: 0px;
-  }
-
-  body {
-    min-height: 0px;
-  }
-
-
-  table{
-    width:70%;
+table{
+  width:70%;
   }
 
 .about_heading{
-  font-size: 20px;
+  /*font-size: 20px;*/
 }
 
 .textblock {
-  /*display: block;*/
-  margin-left: auto;
-  margin-right: auto;
-  width:93%;
+  width:80%;
 }
 
 .about_text{
-    color: rgb(102, 102, 101);
-display: block;
-font-family: ff-tisa-web-pro, Georgia, Cambria, 'Times New Roman', Times, serif;
-font-size: 12px;
-font-style: italic;
-font-weight: normal;
-height: 40px;
-line-height: 19px;
+font-size: 16px;
 }
 
 .div_image{
   width:100%;
   max-height:400px;
-  height:245px;
+  height:330px;
   background-size: 350px;
   background-position:top, center;
   background-repeat: no-repeat;
@@ -278,27 +239,16 @@ line-height: 19px;
     display: block;
     margin-right: 0px;
     margin-left: 14px;
-    overflow-x: hidden;
+
   }
 
-
-
-
-
-
-  .tiles_div{
-      /*margin:0px auto;*/
-      /*clear:both;*/
-      display: block;
-      width:100%;
-  }
 
   .tile{
       min-width: 210px;
-      margin: auto;
+      margin: 7px;
       margin-bottom: 7px;
-      clear:both;
-      float:none;
+
+      float:left;
       display: block;
   }
 }
@@ -419,17 +369,6 @@ line-height: 19px;
     overflow-x: hidden;
   }
 
-
-
-
-
-
-  .tiles_div{
-      /*margin:0px auto;*/
-      /*clear:both;*/
-      display: block;
-      width:100%;
-  }
 
   .tile{
       min-width: 210px;
