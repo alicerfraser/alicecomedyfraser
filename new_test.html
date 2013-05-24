@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<!-- <html lang="en"> -->
+<!-- http://stackoverflow.com/questions/5573855/how-to-make-a-stable-two-column-layout-in-html-css -->
+<head>
+
+<meta name="viewport" content="width=device-width">
+
+<title> Cols </title>
+
+<style>
+
+html, body{
+    margin:0px;
+    border:0px;
+    padding:0px;
+}
+
+.left {
+    margin: 0px;
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    background-color: rgb(238, 238, 238);
+    border: 1px solid black;
+}
+
+.right {
+    margin-left:300px; /* Change this to whatever the width of your left column is*/
+    margin-right:0px;
+    margin-top:0px;
+    margin-bottom: 0px;
+    height: 100%;
+    background-color: rgb(238, 238, 238);
+    border: 1px solid black;
+    width:auto;
+    float: left;
+}
+
+.tile{
+  width:210px;
+  height:270px;
+  background-color: rgb(238, 238, 238);
+  border: 1px solid black;
+  float:left;
+  margin:7px;
+}
+
+.clear {
+    clear: both;
+}
+
+/*IPAD SCREEN*/
+
+@media (max-width:990px){
+
+.left{
+    width:100%;
+    position:static;
+}
+
+.right{
+    width:100%;
+    float:left;
+    margin-left:0px
+}
+
+.divcontainer{
+    /*margin-left:auto;*/
+    /*margin-right: auto;*/
+    text-align: center;
+}
+
+.tile{
+    float:none;
+    display:inline-block;
+}
+
+
+}
+
+
+
+</style>
+
+</head>
+
+<body>
+
+<div id="container">
+
+
+<div class="left">
+
+ Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.
+
+ Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.  Hello and more content and more and more and more and more.
+
+</div>
+
+
+<div class="right">
+    <div class="divcontainer">
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+    </div>
+</div>
+
+<!-- <div class="clear">Hello</div> -->
+
+</div>
+
+</body>
+
+</html>
