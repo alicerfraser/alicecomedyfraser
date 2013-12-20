@@ -28,7 +28,7 @@
 
 </itunes:owner>
 
-<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg" />
+<itunes:image href="https://s3-ap-southeast-2.amazonaws.com/alicepodcast/tea_with_alice_placeholder.jpg" />
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Society and Culture"/>
