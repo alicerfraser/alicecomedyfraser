@@ -34,7 +34,15 @@
 <itunes:category text="Society and Culture"/>
 
 <!--INSERT NEW XML JUST UNDER HERE-->
-
+<item>
+<title>Alice at the New York State Library</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Interviewing Casey Scott Leach in Echoing Grandeur</itunes:subtitle>
+<itunes:summary>Alice Fraser interviews Performance Poet, Casey Scott Leach.</itunes:summary>
+<enclosure url="https://s3-ap-southeast-2.amazonaws.com/alicepodcast/002_Alice_at_the_New_York_State_Library.mp3" length="8482064" type="audio/mp3"/>
+<pubDate>Sat, 21 Dec 2013 09:52:35 EST</pubDate>
+<itunes:duration>08:50</itunes:duration>
+</item>
 <item>
 <title>Pat Test's the Podcast System</title>
 <itunes:author>Alice Fraser</itunes:author>
