@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+
+<script>
+$(document).ready(function(){
+  $("#createScript").submit(function(event){
+      event.preventDefault();
+
+      // look for results and delete all if submit hit again.
+
+      var episodeNumber = $(event.target).find('[name=episodeNumber]').val();
+      var fileSize = $(event.target).find('[name=fileSize]').val();
+      var title = $(event.target).find('[name=title]').val();
+      var subtitle = $(event.target).find('[name=subtitle]').val();
+      var summary = $(event.target).find('[name=summary]').val();
+      var duration = $(event.target).find('[name=duration]').val();
+
+      var fileName = episodeNumber + '_' + title.split(' ').join('_') + '.mp3';
+      d = new Date().toString().split(' ');
+      var formatDate = d[0] + ', ' + d[2] + ' ' + d[1] + ' ' + d[3] + ' ' + d[4] + ' ' + d[6].replace('(', '').replace(')', '');
+
+      var xmlGenerated = '<item>\n<title>'+ title +'</title>\n<itunes:author>Alice Fraser</itunes:author>\n<itunes:subtitle>'+ subtitle +'</itunes:subtitle>\n<itunes:summary>'+ summary +'</itunes:summary>\n<enclosure url="https://s3-ap-southeast-2.amazonaws.com/alicepodcast/' + fileName + '" length="' + fileSize + '" type="audio/mp3"/>\n<pubDate>' + formatDate + '</pubDate>\n<itunes:duration>' + duration + '</itunes:duration>\n</item>'
+
+      $('#fileName').val(fileName);
+      $('#xmlGenerated').val(xmlGenerated);
+
+
+    });
+});
+</script>
+
+
+</head>
+<body>
+
+This is Pat's little Podcast XML generator. Built for Ali with much, much Love.
+<br>
+<br>
+Things I need...
+<ol>
+  <li>1400x1400-pixel JPG cover art for the podcast picture.  Apple says: "Good cover art communicates the value of the podcast with a simple picture and a few words. Before you create your podcast cover art, go to the Podcasts page in the iTunes Store, click Top Podcasts, and note which cover art works best and why."</li>
+  <li>Need a subtitle for the show.</li>
+  <li>Need an iTunes summary about the podcast.</li>
+  <li>Need to know which iTunes categories you fall into.  There are also apparently subcategories, let me know if you fall into one of them.</li>
+</ol>
+
+<br>
+<br>
+
+<b>Things to Remember</b>
+<ul>
+  <li>The podcasts you upload need to be in mp3 format.</li>
+  <li>For a refresher on the iTunes RSS tags, <a href="https://www.apple.com/itunes/podcasts/specs.html#rss" target="_blank">check this out</a></li>
+  <li>Don't worry about losing stuff if you click on the links.  I've worked it so a new tab opens, rather than navigating away from the page.</li>
+  <li>RSS has some tricky character rules.  Don't use unusual characters like "&". </li>
+
+</ul>
+
+<b>Steps for a New Podcast</b>
+<ol>
+  <li>Fill out all the fields below.  The fields below provide the information for each episode.</li>
+  <li>Hit the "Submit" button when you've filled all the fields out.</li>
+  <li>The results will appear down the bottom of the page.</li>
+  <li>Using the result under the heading "file name", rename the mp3 file of the podcast.</li>
+  <li>Login at Amazon web services by going <a href="http://aws.amazon.com" target="_blank">here</a>, then clicking on sign-up (in the top right), then signing in with your Amazon login.</li>
+  <li>Then click <a href="https://console.aws.amazon.com/s3/home?region=ap-southeast-2" target="_blank">this link</a> to get to the "bucket".</li>
+  <li>Click on the "bucket" called "alicepodcast".</li>
+  <li>Click "Upload".  Then click "Add Files".  Just select the Mp3 from your computer.</li>
+  <li>In the bottom right hand corner, click "Start Upload".</li>
+  <li>Now go to the feed code on alicecomedyfraser on github by clicking <a href="https://github.com/alicerfraser/alicecomedyfraser/blob/gh-pages/podcast.rss" target="_blank">here</a>.</li>
+  <li>Find the bit that says "INSERT NEW XML JUST UNDER HERE", and on the line beneath, add the XML that was generated on this page under the title "RSS Feed XML".</li>
+  <li>Save the Github page, then check that the feed updated properlby by going <a target="_blank" href="http://alicecomedyfraser.com/podcast.rss">here</a>. </li>
+
+
+</ol>
+
+<br>
+<b></b>
+
+
+<form id="createScript">
+  <b>Episode Number</b> - Fill this out with three digits.  Episode number 20 will be "020", for instance.<br>
+  <textarea type='text' rows="5" cols="60" name="episodeNumber"></textarea>
+  <br><br>
+  <b>File Size</b> - Fill this out by right clicking on the mp3, hitting "Get Info", and type in the number of "bytes" (which will be large).<br>
+  <textarea type='text' rows="5" cols="60" name="fileSize"></textarea>
+  <br><br>
+  <b>Title</b> - Title of the Podcast: maximum [*] words.<br>
+  <textarea type='text' rows="5" cols="60" name="title"></textarea>
+  <br><br>
+
+  <b>Subtitle</b> - Subtitle of the Podcast: maximum [*] words.<br>
+  <textarea type='text' rows="5" cols="60" name="subtitle"></textarea>
+  <br><br>
+
+  <b>Summary</b> - Summary of the Podcast: maximum [*] words.<br>
+  <textarea type='text' rows="5" cols="60" name="summary"></textarea>
+  <br><br>
+
+  <b>Duration</b> - Duration of the Podcast - Format: 10 minutes and 5 seconds would look like this: "10:05".<br>
+  <textarea type='text' rows="5" cols="60" name="duration"></textarea>
+  <br><br>
+
+
+
+
+  <input id="submitForm" type="submit" value="Submit">
+</form>
+
+
+<br><br>
+
+<b>File Name</b><br>
+<textarea rows="2" cols="100" id="fileName">
+</textarea>
+
+<br><br>
+<b>Generated XML</b>
+<br><textarea rows="20" cols="130" id="xmlGenerated">
+</textarea>
+
+<br><br>
+<br><br>
+
+</body>
+</html>
