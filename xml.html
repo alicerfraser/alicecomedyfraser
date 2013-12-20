@@ -5,10 +5,12 @@
 
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <link rel="stylesheet" href="css/bootstrap.css">
 
 
 <script>
 $(document).ready(function(){
+  $('textarea').addClass('span7')
   $("#createScript").submit(function(event){
       event.preventDefault();
 
@@ -39,15 +41,14 @@ $(document).ready(function(){
 </head>
 <body>
 
-This is Pat's little Podcast XML generator. Built for Ali with much, much Love.
+<div style="padding:50px;">
+
+<h4>This is Pat's little Podcast XML generator. Built for Ali with much, much Love.</h4>
 <br>
 <br>
 Things I need...
 <ol>
   <li>1400x1400-pixel JPG cover art for the podcast picture.  Apple says: "Good cover art communicates the value of the podcast with a simple picture and a few words. Before you create your podcast cover art, go to the Podcasts page in the iTunes Store, click Top Podcasts, and note which cover art works best and why."</li>
-  <li>Need a subtitle for the show.</li>
-  <li>Need an iTunes summary about the podcast.</li>
-  <li>Need to know which iTunes categories you fall into.  There are also apparently subcategories, let me know if you fall into one of them.</li>
 </ol>
 
 <br>
@@ -85,32 +86,32 @@ Things I need...
 
 
 <form id="createScript">
-  <b>Episode Number</b> - Fill this out with three digits.  Episode number 20 will be "020", for instance.<br>
-  <textarea type='text' rows="5" cols="60" name="episodeNumber"></textarea>
+  <p><b>Episode Number</b> - Fill this out with three digits.  Episode number 20 will be "020", for instance.<br></p>
+  <textarea type='text' rows="5" cols="60" name="episodeNumber" class="span7"></textarea>
   <br><br>
-  <b>File Size</b> - Fill this out by right clicking on the mp3, hitting "Get Info", and type in the number of "bytes" (which will be large).<br>
+  <p><b>File Size</b> - Fill this out by right clicking on the mp3, hitting "Get Info", and type in the number of "bytes" (which will be large).<br></p>
   <textarea type='text' rows="5" cols="60" name="fileSize"></textarea>
   <br><br>
-  <b>Title</b> - Title of the Podcast: maximum [*] words.<br>
+  <p><b>Title</b> - Title of the Podcast: maximum [*] words.<br></p>
   <textarea type='text' rows="5" cols="60" name="title"></textarea>
   <br><br>
 
-  <b>Subtitle</b> - Subtitle of the Podcast: maximum [*] words.<br>
+  <p><b>Subtitle</b> - Subtitle of the Podcast: maximum [*] words.<br></p>
   <textarea type='text' rows="5" cols="60" name="subtitle"></textarea>
   <br><br>
 
-  <b>Summary</b> - Summary of the Podcast: maximum [*] words.<br>
+  <p><b>Summary</b> - Summary of the Podcast: maximum [*] words.<br></p>
   <textarea type='text' rows="5" cols="60" name="summary"></textarea>
   <br><br>
 
-  <b>Duration</b> - Duration of the Podcast - Format: 10 minutes and 5 seconds would look like this: "10:05".<br>
+  <p><b>Duration</b> - Duration of the Podcast - Format: 10 minutes and 5 seconds would look like this: "10:05".<br></p>
   <textarea type='text' rows="5" cols="60" name="duration"></textarea>
   <br><br>
 
 
 
 
-  <input id="submitForm" type="submit" value="Submit">
+  <input id="submitForm" type="submit" value="Submit" class="btn btn-info">
 </form>
 
 
@@ -127,6 +128,8 @@ Things I need...
 
 <br><br>
 <br><br>
+
+</div>
 
 </body>
 </html>
