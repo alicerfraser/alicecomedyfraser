@@ -1,109 +1,687 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-
-<channel>
-
-<title>All About Everything</title>
-
-<link>http://www.example.com/podcasts/everything/index.html</link>
-
-<language>en-us</language>
-
-<copyright>&#x2117; &amp; &#xA9; 2005 John Doe &amp; Family</copyright>
-
-<itunes:subtitle>A show about everything</itunes:subtitle>
-
-<itunes:author>John Doe</itunes:author>
-
-<itunes:summary>All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our Podcast in the iTunes Store</itunes:summary>
-
-<description>All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our Podcast in the iTunes Store</description>
-
-<itunes:owner>
-
-<itunes:name>John Doe</itunes:name>
-
-<itunes:email>john.doe@example.com</itunes:email>
-
-</itunes:owner>
-
-<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg" />
-
-<itunes:category text="Technology">
-
-<itunes:category text="Gadgets"/>
-
-</itunes:category>
-
-<itunes:category text="TV &amp; Film"/>
-
-<item>
-
-<title>Shake Shake Shake Your Spices</title>
-
-<itunes:author>John Doe</itunes:author>
-
-<itunes:subtitle>A short primer on table spices</itunes:subtitle>
-
-<itunes:summary>This week we talk about salt and pepper shakers, comparing and contrasting pour rates, construction materials, and overall aesthetics. Come and join the party!</itunes:summary>
-
-<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg" />
-
-<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode3.m4a" length="8727310" type="audio/x-m4a" />
-
-<guid>http://example.com/podcasts/archive/aae20050615.m4a</guid>
-
-<pubDate>Wed, 15 Jun 2005 19:00:00 GMT</pubDate>
-
-<itunes:duration>7:04</itunes:duration>
-
-</item>
-
-<item>
-
-<title>Socket Wrench Shootout</title>
-
-<itunes:author>Jane Doe</itunes:author>
-
-<itunes:subtitle>Comparing socket wrenches is fun!</itunes:subtitle>
-
-<itunes:summary>This week we talk about metric vs. old english socket wrenches. Which one is better? Do you really need both? Get all of your answers here.</itunes:summary>
-
-<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg" />
-
-<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mp3" length="5650889" type="audio/mpeg" />
-
-<guid>http://example.com/podcasts/archive/aae20050608.mp3</guid>
-
-<pubDate>Wed, 8 Jun 2005 19:00:00 GMT</pubDate>
-
-<itunes:duration>4:34</itunes:duration>
-
-</item>
-
-<item>
-
-<title>Red, Whine, &amp; Blue</title>
-
-<itunes:author>Various</itunes:author>
-
-<itunes:subtitle>Red + Blue != Purple</itunes:subtitle>
-
-<itunes:summary>This week we talk about surviving in a Red state if you are a Blue person. Or vice versa.</itunes:summary>
-
-<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode3.jpg" />
-
-<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode1.mp3" length="4989537" type="audio/mpeg" />
-
-<guid>http://example.com/podcasts/archive/aae20050601.mp3</guid>
-
-<pubDate>Wed, 1 Jun 2005 19:00:00 GMT</pubDate>
-
-<itunes:duration>3:59</itunes:duration>
-
-</item>
-
-</channel>
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://wtfpod.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>WTF with Marc Maron Podcast</title>
+		<pubDate>Wed, 18 Dec 2013 08:18:18 +0000</pubDate>
+		<lastBuildDate>Thu, 19 Dec 2013 14:21:42 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://wtfpod.com</link>
+		<language>en</language>
+		<copyright><![CDATA[2012.]]></copyright>
+		<docs>http://wtfpod.com</docs>
+		<managingEditor>wtfpod@gmail.com (wtfpod@gmail.com)</managingEditor>
+		<description><![CDATA[Comedian Marc Maron is tackling the most complex philosophical question of our day - WTF? He'll get to the bottom of it with help from comedian friends, celebrity guests and the voices in his own head.]]></description>
+		<image>
+			<url>http://assets.libsyn.com/content/1827929.jpg</url>
+			<title>WTF with Marc Maron Podcast</title>
+			<link><![CDATA[http://wtfpod.com]]></link>
+		</image>
+		<itunes:author>Marc Maron</itunes:author>
+	<itunes:category text="Comedy"/>
+	<itunes:category text="Arts">
+		<itunes:category text="Performing Arts"/>
+	</itunes:category>
+	<itunes:category text="TV &amp; Film"/>
+		<itunes:image href="http://assets.libsyn.com/content/1827929.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Marc Maron]]></itunes:name>
+			<itunes:email>wtfpod@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:summary><![CDATA[Comedian Marc Maron is tackling the most complex philosophical question of our day - WTF? He'll get to the bottom of it with help from comedian friends, celebrity guests and the voices in his own head.]]></itunes:summary>
+		<itunes:subtitle><![CDATA[Get all your WTF needs at wtfpod.com]]></itunes:subtitle>
+				<item>
+			<title>Episode 453 - Allan Havey</title>
+			<pubDate>Wed, 18 Dec 2013 08:18:17 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a668929596b84983a9dd4a1fe30109a3]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-453-allan-havey]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2598654" />
+			<description><![CDATA[<p>Marc considers Allan Havey to be one of the great club comics in America. Maybe that's why he was so intimidated by Allan when they used to cross paths in the 80s and 90s. Allan sits down with Marc to talk about some of the other paths he crossed - JFK, Ted Bundy, mobsters - before finding success as a talk show host at the dawn of Comedy Central and becoming a stand-up with a lasting influence on many of today's comics. This episode is sponsored by <a href="http://proflowers.com" target="_blank">Pro Flowers</a> and <a href="http://berries.com" target="_blank">Shari's Berries</a>.&nbsp;</p>]]></description>
+			<enclosure length="24687338" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_453_ALLAN_HAVEY.mp3" />
+			<itunes:duration>01:21:53</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marc considers Allan Havey to be one of the great club comics in America. Maybe that's why he was so intimidated by Allan when they used to cross paths in the 80s and 90s. Allan sits down with Marc to talk about some of the other paths he crossed -...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 452 - Jon Wurster, Mike Vecchione, Scott Aukerman, Kyle Dunnigan</title>
+			<pubDate>Mon, 16 Dec 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[72fb61662f98d7412cd792f0f5604574]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-452-jon-wurster-mike-vecchione-scott-aukerman-kyle-dunnigan]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2595070" />
+			<description><![CDATA[<p>Live from Bumbershoot 2013 in Seattle, Marc hunkers down with a fantastic foursome. Jon Wurster reveals what it was like to play drums for Katy Perry. Mike Vecchione commiserates with Marc over father issues. Scott Aukerman tries to figure out when he and Marc started being nice to each other. And as the show hurtles toward the finish line, Kyle Dunnigan is in danger of getting bumped. Will he make it? This episode is sponsored by <a target="_blank" href="http://stamps.com">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial with a $110 bonus offer.</p>]]></description>
+			<enclosure length="19929600" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_452_BUMBERSHOOT_2013mp3.mp3" />
+			<itunes:duration>01:06:01</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Live from Bumbershoot 2013 in Seattle, Marc hunkers down with a fantastic foursome. Jon Wurster reveals what it was like to play drums for Katy Perry. Mike Vecchione commiserates with Marc over father issues. Scott Aukerman tries to figure out when he...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 451 - Yakov Smirnoff</title>
+			<pubDate>Thu, 12 Dec 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2bd7295c1eb5d1aba686bf9775681fd9]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-451-yakov-smirnoff]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2590102" />
+			<description><![CDATA[<p>Yakov Smirnoff is the only guest who ever had to submit his material to the Soviet Ministry of Jokes. He has a lot less pressure in the garage talking with Marc about coming to America, landing a job at The Comedy Store, rocketing to stand-up stardom in the 80s and watching it all crumble away along with the fall of the Berlin Wall. Then hear the surprising way Yakov reinvented himself in comedy, as well as in life. This episode is sponsored by <a href="http://huluplus.com" target="_blank">HuluPlus</a>, <a href="http://proflowers.com" target="_blank">ProFlowers</a>, <a href="http://berries.com" target="_blank">Shari's Berries</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.&nbsp;</p>]]></description>
+			<enclosure length="23080928" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_451_YAKOV_SMIRNOFF.mp3" />
+			<itunes:duration>01:16:32</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Yakov Smirnoff is the only guest who ever had to submit his material to the Soviet Ministry of Jokes. He has a lot less pressure in the garage talking with Marc about coming to America, landing a job at The Comedy Store, rocketing to stand-up stardom...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 450 - Will Ferrell</title>
+			<pubDate>Mon, 09 Dec 2013 08:08:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[74e57eae46ac23f9d2e9d4bc27168dd9]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-450-will-ferrell]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2585965" />
+			<description><![CDATA[<p>Will Ferrell shares the full story of his rise to comedy superstardom, from his days trying to make it as a stand-up comic to his "graduate work" with The Groundlings to his standout run on SNL to his unstoppable movie career. Plus, Will provides inside stories about some of his most popular projects, like Anchorman, Eastbound and Down, and Old School. This episode is sponsored by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial with a $110 bonus offer.</p>]]></description>
+			<enclosure length="27398098" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_450_WILL_FERRELL.mp3" />
+			<itunes:duration>01:30:55</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Will Ferrell shares the full story of his rise to comedy superstardom, from his days trying to make it as a stand-up comic to his "graduate work" with The Groundlings to his standout run on SNL to his unstoppable movie career. Plus, Will provides...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 449 - Ken Marino</title>
+			<pubDate>Thu, 05 Dec 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d3276df7ac6a847e2f9a487fd2a7d1bf]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-449-ken-marino]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2580296" />
+			<description><![CDATA[<p>Marc continues his quest to speak with every member of The State by inviting Ken Marino into the garage. Ken spills some behind-the-scenes stories about The State, as well as other fan-favorites like Wet Hot American Summer, Party Down and Burning Love. But Ken isn't all about comedy. He also reveals his expertise on subjects like plumbing and clam digging. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://audiblepodcast.com/wtfpod" target="_blank">Audible</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="23712482" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_449_KEN_MARINO.mp3" />
+			<itunes:duration>01:18:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marc continues his quest to speak with every member of The State by inviting Ken Marino into the garage. Ken spills some behind-the-scenes stories about The State, as well as other fan-favorites like Wet Hot American Summer, Party Down and Burning...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 448 - Lou Barlow</title>
+			<pubDate>Mon, 02 Dec 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[bcd693918e37feee57a3e5bb78deb7de]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-448-lou-barlow]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2575339" />
+			<description><![CDATA[<p>More than 100 episodes later, indie rock legend Lou Barlow is in the garage for a follow-up to Marc's talk with Dinosaur Jr's J Mascis. Lou gives his side to the initial break-up of Dinosaur Jr and talks about the formation of his other bands, Sebadoh and The Folk Implosion. Lou also gets into some of the roadblocks in his personal life leading up to his latest album. This episode is sponsored by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial.</p>]]></description>
+			<enclosure length="26727820" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_448_LOU_BARLOW.mp3" />
+			<itunes:duration>01:28:41</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[More than 100 episodes later, indie rock legend Lou Barlow is in the garage for a follow-up to Marc's talk with Dinosaur Jr's J Mascis. Lou gives his side to the initial break-up of Dinosaur Jr and talks about the formation of his other bands, Sebadoh...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 447 - John Heffron</title>
+			<pubDate>Thu, 28 Nov 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d8af7457d0c43e655f6a011ad13b6bc8]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-447-john-heffron]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2571906" />
+			<description><![CDATA[<p>Thanksgiving. A perfect time to be thankful for all that stand-up comedy has to offer. Marc and comedian John Heffron give you the nitty-gritty on virtually everything it takes to make a living as a stand-up comic. In addition to the tricks of the trade, John tells Marc about the way he's been able to carve out a place for himself in stand-up comedy, including an ill-fated stint as Danny Bonaduce's sidekick. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a>, <a href="http://audiblepodcast.com/wtfpod" target="_blank">Audible</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.&nbsp;</p>]]></description>
+			<enclosure length="23946210" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_447_JOHN_HEFFRON.mp3" />
+			<itunes:duration>01:19:24</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Thanksgiving. A perfect time to be thankful for all that stand-up comedy has to offer. Marc and comedian John Heffron give you the nitty-gritty on virtually everything it takes to make a living as a stand-up comic. In addition to the tricks of the...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 446 - Larry King</title>
+			<pubDate>Mon, 25 Nov 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6733420527d200d4d155019a413cfe6e]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-446-larry-king]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2566144" />
+			<description><![CDATA[<p>It turns out Larry King is a stickler for time, which means this WTF gets off to a rocky start. Is Marc able to turn things around? There's lots to talk about with Larry - his relationship with Jackie Gleason, being a father again at 80, interviewing presidents. Will Marc and Larry be able to overcome an early miscommunication so they can get to the good stuff? This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting</a>. Get started today by clicking the Try It Free button and using the promo code WTF.</p>]]></description>
+			<enclosure length="19762152" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_446_LARRY_KING.mp3" />
+			<itunes:duration>01:05:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[It turns out Larry King is a stickler for time, which means this WTF gets off to a rocky start. Is Marc able to turn things around? There's lots to talk about with Larry - his relationship with Jackie Gleason, being a father again at 80, interviewing...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 445 - Edgar Wright</title>
+			<pubDate>Thu, 21 Nov 2013 08:47:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d9e0671eff2f3a6677d90d88e40839bd]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-445-edgar-wright]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2560681" />
+			<description><![CDATA[<p>Director Edgar Wright is in the garage to tell Marc how his lifelong obsession with television and movies of every stripe led him to developing a distinctive style for his movies like Shaun of the Dead, Scott Pilgrim and The World's End. Also, Edgar reveals how his mother's conspiracy theories about the Freemasons running Edgar's childhood town spawned the plot of Hot Fuzz. This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting by Citrix</a>. Try it free right now using the offer code WTF.</p>]]></description>
+			<enclosure length="28378558" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_445_EDGAR_WRIGHT.mp3" />
+			<itunes:duration>01:34:11</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Director Edgar Wright is in the garage to tell Marc how his lifelong obsession with television and movies of every stripe led him to developing a distinctive style for his movies like Shaun of the Dead, Scott Pilgrim and The World's End. Also, Edgar...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 444 - CM Punk</title>
+			<pubDate>Mon, 18 Nov 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8ead98abce7fc98ccf74ae65be17827a]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-444-cm-punk]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2554706" />
+			<description><![CDATA[<p>CM Punk's fans know him as The Best In The World and his status as one of the top stars in professional wrestling backs up that claim. He joins Marc in the garage to talk about his unorthodox rise to the pinnacle of his profession, the moment of total honesty that changed his career, and why he shares Marc's loathing for preparation. This episode is sponsored by Stamps.com. Click on the radio mic and enter WTF to start a no-risk trial with a $110 bonus offer.</p>]]></description>
+			<enclosure length="24992970" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_444_CM_PUNK.mp3" />
+			<itunes:duration>01:22:54</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[CM Punk's fans know him as The Best In The World and his status as one of the top stars in professional wrestling backs up that claim. He joins Marc in the garage to talk about his unorthodox rise to the pinnacle of his profession, the moment of total...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 443 - Barry Crimmins</title>
+			<pubDate>Fri, 15 Nov 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[402106bfe3ba651eb0a1478ea8d81006]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-443-barry-crimmins]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2552163" />
+			<description><![CDATA[<p>Barry Crimmins is a peerless political satirist, but he's also the founder of one of the most important clubs in the Boston comedy scene. Marc talks with Barry about shaping political activism into a comedy act, as well as the deeply traumatic events in his life that gave rise to his political worldview and his comedy. This episode is sponsored by <a href="http://www.hbo.com/comedy/sarah-silverman-we-are-miracles" target="_blank">"Sarah Silverman: We Are Miracles" on HBO</a>, Saturday, November 23. Also sponsored by <a href="http://legalzoom.com" target="_blank">LegalZoom</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="23316618" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_443_BARRY_CRIMMINS.mp3" />
+			<itunes:duration>01:17:19</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Barry Crimmins is a peerless political satirist, but he's also the founder of one of the most important clubs in the Boston comedy scene. Marc talks with Barry about shaping political activism into a comedy act, as well as the deeply traumatic events...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 442 - The Figgs</title>
+			<pubDate>Wed, 13 Nov 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b9b0ccdb780f2a840dd9cfdfb65e956b]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-442-the-figgs]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2548969" />
+			<description><![CDATA[<p>Mike, Pete and Pete from the rock group The Figgs cram into the garage, instruments in hand, for a little talking and a little jamming. The guys tell Marc what has kept them together for 20 years, how a car commercial gave them a second wind, and why they keep grinding it out when their lives have taken them all in very different directions. This episode is sponsored by <a href="http://mergerecords.com" target="_blank">Merge Records</a>, <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a> and <a href="http://audiblepodcast.com/wtfpod" target="_blank">Audible</a>.</p>]]></description>
+			<enclosure length="21391838" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_442_THE_FIGGS.mp3" />
+			<itunes:duration>01:10:54</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Mike, Pete and Pete from the rock group The Figgs cram into the garage, instruments in hand, for a little talking and a little jamming. The guys tell Marc what has kept them together for 20 years, how a car commercial gave them a second wind, and why...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 441 - Illeana Douglas</title>
+			<pubDate>Mon, 11 Nov 2013 08:13:24 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2e560ca92408f65fe1e67983c644d51c]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-441-illeana-douglas]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2546125" />
+			<description><![CDATA[<p>Illeana Douglas plays Marc's good friend on "Maron" but here in the garage they're really just getting to know each other. Illeana tells Marc about kicking off her acting career in films like Goodfellas and Cape Fear, what she learned from her relationship with Martin Scorsese, and why she gave up on stand-up comedy. This episode is sponsored by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial.</p>]]></description>
+			<enclosure length="25575890" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_441_ILLEANA_DOUGLAS.mp3" />
+			<itunes:duration>01:24:50</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Illeana Douglas plays Marc's good friend on "Maron" but here in the garage they're really just getting to know each other. Illeana tells Marc about kicking off her acting career in films like Goodfellas and Cape Fear, what she learned from her...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 440 - Booker T. Jones</title>
+			<pubDate>Fri, 08 Nov 2013 10:12:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4626388e981431c3f4509bc362e77b7c]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-440-booker-t-jones]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2542384" />
+			<description><![CDATA[<p>Fire up that Hammond organ because rock and roll Hall of Famer Booker T. Jones is at the Cat Ranch. Marc talks with Booker T. about the sound he created at Stax Records and the many hit songs he wrote while working with a who's who of music royalty. Also, Marc's buddy Jerry Stahl drops by the garage to talk about his new novel, Happy Mutant Baby Pills. This episode is sponsored by LegalZoom, Warby Parker and Adam &amp; Eve.</p>
+<p></p>]]></description>
+			<enclosure length="26212370" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_440_BOOKER_T_JONES.mp3" />
+			<itunes:duration>01:26:58</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Fire up that Hammond organ because rock and roll Hall of Famer Booker T. Jones is at the Cat Ranch. Marc talks with Booker T. about the sound he created at Stax Records and the many hit songs he wrote while working with a who's who of music royalty....]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 439 - Eddie Izzard, Trevor Noah, Tig Notaro, Big Jay Oakerson, Seth Meyers</title>
+			<pubDate>Wed, 06 Nov 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f297b0f728ec634bfa9e9886a5097216]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-439-eddie-izzard-trevor-noah-tig-notaro-big-jay-oakerson-seth-meyers]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2538871" />
+			<description><![CDATA[<p>Seth Meyers kicks the tires on this whole hosting-an-interview-show thing. Big Jay Oakerson wrestles with an awkward encounter of the thrid kind. Tig Notaro reflects on surviving the toughest period of her life. Trevor Noah explains what it's like to deal with comedy stemming from apartheid in South Africa. Eddie Izzard searches for a universal language. Live from Just For Laughs Montreal. This episode is sponsored by <a href="http://stamps.com" target="_blank">Stamps.com</a>.</p>]]></description>
+			<enclosure length="21048378" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_439_LIVE_MONTREAL.mp3" />
+			<itunes:duration>01:09:45</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Seth Meyers kicks the tires on this whole hosting-an-interview-show thing. Big Jay Oakerson wrestles with an awkward encounter of the thrid kind. Tig Notaro reflects on surviving the toughest period of her life. Trevor Noah explains what it's like to...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 438 - Sally Kellerman</title>
+			<pubDate>Mon, 04 Nov 2013 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[07a8dc9f180100a2f6122ee783410f59]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-438-sally-kellerman]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2535617" />
+			<description><![CDATA[<p>Marc's TV mom, Sally Kellerman, joins him in the garage to talk about her career in show business and how some of the biggest names in Hollywood history played roles in her life. In between stories about Robert Altman and Marlon Brando and Henry Kissinger and Rodney Dangerfield, Sally tells Marc about figuring out she had an addiction and what made her quit this drug of choice. This episode is sponsored by <a href="http://screen.yahoo.com/projectimagination/" target="_blank">Canon and the Project Imagination Film Festival</a>.&nbsp;</p>]]></description>
+			<enclosure length="22430018" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_438_SALLY_KELLERMAN.mp3" />
+			<itunes:duration>01:14:21</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marc's TV mom, Sally Kellerman, joins him in the garage to talk about her career in show business and how some of the biggest names in Hollywood history played roles in her life. In between stories about Robert Altman and Marlon Brando and Henry...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 437 - Elijah Wood</title>
+			<pubDate>Thu, 31 Oct 2013 07:14:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7547f8633a790532e6e36d74bb54ecb7]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-437-elijah-wood]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2530792" />
+			<description><![CDATA[<p>Elijah Wood and Marc bond over their respective vinyl collections before launching into a wide-ranging conversation about movies, fame and privacy. Elijah tells Marc about his experiences making The Lord of the Rings, Eternal Sunshine of the Spotless Mind, The Ice Storm and other films that shaped the culture. Plus, Elijah spares no detail in describing what it was like for him to do stand-up comedy for the first time. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>, <a href="http://squarespace.com" target="_blank">Squarespace</a> and <a href="http://legalzoom.com" target="_blank">LegalZoom</a>.</p>]]></description>
+			<enclosure length="27867918" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_437_ELIJAH_WOOD.mp3" />
+			<itunes:duration>01:32:29</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Elijah Wood and Marc bond over their respective vinyl collections before launching into a wide-ranging conversation about movies, fame and privacy. Elijah tells Marc about his experiences making The Lord of the Rings, Eternal Sunshine of the Spotless...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 436 - Johnny Knoxville</title>
+			<pubDate>Mon, 28 Oct 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f4ea1e7f14f7ca54a7866afcd4111a9f]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-436-johnny-knoxville]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2525829" />
+			<description><![CDATA[<p>Johnny Knoxville shows up to the garage with his hand in a splint, which is appropriate for the guy behind Jackass and Bad Grandpa. Marc talks to Johnny about where his prankster nature comes from and why he's compelled to risk his safety for the best stunts. Johnny also talks about the moving tributes paid to his late friend Ryan Dunn. This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting from Citrix</a>. Try It Free by entering the promo code WTF.</p>]]></description>
+			<enclosure length="22768930" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_436_JOHNNY_KNOXVILLE.mp3" />
+			<itunes:duration>01:15:29</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Johnny Knoxville shows up to the garage with his hand in a splint, which is appropriate for the guy behind Jackass and Bad Grandpa. Marc talks to Johnny about where his prankster nature comes from and why he's compelled to risk his safety for the best...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 435 - Jim Breuer</title>
+			<pubDate>Thu, 24 Oct 2013 07:43:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6b224a46f94d35df195d120845988e97]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-435-jim-breuer]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2521367" />
+			<description><![CDATA[<p>Comedian Jim Breuer is more open and candid about his time at Saturday Night Live than any former SNL alum who has been in the garage. Jim also provides Marc with a big missing piece about a pivitol moment in Marc's life. Plus, Jim shares the stories behind two heartbreaking lost opportunities of his career and explains how a meeting with Bill Cosby gave him the inspiration to pave his own way in comedy. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a>, <a href="http://audiblepodcast.com/wtfpod" target="_blank">Audible</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="28658188" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_435_JIM_BREUER.mp3" />
+			<itunes:duration>01:35:07</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Comedian Jim Breuer is more open and candid about his time at Saturday Night Live than any former SNL alum who has been in the garage. Jim also provides Marc with a big missing piece about a pivitol moment in Marc's life. Plus, Jim shares the stories...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 434 - Moon Zappa</title>
+			<pubDate>Mon, 21 Oct 2013 07:08:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0ec1e8085ad03a8c3eb128f77e1c532e]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-434-moon-zappa]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2517153" />
+			<description><![CDATA[<p>Marc rekindles his old friendship with Moon Zappa, the actress-writer-comedian and daughter of Frank Zappa, who has a lot to reflect on with Marc as they both enter similar times in their lives. Also, Daniel Nazer of the Electronic Frontier Foundation gets on the phone to update everyone on the latest news regarding the fight to save podcasting from patent trolls. This episode is sponsored by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial with a $110 bonus offer.</p>]]></description>
+			<enclosure length="24359998" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_434_MOON_ZAPPA.mp3" />
+			<itunes:duration>01:20:47</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marc rekindles his old friendship with Moon Zappa, the actress-writer-comedian and daughter of Frank Zappa, who has a lot to reflect on with Marc as they both enter similar times in their lives. Also, Daniel Nazer of the Electronic Frontier Foundation...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 433 - Simon Majumdar</title>
+			<pubDate>Thu, 17 Oct 2013 08:37:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[165e109271fc7800b1d3f7637cd3cf0c]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-433-simon-majumdar]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2512410" />
+			<description><![CDATA[<p>Simon Majumdar considers himself a good cook but will not consider himself a chef. He talks with Marc about the distinction between the two terms and how that distinction has played into his life as a food critic and a judge on The Next Iron Chef. Plus, Simon shares the one sentence that he believes paved the way for his entire career. This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting by Citrix</a>. Try it free now using the offer code WTF.</p>]]></description>
+			<enclosure length="24239620" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_433_SIMON_MAJUMDAR.mp3" />
+			<itunes:duration>01:20:23</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Simon Majumdar considers himself a good cook but will not consider himself a chef. He talks with Marc about the distinction between the two terms and how that distinction has played into his life as a food critic and a judge on The Next Iron Chef....]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 432 - Natasha Lyonne</title>
+			<pubDate>Mon, 14 Oct 2013 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8452a5bc1eae83336afec93751128ee1]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-432-natasha-lyonne]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2508142" />
+			<description><![CDATA[<p>Natasha Lyonne shares her story with Marc, and what a story it is. In addition to a tremendously accomplished acting career, Natasha emerged from the other side of a harrowing experience with addiction. She tells Marc how she was able to make it out alive and where her life has gone from there. This episode is sponsored by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial with a $110 bonus offer.</p>]]></description>
+			<enclosure length="24707098" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_432_NATASHA_LYONNE.mp3" />
+			<itunes:duration>01:21:57</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Natasha Lyonne shares her story with Marc, and what a story it is. In addition to a tremendously accomplished acting career, Natasha emerged from the other side of a harrowing experience with addiction. She tells Marc how she was able to make it out...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 431 - Josh Homme</title>
+			<pubDate>Thu, 10 Oct 2013 08:59:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[bbf1fb2f3fc6689d391a9759c1c1be0a]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-431-josh-homme]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2503693" />
+			<description><![CDATA[<p>Queens of the Stone Age frontman Josh Homme was instrumental in helping Marc through a dark time in his life, thanks to the music of Josh's old band Kyuss. Similarly, Josh explains how he dragged himself out of the darkness by returning to music after a true life or death situation. Josh and Marc also talk about comedy, the creative process, ZZ Top, and life in the desert. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://squarespace.com" target="_blank">Squarespace</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>
+<p></p>]]></description>
+			<enclosure length="27575136" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_431_JOSH_HOMME.mp3" />
+			<itunes:duration>01:31:30</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Queens of the Stone Age frontman Josh Homme was instrumental in helping Marc through a dark time in his life, thanks to the music of Josh's old band Kyuss. Similarly, Josh explains how he dragged himself out of the darkness by returning to music after...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 430 - Laura Dern</title>
+			<pubDate>Mon, 07 Oct 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[173515ee5c2648b4972a3be7a0544aec]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-430-laura-dern]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2499414" />
+			<description><![CDATA[<p>Laura Dern is the garage to talk with Marc about her impressive career. Laura explains the reason she always gravitated toward risky, challenging projects like her collaborations with David Lynch, as well as the inspiration she found at a young age from her parents and their peers. Plus, Marc lobbies hard for a resurrection of Laura's show, Enlightened. This episode is sponsored by <a href="http://comedycentral.com" target="_blank">Comedy Central</a> and by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial.&nbsp;</p>]]></description>
+			<enclosure length="26442990" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_430_LAURA_DERN.mp3" />
+			<itunes:duration>01:27:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Laura Dern is the garage to talk with Marc about her impressive career. Laura explains the reason she always gravitated toward risky, challenging projects like her collaborations with David Lynch, as well as the inspiration she found at a young age...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 429 - Joey Diaz</title>
+			<pubDate>Thu, 03 Oct 2013 08:36:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8591d88d7ad58e77ce885237fca0241e]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-429-joey-diaz]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2494904" />
+			<description><![CDATA[<p>Joey Diaz provides another first for WTF: He's the first guest to begin a career in comedy while he was in prison. Joey and Marc catch up in the garage, where Joey divulges a backstory filled with drug dealing, gun running, burglary and other assorted felonies, and Marc tries to remember what he did one time to really get Joey riled up. This episode is sponsored by <a href="http://squarespace.com" target="_blank">Squarespace</a>, <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://audiblepodcast.com/wtfpod">Audible</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="29550768" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_429_JOEY_DIAZ.mp3" />
+			<itunes:duration>01:38:05</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Joey Diaz provides another first for WTF: He's the first guest to begin a career in comedy while he was in prison. Joey and Marc catch up in the garage, where Joey divulges a backstory filled with drug dealing, gun running, burglary and other assorted...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 428 - Curt Kirkwood</title>
+			<pubDate>Mon, 30 Sep 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7f42e223436dde861c6dfac752952c0a]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-428-curt-kirkwood]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2490580" />
+			<description><![CDATA[<p>Curt Kirkwood, founder and lead singer of the influential rock band the Meat Puppets, is the only WTF guest to survive a plane crash. Curt tells Marc about how that incident, as well as his obsession with almost every genre of music, shaped his life and his artistic output. This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting with HD Faces</a>. Click on the Try It Free button and use the offer code WTF.</p>]]></description>
+			<enclosure length="22279480" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_428_CURT_KIRKWOOD.mp3" />
+			<itunes:duration>01:13:51</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Curt Kirkwood, founder and lead singer of the influential rock band the Meat Puppets, is the only WTF guest to survive a plane crash. Curt tells Marc about how that incident, as well as his obsession with almost every genre of music, shaped his life...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 427 - Monty Hall</title>
+			<pubDate>Thu, 26 Sep 2013 08:26:09 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b0ce3766b03c2bc850193e8860bd1572]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-427-monty-hall]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2486137" />
+			<description><![CDATA[<p>Fresh off a Lifetime Achievement Award, television institution Monty Hall talks with Marc about his life and career. Monty takes Marc through his upbringing in Winnipeg, his genre-jumping work on the radio, and the process that led to creating Let's Make a Deal and making television history in the process. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a>, <a href="http://audiblepodcast.com/wtfpod" target="_blank">Audible</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="23462480" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_427_MONTY_HALL.mp3" />
+			<itunes:duration>01:17:48</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Fresh off a Lifetime Achievement Award, television institution Monty Hall talks with Marc about his life and career. Monty takes Marc through his upbringing in Winnipeg, his genre-jumping work on the radio, and the process that led to creating Let's...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 426 - Robert Wuhl</title>
+			<pubDate>Mon, 23 Sep 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a3dfdf222d1b9ee1353bfcaebb2bcd7e]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-426-robert-wuhl]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2481214" />
+			<description><![CDATA[<p>Most people remember Robert Wuhl from his performances in blockbuster movies like Batman and Bull Durham or from his HBO show Ariiss, but the bedrock of his career is stand-up comedy. Robert tells Marc how his success is linked to Rodney Dangerfield, The Dating Game, the Academy Awards and American history. This episode is sponsored by <a href="http://stamps.com" target="_blank">Comedy Central</a> and by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial.</p>]]></description>
+			<enclosure length="24945518" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_426_ROBERT_WUHL.mp3" />
+			<itunes:duration>01:22:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Most people remember Robert Wuhl from his performances in blockbuster movies like Batman and Bull Durham or from his HBO show Ariiss, but the bedrock of his career is stand-up comedy. Robert tells Marc how his success is linked to Rodney Dangerfield,...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 425 - Baratunde Thurston</title>
+			<pubDate>Thu, 19 Sep 2013 07:32:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[596038f344071b283fa7015401b5b896]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-425-baratunde-thurston]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2477528" />
+			<description><![CDATA[<p>Comedian Baratunde Thurston wrote the book "How To Be Black" but he struggled with that how-to for a good deal of his life. Baratunde tells Marc about coming of age after his father was killed, finding himself stigmitized by going to Harvard, and developing his own identiy in the tech world, which led to a job with The Onion. This episode is sponsored by <a href="http://huluplus.com" target="_blank">HuluPlus</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a>, <a href="http://audiblepodcast.com/wtfpod" target="_blank">Audible</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="28609308" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_425_BARATUNDE_THURSTON.mp3" />
+			<itunes:duration>01:34:57</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Comedian Baratunde Thurston wrote the book "How To Be Black" but he struggled with that how-to for a good deal of his life. Baratunde tells Marc about coming of age after his father was killed, finding himself stigmitized by going to Harvard, and...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 424 - Harris Wittels</title>
+			<pubDate>Mon, 16 Sep 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9106c167501998618f8d03ccf3c096d9]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-424-harris-wittels]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2473648" />
+			<description><![CDATA[<p>Parks and Recreation writer Harris Wittels is allergic to cats, but he sucked it up and sat in Marc's garage at the Cat Ranch anyway. Harris tells Marc how he got his start in comedy, what made Sarah Silverman want him to work on her show, and why he got to a point where he could no longer deal with his most infamous creation - the Humblebrag. &nbsp;This episode is sponsored by <a href="http://comedycentral.com" target="_blank">Comedy Central</a> and by <a href="http://stamps.com" target="_blank">Stamps.com</a>.</p>]]></description>
+			<enclosure length="22276488" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_424_HARRIS_WITTELS.mp3" />
+			<itunes:duration>01:13:51</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Parks and Recreation writer Harris Wittels is allergic to cats, but he sucked it up and sat in Marc's garage at the Cat Ranch anyway. Harris tells Marc how he got his start in comedy, what made Sarah Silverman want him to work on her show, and why he...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 423 - Hunt Sales</title>
+			<pubDate>Thu, 12 Sep 2013 08:41:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[484a4bd57c20ca0e4eda59afac39b481]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-423-hunt-sales]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2468975" />
+			<description><![CDATA[<p>Marc is a bit obsessed with legendary rock and roll drummer Hunt Sales. Not only did Hunt play with Iggy Pop, Todd Rundgren and David Bowie's Tin Machine, but his dad was Soupy Sales. Hunt tells Marc about his wild rock career and the show business life he was born into. Plus, Metalocalypse creator Brendon Small pops into the garage to show off his new guitar. This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting</a>. Click on the Try It Free button and use the offer code WTF to get started.</p>]]></description>
+			<enclosure length="26074570" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_423_HUNT_SALES.mp3" />
+			<itunes:duration>01:26:30</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marc is a bit obsessed with legendary rock and roll drummer Hunt Sales. Not only did Hunt play with Iggy Pop, Todd Rundgren and David Bowie's Tin Machine, but his dad was Soupy Sales. Hunt tells Marc about his wild rock career and the show business...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 422 - Dan Savage</title>
+			<pubDate>Mon, 09 Sep 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ab657ab8d0342258b50d9fba7fb29a28]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-422-dan-savage]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2465150" />
+			<description><![CDATA[<p>Writer, podcaster, advice columnist, activist and all-around good guy Dan Savage joins Marc in the garage for a wide-ranging chat about modern sexuality. From threesomes to monogamous matrimony, Dan and Marc talk about their respective sexual awakenings and how the country as a whole is on the verge of waking up, too. This episode is sponsored by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no risk trial with a $110 bonus offer.</p>]]></description>
+			<enclosure length="24793808" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_422_DAN_SAVAGE.mp3" />
+			<itunes:duration>01:22:14</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Writer, podcaster, advice columnist, activist and all-around good guy Dan Savage joins Marc in the garage for a wide-ranging chat about modern sexuality. From threesomes to monogamous matrimony, Dan and Marc talk about their respective sexual...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 421 - Kathryn Hahn and Jill Soloway</title>
+			<pubDate>Thu, 05 Sep 2013 07:49:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b6c423661627ad0062f0059a97c260c1]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-421-kathryn-hahn-and-jill-soloway]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2460463" />
+			<description><![CDATA[<p>Kathryn Hahn floored Marc with her performance in the new movie Afternoon Delight, so naturally he wanted to have a chat with her in the garage about where she comes from, how a one-line roll in Anchorman changed her career, and how her current acting work differs from her early expectations. Then Jill Soloway, writer and director of Afternoon Delight, joins the conversation to talk about the dark and authentic places she and Kathryn explored in the movie. This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting by Citrix</a>. Click on the Try It Free button and use the promo code WTF.&nbsp;</p>]]></description>
+			<enclosure length="25334608" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_421_HAHN_AND_SOLOWAY.mp3" />
+			<itunes:duration>01:24:02</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Kathryn Hahn floored Marc with her performance in the new movie Afternoon Delight, so naturally he wanted to have a chat with her in the garage about where she comes from, how a one-line roll in Anchorman changed her career, and how her current acting...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 420 - Ben Sidran</title>
+			<pubDate>Mon, 02 Sep 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[18c3353e0cef2db2d6a0287d3fd36b7f]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-420-ben-sidran]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2455866" />
+			<description><![CDATA[<p>Marc was not familiar with jazz musician Ben Sidran at first, but after their chat in the garage Marc says this is one of his favorite episodes of WTF. Ben tells Marc about his impressive career, with major chapters involving Bob Dylan, The Rolling Stones, Steve Miller Band and some of the most legendary jazz artists in history. Ben and Marc also find kinship over their shared feelings about self-discovery, the need for acceptance and being addicted to creativity. This episode is sponsored by <a href="http://legalzoom.com" target="_blank">LegalZoom</a>, <a href="http://warbyparker.com" target="_blank">Warby Parker</a>, <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a> and <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>.</p>]]></description>
+			<enclosure length="27477008" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_420_BEN_SIDRAN.mp3" />
+			<itunes:duration>01:31:11</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marc was not familiar with jazz musician Ben Sidran at first, but after their chat in the garage Marc says this is one of his favorite episodes of WTF. Ben tells Marc about his impressive career, with major chapters involving Bob Dylan, The Rolling...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 419 - Catherine O'Hara</title>
+			<pubDate>Thu, 29 Aug 2013 07:57:48 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e54cdd71a8375e8431c3a5c72c932e53]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-419-catherine-o-hara]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2452684" />
+			<description><![CDATA[<p>The Week Of Improv Comedy Legends continues with the great Catherine O'Hara. Catherine tells Marc how she honed her comedic instincts in a household of seven children and how those skills came into play while working with some of the biggest forces in comedy. She also talks about her time on SCTV, her very brief time on SNL, and all of those classic films on which she left an indelible mark. This episode is sponsored by <a href="http://trunkclub.com/maron" target="_blank">Trunk Club</a>, <a href="http://audiblepodcast.com/wtfpod" target="_blank">Audible</a>, <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a> and <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>.</p>]]></description>
+			<enclosure length="24362988" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_419_CATHERINE_OHARA.mp3" />
+			<itunes:duration>01:20:48</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The Week Of Improv Comedy Legends continues with the great Catherine O'Hara. Catherine tells Marc how she honed her comedic instincts in a household of seven children and how those skills came into play while working with some of the biggest forces in...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 418 - Michael McKean</title>
+			<pubDate>Mon, 26 Aug 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9fe9016913461aabe6c8fee42557a6b3]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-418-michael-mc-kean]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2448910" />
+			<description><![CDATA[<p>Michael McKean goes to 11 in this garage interview with Marc. The actor-comedian-musician spills all the details surrounding This Is Spinal Tap, as well as the reason Lenny and Squiggy made it to television. Plus, Michael explains the circumstances behind his year on SNL and reminisces about his life-long friendship with Christopher Guest. This episode is sponsored by <a href="http://comedycentral.com" target="_blank">Comedy Central</a> and by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial.</p>]]></description>
+			<enclosure length="26514735" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_418_MICHAEL_MCKEAN.mp3" />
+			<itunes:duration>01:27:58</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Michael McKean goes to 11 in this garage interview with Marc. The actor-comedian-musician spills all the details surrounding This Is Spinal Tap, as well as the reason Lenny and Squiggy made it to television. Plus, Michael explains the circumstances...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 417 - Tom Segura / YACHT</title>
+			<pubDate>Thu, 22 Aug 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b360f348749c978760a100ae6cc2af77]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-417-tom-segura-yacht]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2444320" />
+			<description><![CDATA[<p>Comedian Tom Segura is at The Cat Ranch to compare notes with Marc on some of the best and worst aspects of being a touring comic. Tom also tells Marc what it's like to be married to a standup comic and how they make it work. Also, the members of the band YACHT stop by the garage to unveil their new single, which features Marc Maron on guitar. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="30320240" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_417_TOM_SEGURA.mp3" />
+			<itunes:duration>01:40:39</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Comedian Tom Segura is at The Cat Ranch to compare notes with Marc on some of the best and worst aspects of being a touring comic. Tom also tells Marc what it's like to be married to a standup comic and how they make it work. Also, the members of the...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 416 - Maynard James Keenan</title>
+			<pubDate>Sun, 18 Aug 2013 21:43:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1183bc5d8e1d49421b7386a1a52ae0bd]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-416-maynard-james-keenan]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2433803" />
+			<description><![CDATA[<p>Maynard James Keenan of Tool is now a celebrated wine maker and he tells Marc how he wound up in his own vineyards after several decades of hardcore rocking with bands like A Perfect Circle and Puscifer. Maynard also explains why he became a fixture within the alt-comedy community of the 90s and how he got to know Bill Hicks. This episode is sponsored by Go To Meeting with HD Faces. Try it free at gotomeeting.com with the offer code WTF.</p>]]></description>
+			<enclosure length="28112318" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_416_MAYNARD_JAMES_KEENAN.mp3" />
+			<itunes:duration>01:33:18</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Maynard James Keenan of Tool is now a celebrated wine maker and he tells Marc how he wound up in his own vineyards after several decades of hardcore rocking with bands like A Perfect Circle and Puscifer. Maynard also explains why he became a fixture...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 415 - Simon Pegg</title>
+			<pubDate>Thu, 15 Aug 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f0fa87d5bcd3f9389f77407d49a31ef3]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-415-simon-pegg]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2432171" />
+			<description><![CDATA[<p>Simon Pegg gives Marc a much-needed education about the the Power of Nerd Culture. Simon explains how Star Wars changed everything for him and how his projects like Spaced, Shaun of the Dead, and his new movie The World's End changed the way he thought of making comedy. This episode is brought to you by GoToMeeting with HD Faces. Try it free at gotomeeting.com with the offer code WTF.</p>]]></description>
+			<enclosure length="23958428" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_415_SIMON_PEGG.mp3" />
+			<itunes:duration>01:19:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Simon Pegg gives Marc a much-needed education about the the Power of Nerd Culture. Simon explains how Star Wars changed everything for him and how his projects like Spaced, Shaun of the Dead, and his new movie The World's End changed the way he...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 414 - Alex Guarnaschelli</title>
+			<pubDate>Mon, 12 Aug 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[248c24e55a81fb64c840096ed1e11868]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-414-alex-guarnaschelli]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2432085" />
+			<description><![CDATA[<p>Iron Chef Alex Guarnaschelli trades Kitchen Stadium for the Garage at The Cat Ranch to talk with Marc about the passion involved in her creative process. Alex and Marc trace her path to culinary greatness and try to figure out the magic ingredients in great cooking. This episode is sponsored by Comedy Central and by Stamps.com. Click on the radio mic and enter WTF to start a no-risk trial with a $110 bonus offer.</p>]]></description>
+			<enclosure length="25960558" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_414_ALEX_GUARNASCHELLI.mp3" />
+			<itunes:duration>01:26:07</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Iron Chef Alex Guarnaschelli trades Kitchen Stadium for the Garage at The Cat Ranch to talk with Marc about the passion involved in her creative process. Alex and Marc trace her path to culinary greatness and try to figure out the magic ingredients in...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 413 - Bill Hader</title>
+			<pubDate>Thu, 08 Aug 2013 08:40:20 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[153a0707eabf94adec4ab5b1a71d6400]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-413-bill-hader]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2427799" />
+			<description><![CDATA[<p>Fresh off his move to LA, Bill Hader finds himself in the garage reflecting on his last 8 years with Saturday Night Live. Bill tells Marc how he got on the show, how he made it through those initial years when he was trying to carve out a place for himself, and how he broke it to Lorne Michaels that he was leaving. This episode is sponsored by <a href="http://legalzoom.com" target="_blank">LegalZoom</a>, <a href="http://squarespace.com" target="_blank">Squarespace</a>, <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a> and <a href="http://audiblepodcast.com/wtfpod" target="_blank">Audible</a>.</p>]]></description>
+			<enclosure length="25517001" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_413_BILL_HADER.mp3" />
+			<itunes:duration>01:24:39</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Fresh off his move to LA, Bill Hader finds himself in the garage reflecting on his last 8 years with Saturday Night Live. Bill tells Marc how he got on the show, how he made it through those initial years when he was trying to carve out a place for...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 412 - Jim Norton, Michael Ian Black, Maria Bamford, Todd Barry, Janeane Garofalo, Dom Irrera</title>
+			<pubDate>Mon, 05 Aug 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ee1c4fce711a4da043a0fd991def0260]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-412-jim-norton-michael-ian-black-maria-bamford-todd-barry-janeane-garofalo-dom-irrera]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2423696" />
+			<description><![CDATA[<p>It's a blockbuster live WTF from Austin, Texas, with old friends Dom Irrera, Janeane Garofalo, Todd Barry, and Maria Bamford. Plus, Marc and Michael Ian Black renew their hostilities in person. And to bring it all home, Jim Norton takes the panel on a very unexpected journey. This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting</a>, the fast and simple way to meet and collaborate online. Use the promo code WTF to try it free.</p>]]></description>
+			<enclosure length="23086130" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_412_JIM_NORTON_ET_AL.mp3" />
+			<itunes:duration>01:16:32</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[It's a blockbuster live WTF from Austin, Texas, with old friends Dom Irrera, Janeane Garofalo, Todd Barry, and Maria Bamford. Plus, Marc and Michael Ian Black renew their hostilities in person. And to bring it all home, Jim Norton takes the panel on a...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 411 - Don Barris</title>
+			<pubDate>Thu, 01 Aug 2013 09:02:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[016e92d870e77b0719892e04a3d82d46]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-411-don-barris]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2419429" />
+			<description><![CDATA[<p>Comedian Don Barris was the first guy Marc met when he moved to Los Angeles in the 80s. Don had a pretty insane journey to get into show business and he shares with Marc a chaotic history at The Comedy Store. The two of them look back on the mythology of the club and how they both made it out on the other side. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a>, <a href="http://squarespace.com" target="_blank">Squarespace</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="25430952" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_411_DON_BARRIS.mp3" />
+			<itunes:duration>01:24:21</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Comedian Don Barris was the first guy Marc met when he moved to Los Angeles in the 80s. Don had a pretty insane journey to get into show business and he shares with Marc a chaotic history at The Comedy Store. The two of them look back on the mythology...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 410 - John Cale</title>
+			<pubDate>Mon, 29 Jul 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[979ccbb663c5b5e8f9ea4141aac1ff43]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-410-john-cale]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2415547" />
+			<description><![CDATA[<p>Musical virtuoso John Cale gives Marc details on the formation of The Velvet Underground, the creation of The Stooges' first album and many other seminal moments in rock history. Plus, John tells Marc why he was disappointed in The Velvet Underground reunion and why his latest project has roots in hip hop. This episode is sponsored by <a href="http://comedycentral.com" target="_blank">Comedy Central</a> and by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial with a $110 bonus offer.&nbsp;</p>]]></description>
+			<enclosure length="22307962" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_410_JOHN_CALE.mp3" />
+			<itunes:duration>01:13:57</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Musical virtuoso John Cale gives Marc details on the formation of The Velvet Underground, the creation of The Stooges' first album and many other seminal moments in rock history. Plus, John tells Marc why he was disappointed in The Velvet Underground...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 409 - Judy Gold</title>
+			<pubDate>Thu, 25 Jul 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[347da6f32ac3b5a3f03a4cbd81e28e56]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-409-judy-gold]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2411458" />
+			<description><![CDATA[<p>Judy Gold and Marc share a bond that only two contemporary comedians who both love women can share. In her long awaited trip to the garage, Judy tells Marc about her struggles to fit in as a teen, the tragic story of her first time, breaking into comedy by way of Secret Santa, and being a gay rights activist. This episode is sponsored by <a href="http://adultswim.com" target="_blank">Adult Swim</a>. Check out new episodes of Childrens Hospital and NTSF:SD:SUV:: every Thursday at midnight on Adult Swim.</p>]]></description>
+			<enclosure length="24814348" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_409_JUDY_GOLD.mp3" />
+			<itunes:duration>01:22:18</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Judy Gold and Marc share a bond that only two contemporary comedians who both love women can share. In her long awaited trip to the garage, Judy tells Marc about her struggles to fit in as a teen, the tragic story of her first time, breaking into...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 408 - Thom Yorke</title>
+			<pubDate>Mon, 22 Jul 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[aa350ffb89619a59ea7939d8b968809b]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-408-thom-yorke]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2407786" />
+			<description><![CDATA[<p>Radiohead frontman Thom Yorke and Marc meet up at The Mansion, the famous recording studio in Laurel Canyon. They talk about the evolution of the band, as well as Thom's solo projects and collaborations with other musicians. Plus, Thom reveals his most important influences and explains why he gets so much pleasure out of noise. This episode is sponsored by <a href="http://gotomeeting.com" target="_blank">GoToMeeting</a>. The fast and easy way to meet and collaborate - wherever, whenever.</p>]]></description>
+			<enclosure length="21565518" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_408_THOM_YORKE.mp3" />
+			<itunes:duration>01:11:28</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Radiohead frontman Thom Yorke and Marc meet up at The Mansion, the famous recording studio in Laurel Canyon. They talk about the evolution of the band, as well as Thom's solo projects and collaborations with other musicians. Plus, Thom reveals his...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 407 - Live from Boston</title>
+			<pubDate>Thu, 18 Jul 2013 08:01:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[aaf52c069a7b4925457d77ddea663ab6]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-407-live-from-boston]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2403552" />
+			<description><![CDATA[<p>Marc returns to his roots in Boston for a live WTF at The Wilbur Theatre with Dan Crohn, Sue Costello, Rick Jenkins, George McDonald, Teddy Bergeron and DJ Hazard. Old friends are reunited, new relationships are forged, and everyone remembers what it was like when they were first starting out in Beantown. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">Hulu Plus</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a>, <a href="http://audible.com" target="_blank">Audible</a> and <a href="http://adamandeve.com" target="_blank">Adam and Eve</a>.</p>]]></description>
+			<enclosure length="26645007" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_407_LIVE_BOSTON.mp3" />
+			<itunes:duration>01:28:24</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marc returns to his roots in Boston for a live WTF at The Wilbur Theatre with Dan Crohn, Sue Costello, Rick Jenkins, George McDonald, Teddy Bergeron and DJ Hazard. Old friends are reunited, new relationships are forged, and everyone remembers what it...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 406 - Mike Eagle</title>
+			<pubDate>Mon, 15 Jul 2013 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[44d973c5d7ee6eb47f61eb1e9d26f4c2]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-406-mike-eagle]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2397087" />
+			<description><![CDATA[<p>Alternative hip-hop artist Mike Eagle is in the garage to give Marc a little education about rap music, then and now. Mike talks about listening to '90s indie rock while all the other kids were listening to hip-hop and how it shaped his musical sensibility, and he tells Marc how his development as a rapper was a lot like the process of comedians at the UCB. This episode is sponsored by <a href="http://comedycentral.com" target="_blank">Comedy Central</a> and by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial with a $110 bonus offer.</p>]]></description>
+			<enclosure length="25463322" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_406_MIKE_EAGLE.mp3" />
+			<itunes:duration>01:24:28</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Alternative hip-hop artist Mike Eagle is in the garage to give Marc a little education about rap music, then and now. Mike talks about listening to '90s indie rock while all the other kids were listening to hip-hop and how it shaped his musical...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 405 - Jonah Hill</title>
+			<pubDate>Thu, 11 Jul 2013 07:52:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7a7ed315e1eb4efbdefc9e922efe15ae]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-405-jonah-hill]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2392721" />
+			<description><![CDATA[<p>Marc finds a kindred spirit in Jonah Hill - another guy who grew up with a desire to make people around him laugh, annoying his teachers in the process. Jonah talks about how being a cutup led to opportunities in acting, which led to more dramatic roles, which led to an Oscar nomination, and he explains why Superbad made it more difficult for him to take other roles. This episode is sponsored by <a href="http://huluplus.com/wtf" target="_blank">HuluPlus</a>, <a href="http://legalzoom.com" target="_blank">LegalZoom</a> and <a href="http://adamandeve.com" target="_blank">Adam &amp; Eve</a>.</p>]]></description>
+			<enclosure length="26346932" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_405_JONAH_HILL.mp3" />
+			<itunes:duration>01:27:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marc finds a kindred spirit in Jonah Hill - another guy who grew up with a desire to make people around him laugh, annoying his teachers in the process. Jonah talks about how being a cutup led to opportunities in acting, which led to more dramatic...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Episode 404 - Douglas Rushkoff</title>
+			<pubDate>Mon, 08 Jul 2013 06:54:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4eee915881b84f1d0b041becb1e85cd4]]></guid>
+			<link><![CDATA[http://wtfpod.libsyn.com/episode-404-douglas-rushkoff]]></link>
+			<media:thumbnail url="http://assets.libsyn.com/item/2388351" />
+			<description><![CDATA[<p>Douglas Rushkoff's new book "Present Shock" has Marc questioning his codependent relationship with technology, particularly social media. Douglas and Marc talk about the pace and access of technology and what that means for our lives. Also, Scott Aukerman sneaks into the garage on the dawn of a new season of Comedy Bang! Bang! on IFC. This episode is sponsored by <a href="http://comedycentral.com" target="_blank">Comedy Central</a> and by <a href="http://stamps.com" target="_blank">Stamps.com</a>. Click on the radio mic and enter WTF to start a no-risk trial.&nbsp;</p>]]></description>
+			<enclosure length="22090590" type="audio/mpeg" url="http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_404_DOUGLAS_RUSHKOFF.mp3" />
+			<itunes:duration>01:13:13</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Douglas Rushkoff's new book "Present Shock" has Marc questioning his codependent relationship with technology, particularly social media. Douglas and Marc talk about the pace and access of technology and what that means for our lives. Also, Scott...]]></itunes:subtitle>
+					</item>
+	</channel>
 </rss>
