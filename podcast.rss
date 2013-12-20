@@ -12,13 +12,13 @@
 
 <copyright>&#xA9; 2014 Alice Fraser</copyright>
 
-<itunes:subtitle>A show about everything</itunes:subtitle>
+<itunes:subtitle>Alice Fraser</itunes:subtitle>
 
 <itunes:author>Alice Fraser</itunes:author>
 
-<itunes:summary>All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our Podcast in the iTunes Store</itunes:summary>
+<itunes:summary>Australian thinker, comedian, ex lawyer and cambridge graduate Alice Fraser drinks tea and solves the world. With producer Sean Michaels and occasional guests.</itunes:summary>
 
-<description>All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our Podcast in the iTunes Store</description>
+<description>Australian thinker, comedian, ex lawyer and cambridge graduate Alice Fraser drinks tea and solves the world. With producer Sean Michaels and occasional guests.</description>
 
 <itunes:owner>
 
@@ -30,13 +30,8 @@
 
 <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg" />
 
-<itunes:category text="Technology">
-
-<itunes:category text="Gadgets"/>
-
-</itunes:category>
-
-<itunes:category text="TV &amp; Film"/>
+<itunes:category text="Comedy"/>
+<itunes:category text="Society and Culture"/>
 
 <!--INSERT NEW XML JUST UNDER HERE-->
 
