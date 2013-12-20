@@ -10,11 +10,11 @@
 
 <language>en-us</language>
 
-<copyright>&#x2117; &amp; &#xA9; 2005 John Doe &amp; Family</copyright>
+<copyright>&#xA9; 2014 Alice Fraser</copyright>
 
 <itunes:subtitle>A show about everything</itunes:subtitle>
 
-<itunes:author>John Doe</itunes:author>
+<itunes:author>Alice Fraser</itunes:author>
 
 <itunes:summary>All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our Podcast in the iTunes Store</itunes:summary>
 
@@ -22,9 +22,9 @@
 
 <itunes:owner>
 
-<itunes:name>John Doe</itunes:name>
+<itunes:name>Alice Fraser</itunes:name>
 
-<itunes:email>john.doe@example.com</itunes:email>
+<itunes:email>alicerfraser@gmail.com</itunes:email>
 
 </itunes:owner>
 
