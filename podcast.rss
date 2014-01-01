@@ -8,7 +8,7 @@
 
 <link>http://alicecomedyfraser.com/podcast.rss</link>
 
-<atom:link href="http://alicecomedyfraser.com/podcast.rss" rel="self" type="application/rss+xml"/>
+<atom:link href="http://alicecomedyfraser.com/podcast.rss" rel="self"/>
 
 <language>en-us</language>
 
