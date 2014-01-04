@@ -6,9 +6,9 @@
 
 <title>Tea With Alice</title>
 
-<link>http://alicecomedyfraser.com/podcast</link>
+<link>http://alicecomedyfraser.com/podcast.xml</link>
 
-<atom:link href="http://alicecomedyfraser.com/podcast" rel="self" type="application/rss+xml" />
+<atom:link href="http://alicecomedyfraser.com/podcast.xml" rel="self" type="application/rss+xml" />
 
 
 
