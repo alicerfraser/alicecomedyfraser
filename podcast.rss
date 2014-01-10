@@ -39,6 +39,17 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Teacast predator vs alienation</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Let's be Positive (about consent)</itunes:subtitle>
+<itunes:summary>Strap yourselves in. Alice educates Sean about dubious consent, they talk about smoke and mirrors, the jazz hands part of sex and what happens when a bird flies into the window. </itunes:summary>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/002_teacast_predator_vs_alienation.mp3" length="48942879" type="audio/mp3"/>
+<pubDate>Fri, 10 Jan 2014 13:13:16 +1100</pubDate>
+<itunes:duration>20:25</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/002_teacast_predator_vs_alienation.mp3</guid>
+</item>
+
 
 <item>
 <title>Post Christmas Teacast</title>
