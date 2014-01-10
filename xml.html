@@ -24,7 +24,7 @@ $(document).ready(function(){
       var duration = $(event.target).find('[name=duration]').val();
 
       var fileName = episodeNumber + '_' + title.split(' ').join('_') + '.mp3';
-      filename = fileName.toLowerCase()
+      fileName = fileName.toLowerCase();
       a = new Date().toString().split(' ');
       var formatDate = a[0] + ', ' + a[2] + ' ' + a[1] + ' ' + a[3] + ' ' + a[4] + ' ' + '+1100'
 
