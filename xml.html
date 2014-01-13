@@ -28,7 +28,7 @@ $(document).ready(function(){
       a = new Date().toString().split(' ');
       var formatDate = a[0] + ', ' + a[2] + ' ' + a[1] + ' ' + a[3] + ' ' + a[4] + ' ' + '+1100'
 
-      var xmlGenerated = '<item>\n<title>'+ title +'</title>\n<itunes:author>Alice Fraser</itunes:author>\n<itunes:subtitle>'+ subtitle +'</itunes:subtitle>\n<itunes:summary>'+ summary +'</itunes:summary>\n<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/' + fileName + '" length="' + fileSize + '" type="audio/mp3"/>\n<pubDate>' + formatDate + '</pubDate>\n<itunes:duration>' + duration + '</itunes:duration>\n<guid>' + 'http://s3-ap-southeast-2.amazonaws.com/alicepodcast/' + fileName + '</guid>\n</item>'
+      var xmlGenerated = '<item>\n<title>'+ title +'</title>\n<itunes:author>Alice Fraser</itunes:author>\n<itunes:subtitle>'+ subtitle +'</itunes:subtitle>\n<itunes:summary>'+ summary +'</itunes:summary>\n<description>'+ summary +'</description>\n<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/' + fileName + '" length="' + fileSize + '" type="audio/mp3"/>\n<pubDate>' + formatDate + '</pubDate>\n<itunes:duration>' + duration + '</itunes:duration>\n<guid>' + 'http://s3-ap-southeast-2.amazonaws.com/alicepodcast/' + fileName + '</guid>\n</item>'
 
       $('#fileName').val(fileName);
       $('#xmlGenerated').val(xmlGenerated);
