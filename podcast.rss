@@ -40,6 +40,26 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Teacast all the way to the Bank</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Catfished by a Corporation</itunes:subtitle>
+<itunes:summary>Sean and Alice talk about how corporations aren't people too, how it's not good to get too close to your money, and how to avoid a spiral of liking that ends in marriage. 
+
+(slightly shorter than usual, as Alice is in England and cut out a thing and couldn't figure out how to replace it with another thing)
+ 
+alicecomedyfraser.com</itunes:summary>
+<description>Sean and Alice talk about how corporations aren't people too, how it's not good to get too close to your money, and how to avoid a spiral of liking that ends in marriage. 
+
+(slightly shorter than usual, as Alice is in England and cut out a thing and couldn't figure out how to replace it with another thing)
+ 
+alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/004_teacast_all_the_way_to_the_bank.mp3" length="9798051" type="audio/mp3"/>
+<pubDate>Thu, 23 Jan 2014 13:18:17 +1100</pubDate>
+<itunes:duration>16:20</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/004_teacast_all_the_way_to_the_bank.mp3</guid>
+</item>
+
+<item>
 <title>Teacast Art Imitating Lifecast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Third Time Lucky</itunes:subtitle>
