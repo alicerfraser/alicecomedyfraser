@@ -40,6 +40,24 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Half-cast teacast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Twice the Tea, None of the Sean</itunes:subtitle>
+<itunes:summary>All alone in England, Alice pulls a conversation out of the archives for the first Guest Teacast. With Scott Huntington, talking about men's rights activists, and deja-poo. 
+
+Find Scott's music online at http://listn.to/socalledfriend
+Alice is online at http://alicecomedyfraser.com</itunes:summary>
+<description>All alone in England, Alice pulls a conversation out of the archives for the first Guest Teacast. With Scott Huntington, talking about men's rights activists, and deja-poo. 
+
+Find Scott's music online at http://listn.to/socalledfriend
+Alice is online at http://alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/005_half-cast_teacast.mp3" length="31686126" type="audio/mp3"/>
+<pubDate>Thu, 30 Jan 2014 15:21:45 +1100</pubDate>
+<itunes:duration>26:24</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/005_half-cast_teacast.mp3</guid>
+</item>
+
+<item>
 <title>Teacast all the way to the Bank</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Catfished by a Corporation</itunes:subtitle>
