@@ -40,6 +40,30 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Twincast Teacast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Double Trouble with the Fraser Twins</itunes:subtitle>
+<itunes:summary>Alice talks to her twin brother in a cafe in Oxford about criticism, self-doubt and the self indulgence of kickstarter. 
+
+Sean's offline again this week, so sound quality is Alice-style, and we're rocking a slightly late release.
+
+see Henry's music at http://henryfraser.com
+subscribe to the podcast in itunes, if you're enjoying it. 
+Send feedback at @aliterative or alicerfraser@gmail.com</itunes:summary>
+<description>Alice talks to her twin brother in a cafe in Oxford about criticism, self-doubt and the self indulgence of kickstarter. 
+
+Sean's offline again this week, so sound quality is Alice-style, and we're rocking a slightly late release.
+
+see Henry's music at http://henryfraser.com
+subscribe to the podcast in itunes, if you're enjoying it. 
+Send feedback at @aliterative or alicerfraser@gmail.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/006_twincast_teacast.mp3" length="41018466" type="audio/mp3"/>
+<pubDate>Fri, 07 Feb 2014 12:37:35 +1100</pubDate>
+<itunes:duration>34:11</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/006_twincast_teacast.mp3</guid>
+</item>
+
+<item>
 <title>Half-cast teacast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Twice the Tea, None of the Sean</itunes:subtitle>
