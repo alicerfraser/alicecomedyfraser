@@ -40,6 +40,26 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Love Me Tindercast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Taking a swipe at modern love</itunes:subtitle>
+<itunes:summary>Sean and Alice have tea and talk about compliments, modern love and the worst kind of profiling. Sean's triumphant return.
+
+Subscribe or check out other funny things at
+
+http://alicecomedyfraser.com</itunes:summary>
+<description>Sean and Alice have tea and talk about compliments, modern love and the worst kind of profiling. Sean's triumphant return.
+
+Subscribe or check out other funny things at
+
+http://alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/007_love_me_tindercast.mp3" length="105824140" type="audio/mp3"/>
+<pubDate>Thu, 13 Feb 2014 16:23:40 +1100</pubDate>
+<itunes:duration>44:06</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/007_love_me_tindercast.mp3</guid>
+</item>
+
+<item>
 <title>Twincast Teacast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Double Trouble with the Fraser Twins</itunes:subtitle>
