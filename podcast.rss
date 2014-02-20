@@ -39,6 +39,30 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>A Modest Teacast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Swift and psychology, tea to the Max</itunes:subtitle>
+<itunes:summary>Sean and Alice talk over tea about how love is an addiction, bad investments, getting out while you're on top, and then play out an upsetting rant on a (non) alternative to the refugee crisis.
+
+If you like the podcast, rate and review it on itunes, or recommend it to your friends. 
+Visit Alice at - http://alicecomedyfraser.com
+@aliterative
+</itunes:summary>
+<description>Sean and Alice talk over tea about how love is an addiction, bad investments, getting out while you're on top, and then play out an upsetting rant on a (non) alternative to the refugee crisis.
+
+If you like the podcast, rate and review it on itunes, or recommend it to your friends. 
+Visit Alice at - http://alicecomedyfraser.com
+@aliterative
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/008_a_modest_teacast.mp3" length="40008752" type="audio/mp3"/>
+<pubDate>Thu, 20 Feb 2014 17:06:54 +1100</pubDate>
+<itunes:duration>33:20</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/008_a_modest_teacast.mp3</guid>
+</item>
+
+
 <item>
 <title>Love Me Tindercast</title>
 <itunes:author>Alice Fraser</itunes:author>
