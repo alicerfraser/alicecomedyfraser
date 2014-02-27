@@ -39,6 +39,28 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Tea with Greg Fleetcast </title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Bookshop Junkies</itunes:subtitle>
+<itunes:summary>Alice and Greg Fleet have tea in a bookshop cafe. They talk flirting, punching Hitler, sympathy for pedophiles, anger management and how to destroy a friendship.
+
+Look out for Greg Fleet at a comedy festival near you. Tickets available online. 
+
+http://alicecomedyfraser.com
+@aliterative</itunes:summary>
+<description>Alice and Greg Fleet have tea in a bookshop cafe. They talk flirting, punching Hitler, sympathy for pedophiles, anger management and how to destroy a friendship.
+
+Look out for Greg Fleet at a comedy festival near you. Tickets available online. 
+
+http://alicecomedyfraser.com
+@aliterative</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/009_tea_with_greg_fleetcast_.mp3" length="21992721" type="audio/mp3"/>
+<pubDate>Thu, 27 Feb 2014 11:47:56 +1100</pubDate>
+<itunes:duration>45:49</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/009_tea_with_greg_fleetcast_.mp3</guid>
+</item>
+
 
 <item>
 <title>A Modest Teacast</title>
