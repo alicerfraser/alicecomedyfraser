@@ -40,6 +40,28 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Quali-Teacast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Sweet mics and hot conversation</itunes:subtitle>
+<itunes:summary>Sean and Alice take tea and talk no regrets, secular churches, the idea of friends with benefits, left handed people, relationship evolution, theme parks and some other stuff. 
+
+Sean's back and the original teacast two slide a sweet sounding show smoothly into your ear holes.
+
+http://alicecomedyfraser.com
+or subscribe on itunes</itunes:summary>
+<description>Sean and Alice take tea and talk no regrets, secular churches, the idea of friends with benefits, left handed people, relationship evolution, theme parks and some other stuff. 
+
+Sean's back and the original teacast two slide a sweet sounding show smoothly into your ear holes.
+
+http://alicecomedyfraser.com
+or subscribe on itunes</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/011_quali-teacast.mp3" length="177335000" type="audio/mp3"/>
+<pubDate>Thu, 13 Mar 2014 17:24:14 +1100</pubDate>
+<itunes:duration>01:13:53</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/011_quali-teacast.mp3</guid>
+</item>
+
+<item>
 <title>Trapped in an Industrial Fancast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Sean Returns</itunes:subtitle>
