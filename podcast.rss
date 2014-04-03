@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Godcast Teacast with Jarrod McKenna</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Conversation in a cafe about god and comedy</itunes:subtitle>
+<itunes:summary>Alice and Jarrod McKenna talk about Christlikeness, Faith, Narnia, Comedy, Zizek, Ursula LeGuin, Wil Anderson and the Refugee Crisis. </itunes:summary>
+<description>Alice and Jarrod McKenna talk about Christlikeness, Faith, Narnia, Comedy, Zizek, Ursula LeGuin, Wil Anderson and the Refugee Crisis. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/014_godcast_teacast_with_jarrod_mckenna.mp3" length="57901010" type="audio/mp3"/>
+<pubDate>Thu, 03 Apr 2014 14:20:19 +1100</pubDate>
+<itunes:duration>48:15</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/014_godcast_teacast_with_jarrod_mckenna.mp3</guid>
+</item>
+
+<item>
 <title>Overcast Teacast - Melbourne Dreaming</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Sean and Alice talk about bigotry and Festival Marketing</itunes:subtitle>
