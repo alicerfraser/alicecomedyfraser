@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>BasementCast Teacast - Bryce Halliday</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Sliding Downhill</itunes:subtitle>
+<itunes:summary>Alice Fraser teas and talks with Bryce Halliday deep underground. They chat about comedy festival, whether women should be stay-at-home-mums and why Alice ate all the snacks. </itunes:summary>
+<description>Alice Fraser teas and talks with Bryce Halliday deep underground. They chat about comedy festival, whether women should be stay-at-home-mums and why Alice ate all the snacks. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/015_basementcast_teacast_-_bryce_halliday.mp3" length="46963563" type="audio/mp3"/>
+<pubDate>Thu, 10 Apr 2014 16:07:42 +1100</pubDate>
+<itunes:duration>39:08</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/015_basementcast_teacast_-_bryce_halliday.mp3</guid>
+</item>
+
+<item>
 <title>Godcast Teacast with Jarrod McKenna</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Conversation in a cafe about god and comedy</itunes:subtitle>
