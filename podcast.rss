@@ -40,6 +40,24 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Bonuscast - Alice in the Looking Glass</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Alice alone</itunes:subtitle>
+<itunes:summary>Alice has tea with herself, and talks about some things she hasn't been talking about. 
+
+http://alicecomedyfraser.com
+@aliterative</itunes:summary>
+<description>Alice has tea with herself, and talks about some things she hasn't been talking about. 
+
+http://alicecomedyfraser.com
+@aliterative</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/018_bonuscast_-_alice_in_the_looking_glass.mp3" length="7598834" type="audio/mp3"/>
+<pubDate>Thu, 01 May 2014 10:06:48 +1100</pubDate>
+<itunes:duration>14:40</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/018_bonuscast_-_alice_in_the_looking_glass.mp3</guid>
+</item>
+
+<item>
 <title>Short and Sweetcast Teacast with Jeremy Brull</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Body Hair Length Judgmentalism and Rambling</itunes:subtitle>
