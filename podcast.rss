@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Chip Flavourcast - With Rob Hunter</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Alice Hunts down some Information, then sets it free. </itunes:subtitle>
+<itunes:summary>Alice gets to know Rob Hunter over tea and conversations about chip flavours, first jobs, and where we're really from. </itunes:summary>
+<description>Alice gets to know Rob Hunter over tea and conversations about chip flavours, first jobs, and where we're really from. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/020_chip_flavourcast_-_with_rob_hunter.mp3" length="52367255" type="audio/mp3"/>
+<pubDate>Thu, 08 May 2014 12:59:58 +1100</pubDate>
+<itunes:duration>43:38</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/020_chip_flavourcast_-_with_rob_hunter.mp3</guid>
+</item>
+
+<item>
 <title>Right in The FaithCast - Andrew Judd</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Religious chat in a lift-well</itunes:subtitle>
