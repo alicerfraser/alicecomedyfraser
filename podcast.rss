@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>The Rodcast - Mr Makim Scoops the Ukraine</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Cracking the Ironed Curtain</itunes:subtitle>
+<itunes:summary>Alice talks over tea and a rusty nail with Roderick Makim, journalist, country boy and international thrillseeker in a nice coat about his roots, being a Western Spy, and the disappointments of chicken Kiev.</itunes:summary>
+<description>Alice talks over tea and a rusty nail with Roderick Makim, journalist, country boy and international thrillseeker in a nice coat about his roots, being a Western Spy, and the disappointments of chicken Kiev.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/021_the_rodcast_-_mr_makim_scoops_the_ukraine.mp3" length="53264299" type="audio/mp3"/>
+<pubDate>Thu, 15 May 2014 19:43:38 +1100</pubDate>
+<itunes:duration>44:23</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/021_the_rodcast_-_mr_makim_scoops_the_ukraine.mp3</guid>
+</item>
+
+<item>
 <title>Chip Flavourcast - With Rob Hunter</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Alice Hunts down some Information, then sets it free. </itunes:subtitle>
