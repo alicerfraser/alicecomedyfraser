@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Returning Brycecast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Some hissing but good chat</itunes:subtitle>
+<itunes:summary>Alice sits with Bryce Halliday and has a conversation in a bed of snakes on a waterfall with someone snowboarding behind them. Apologies for the background snowscape. They talk impro and vocation, travel and possibility. </itunes:summary>
+<description>Alice sits with Bryce Halliday and has a conversation in a bed of snakes on a waterfall with someone snowboarding behind them. Apologies for the background snowscape. They talk impro and vocation, travel and possibility. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/022_returning_brycecast.mp3" length="30916162" type="audio/mp3"/>
+<pubDate>Thu, 22 May 2014 13:10:41 +1100</pubDate>
+<itunes:duration>31:00</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/022_returning_brycecast.mp3</guid>
+</item>
+
+<item>
 <title>The Rodcast - Mr Makim Scoops the Ukraine</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Cracking the Ironed Curtain</itunes:subtitle>
