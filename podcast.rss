@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>A Musical Ramblecast - Tom Wrigglesworth</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Ballbearing murders and a rolling good time. </itunes:subtitle>
+<itunes:summary>Alice talks to British Comedian, Radio Personality and all round excellent eccentric, Tom Wrigglesworth. The ramble through music, a jew called Adolf, pain-pissing contests and redlining on anxiety. </itunes:summary>
+<description>Alice talks to British Comedian, Radio Personality and all round excellent eccentric, Tom Wrigglesworth. The ramble through music, a jew called Adolf, pain-pissing contests and redlining on anxiety. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/023_a_musical_ramblecast_-_tom_wrigglesworth.mp3" length="49549173" type="audio/mp3"/>
+<pubDate>Thu, 29 May 2014 12:54:43 +1100</pubDate>
+<itunes:duration>41:17</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/023_a_musical_ramblecast_-_tom_wrigglesworth.mp3</guid>
+</item>
+
+<item>
 <title>Returning Brycecast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Some hissing but good chat</itunes:subtitle>
