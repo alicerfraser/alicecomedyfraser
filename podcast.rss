@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>The Luce-Cast - Lucy Howard Taylor</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>The Birds and The Boys</itunes:subtitle>
+<itunes:summary>Alice Fraser talks to Lucy Howard Taylor and some incidental rainbow lorrikeets over a quick lunch in the Rocks. Lucy is a writer, poet and arts administrator in the Sydney Theatre Company and they chat about Rap, the fraught nature of having opinions, authenticity and how Zombies are like teenage boys. </itunes:summary>
+<description>Alice Fraser talks to Lucy Howard Taylor and some incidental rainbow lorrikeets over a quick lunch in the Rocks. Lucy is a writer, poet and arts administrator in the Sydney Theatre Company and they chat about Rap, the fraught nature of having opinions, authenticity and how Zombies are like teenage boys. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/025_the_luce-cast_-_lucy_howard_taylor.mp3" length="31939508" type="audio/mp3"/>
+<pubDate>Thu, 12 Jun 2014 17:02:11 +1100</pubDate>
+<itunes:duration>26:37</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/025_the_luce-cast_-_lucy_howard_taylor.mp3</guid>
+</item>
+
+<item>
 <title>Nothing Susscast - Tami Sussman </title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Parallel Lifecast</itunes:subtitle>
