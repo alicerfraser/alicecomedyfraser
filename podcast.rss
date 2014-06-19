@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Stay At Home DadCast - Adam Yardley</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Manliness and Confidence</itunes:subtitle>
+<itunes:summary>Alice talks with friend and comedy writer Adam Yardley over some awesome sencha about manliness, being a stay at home dad, time travel and performance enhancing drugs for corporate women. </itunes:summary>
+<description>Alice talks with friend and comedy writer Adam Yardley over some awesome sencha about manliness, being a stay at home dad, time travel and performance enhancing drugs for corporate women. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/026_stay_at_home_dadcast_-_adam_yardley.mp3" length="51175551" type="audio/mp3"/>
+<pubDate>Thu, 19 Jun 2014 16:27:15 +1100</pubDate>
+<itunes:duration>42:39</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/026_stay_at_home_dadcast_-_adam_yardley.mp3</guid>
+</item>
+
+<item>
 <title>The Luce-Cast - Lucy Howard Taylor</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>The Birds and The Boys</itunes:subtitle>
