@@ -40,6 +40,19 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>CakeCast Teacast - Laura Davis</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>The Morality of Cake</itunes:subtitle>
+<itunes:summary>Alice talks with comedian and writer Laura Davis about the Morality of Cake, different kinds of strength, child abuse, why peer pressure works, and why good people let bad things happen to them. </itunes:summary>
+<description>Alice talks with comedian and writer Laura Davis about the Morality of Cake, different kinds of strength, child abuse, why peer pressure works, and why good people let bad things happen to them. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/028_cakecast_teacast_-_laura_davis.mp3" length="48241475" type="audio/mp3"/>
+<pubDate>Thu, 03 Jul 2014 16:04:09 +1100</pubDate>
+<itunes:duration>40:12</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/028_cakecast_teacast_-_laura_davis.mp3</guid>
+</item>
+
+
+<item>
 <title>Aspirational Punchingcast - Adam Yardley Returns</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Return of the Dad-Cast</itunes:subtitle>
