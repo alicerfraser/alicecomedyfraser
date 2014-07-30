@@ -39,6 +39,31 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>Airless CarCast - Claire Hooper + Women of Letters</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Running out of Oxygen, but still full of ideas.</itunes:subtitle>
+<itunes:summary>Alice sits in a car with Claire Hooper in the carpark of Splendour in The Grass. As they slowly run out of oxygen, they talk about anxiety, what's the point of the news, the ethical downsides of being right about anything, Alice's million dollar idea, and how Claire as a new mother feels sorry for Pedophiles.
+
+Appended at the end is Alice's Women of Letters performance, for people who don't mind sad things that aren't funny. 
+
+Thanks to Bryce Halliday for the Audio Edit. http://brycehalliday.com
+Alice is at http://alicecomedyfraser.com
+Claire is at http://clairehooper.com</itunes:summary>
+<description>Alice sits in a car with Claire Hooper in the carpark of Splendour in The Grass. As they slowly run out of oxygen, they talk about anxiety, what's the point of the news, the ethical downsides of being right about anything, Alice's million dollar idea, and how Claire as a new mother feels sorry for Pedophiles.
+
+Appended at the end is Alice's Women of Letters performance, for people who don't mind sad things that aren't funny. 
+
+Thanks to Bryce Halliday for the Audio Edit. http://brycehalliday.com
+Alice is at http://alicecomedyfraser.com
+Claire is at http://clairehooper.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/032_airless_carcast_-_claire_hooper_+_women_of_letters.mp3" length="66963385" type="audio/mp3"/>
+<pubDate>Thu, 31 Jul 2014 09:13:35 +1100</pubDate>
+<itunes:duration>55:48</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/032_airless_carcast_-_claire_hooper_+_women_of_letters.mp3</guid>
+</item>
+
 <item>
 <title>CapperCast Teacast - Nick Capper</title>
 <itunes:author>Alice Fraser</itunes:author>
