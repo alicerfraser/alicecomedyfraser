@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Right of ReplyCast - Lucy Fraser</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Bringing it back to the Womb</itunes:subtitle>
+<itunes:summary>Alice has tea with the mother of dragons (if by dragons you mean Alice, and you do). They talk about poetry, music, M.S and Cancer, and how Lucy Fraser feels about being used in Alice's material. </itunes:summary>
+<description>Alice has tea with the mother of dragons (if by dragons you mean Alice, and you do). They talk about poetry, music, M.S and Cancer, and how Lucy Fraser feels about being used in Alice's material. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/033_right_of_replycast_-_lucy_fraser.mp3" length="30854895" type="audio/mp3"/>
+<pubDate>Fri, 08 Aug 2014 11:41:47 +1100</pubDate>
+<itunes:duration>25:43</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/033_right_of_replycast_-_lucy_fraser.mp3</guid>
+</item>
+
+<item>
 <title>Airless CarCast - Claire Hooper and Women of Letters</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Running out of Oxygen, but still full of ideas.</itunes:subtitle>
