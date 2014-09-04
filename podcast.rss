@@ -39,18 +39,38 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>Country Towncast - Victoria Healy and Josh Dore</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Keep oldies off the Ice-Floes</itunes:subtitle>
+<itunes:summary>Victoria Healy and Josh Dore come down from Melbourne to have Tea With Alice. They talk about talking about sex, killing old people, and how Bondi Beach is very much like a country town.
+
+Vic is at http://victoriahealy.com
+Josh is on twitter at @joshdore
+Alice is online at http://alicecomedyfraser.com</itunes:summary>
+<description>Victoria Healy and Josh Dore come down from Melbourne to have Tea With Alice. They talk about talking about sex, killing old people, and how Bondi Beach is very much like a country town.
+
+Vic is at http://victoriahealy.com
+Josh is on twitter at @joshdore
+Alice is online at http://alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/037_country_towncast_-_victoria_healy_and_josh_dore.mp3" length="121897717" type="audio/mp3"/>
+<pubDate>Thu, 04 Sep 2014 22:20:46 +1100</pubDate>
+<itunes:duration>01:03:29</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/037_country_towncast_-_victoria_healy_and_josh_dore.mp3</guid>
+</item>
+
+
 <item>
 <title>Giant Squid and Anarchy PowerCast - Damien Power</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary>Alice has tea and talks to wild comedian, father, thinker and queenslander, Damien Power. They ramble through politics, social structures, post-apocalyptic train journeys and how ducks think about death. 
-
-sorry for the choppy editing. Alice is sick and tired and her computer crashed a couple of times until she gave up all hope. 
+ 
 
 alicecomedyfraser.com is the website to find all the recent things she's been working on and damien power is available at damienpower.com</itunes:summary>
 <description>Alice has tea and talks to wild comedian, father, thinker and queenslander, Damien Power. They ramble through politics, social structures, post-apocalyptic train journeys and how ducks think about death. 
 
-sorry for the choppy editing. Alice is sick and tired and her computer crashed a couple of times until she gave up all hope. 
 
 alicecomedyfraser.com is the website to find all the recent things she's been working on and damien power is available at damienpower.com</description>
 <enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/036_giant_squid_and_anarchy_powercast_-_damien_power.mp3" length="76822278" type="audio/mp3"/>
