@@ -39,6 +39,18 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Teach a Man to Fishcast - Jim Fishwick</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>The Hipster Paradox - Schroedinger's Ironic Moustache</itunes:subtitle>
+<itunes:summary>Alice talks to Jim Fishwick over tea about the terrible mistake she made on stage that night, hipsterism, what artform their comedy would be if it weren't comedy and what the future holds for everything</itunes:summary>
+<description>Alice talks to Jim Fishwick over tea about the terrible mistake she made on stage that night, hipsterism, what artform their comedy would be if it weren't comedy and what the future holds for everything</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/038_teach_a_man_to_fishcast_-_jim_fishwick.mp3" length="62813331" type="audio/mp3"/>
+<pubDate>Fri, 12 Sep 2014 23:26:36 +1100</pubDate>
+<itunes:duration>43:37</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/038_teach_a_man_to_fishcast_-_jim_fishwick.mp3</guid>
+</item>
+
 
 <item>
 <title>Country Towncast - Victoria Healy and Josh Dore</title>
