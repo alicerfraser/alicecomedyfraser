@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>ReCast Teacast - Twin Time </title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Breakfast tea with Alice and Henry</itunes:subtitle>
+<itunes:summary>Alice has breakfast and tea with her twin, and they talk about kinda bacon, Jesus' twitter following, unsupported claims, 'Do you even know what brunch is?', the problem with Journalists, bullying and pens with your name on them. </itunes:summary>
+<description>Alice has breakfast and tea with her twin, and they talk about kinda bacon, Jesus' twitter following, unsupported claims, 'Do you even know what brunch is?', the problem with Journalists, bullying and pens with your name on them. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/040_recast_teacast_-_twin_time_.mp3" length="77282244" type="audio/mp3"/>
+<pubDate>Fri, 03 Oct 2014 11:13:26 +1100</pubDate>
+<itunes:duration>40:15</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/040_recast_teacast_-_twin_time_.mp3</guid>
+</item>
+
+<item>
 <title>Doublevisioncast - Tegan Higginbotham</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Is it me or does Tegan sound a lot like me?</itunes:subtitle>
