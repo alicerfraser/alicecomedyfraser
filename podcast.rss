@@ -40,6 +40,26 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Nanobot Apocalypsecast - Seaton Kay Smith</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Reserved Seaton</itunes:subtitle>
+<itunes:summary>Alice has tea with Seaton Kay Smith, talking about jogging, Nanobot apocalypses and The Singularity. 
+
+Listen to Lost Pilots on FBiRadio.com
+
+Alice is available via her website http://alicecomedyfraser.com</itunes:summary>
+<description>Alice has tea with Seaton Kay Smith, talking about jogging, Nanobot apocalypses and The Singularity. 
+
+Listen to Lost Pilots on FBiRadio.com
+
+Alice is available via her website http://alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/041_nanobot_apocalypsecast_-_seaton_kay_smith.mp3" length="46299764" type="audio/mp3"/>
+<pubDate>Fri, 10 Oct 2014 21:35:27 +1100</pubDate>
+<itunes:duration>32:09</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/041_nanobot_apocalypsecast_-_seaton_kay_smith.mp3</guid>
+</item>
+
+<item>
 <title>ReCast Teacast - Twin Time </title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Breakfast tea with Alice and Henry</itunes:subtitle>
