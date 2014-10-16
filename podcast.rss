@@ -40,6 +40,22 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>No Podcast This Week </title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Farewell Lucy Fraser</itunes:subtitle>
+<itunes:summary>A brief announcement & some music. 
+
+The podcast with Lucy Fraser "The Right Of ReplyCast" is episode 33. </itunes:summary>
+<description>A brief announcement & some music. 
+
+The podcast with Lucy Fraser "The Right Of ReplyCast" is episode 33. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/042_no_podcast_this_week_.mp3" length="24401211" type="audio/mp3"/>
+<pubDate>Thu, 16 Oct 2014 14:24:08 +1100</pubDate>
+<itunes:duration>12:42</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/042_no_podcast_this_week_.mp3</guid>
+</item>
+
+<item>
 <title>Nanobot Apocalypsecast - Seaton Kay Smith</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Reserved Seaton</itunes:subtitle>
