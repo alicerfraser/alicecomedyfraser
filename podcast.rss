@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Second Apologycast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Another week of apologies and recommendations. NEXT WEEK, two episode output! Eddie Sharp! Michael Connell!</itunes:summary>
+<description>Another week of apologies and recommendations. NEXT WEEK, two episode output! Eddie Sharp! Michael Connell!</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/043_second_apologycast.mp3" length="11133514" type="audio/mp3"/>
+<pubDate>Fri, 24 Oct 2014 19:52:14 +1100</pubDate>
+<itunes:duration>05:48</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/043_second_apologycast.mp3</guid>
+</item>
+
+<item>
 <title>No Podcast This Week </title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Farewell Lucy Fraser</itunes:subtitle>
