@@ -40,6 +40,22 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Special Episode Re-Release of Lucy Fraser Episode</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>By Request</itunes:subtitle>
+<itunes:summary>This episode is the full audio of the conversation that I had with my mum Lucy Fraser for episode 33. I was asked to release it without my original introduction.
+
+There are a few extra seconds of audio, and a poem at the end. </itunes:summary>
+<description>This episode is the full audio of the conversation that I had with my mum Lucy Fraser for episode 33. I was asked to release it without my original introduction.
+
+There are a few extra seconds of audio, and a poem at the end. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/045_special_episode_re-release_of_lucy_fraser_episode.mp3" length="41759056" type="audio/mp3"/>
+<pubDate>Fri, 31 Oct 2014 12:09:09 +1100</pubDate>
+<itunes:duration>21:45</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/045_special_episode_re-release_of_lucy_fraser_episode.mp3</guid>
+</item>
+
+<item>
 <title>Tom Ballard Pod-Tom or The Ball-cast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Peppermint Tea</itunes:subtitle>
