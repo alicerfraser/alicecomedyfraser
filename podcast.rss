@@ -39,6 +39,62 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Burn Baby Burn - Brendon Burns Part Two</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Unapologetic</itunes:subtitle>
+<itunes:summary>2 of 2 - Brendon Burns sits with Alice, and has an energy drink, while they talk and talk about fingerguns, powerplays, Gatekeepers, UFC, Classism, Sexism, Racism and trolls. 
+
+Part two will be released immediately subsequent
+
+Brendon is available at:
+http://brendonburns.squarespace.com
+
+Alice is online at:
+http://alicecomedyfraser.com</itunes:summary>
+<description>2 of 2 - Brendon Burns sits with Alice, and has an energy drink, while they talk and talk about fingerguns, powerplays, Gatekeepers, UFC, Classism, Sexism, Racism and trolls. 
+
+Part two will be released immediately subsequent
+
+Brendon is available at:
+http://brendonburns.squarespace.com
+
+Alice is online at:
+http://alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/049_burn_baby_burn_-_brendon_burns_part_two.mp3" length="61209205" type="audio/mp3"/>
+<pubDate>Thu, 27 Nov 2014 22:50:22 +1100</pubDate>
+<itunes:duration>31:53</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/049_burn_baby_burn_-_brendon_burns_part_two.mp3</guid>
+</item>
+
+<item>
+<title>Light my Firecast - Brendon Burns Part One</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>UFC and the BBC</itunes:subtitle>
+<itunes:summary>1 of 2 - Brendon Burns sits with Alice, and has an energy drink, while they talk and talk about fingerguns, powerplays, Gatekeepers, UFC, Classism, Sexism, Racism and trolls. 
+
+Part two will be released immediately subsequent
+
+Brendon is available at:
+http://brendonburns.squarespace.com
+
+Alice is online at:
+http://alicecomedyfraser.com</itunes:summary>
+<description>1 of 2 - Brendon Burns sits with Alice, and has an energy drink, while they talk and talk about fingerguns, powerplays, Gatekeepers, UFC, Classism, Sexism, Racism and trolls. 
+
+Part two will be released immediately subsequent
+
+Brendon is available at:
+http://brendonburns.squarespace.com
+
+Alice is online at:
+http://alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/048_light_my_firecast_-_brendon_burns_part_one.mp3" length="139904235" type="audio/mp3"/>
+<pubDate>Thu, 27 Nov 2014 22:02:55 +1100</pubDate>
+<itunes:duration>01:12:52</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/048_light_my_firecast_-_brendon_burns_part_one.mp3</guid>
+</item>
+
 
 <item>
 <title>Sexcast Teacast Brains and Booty with Gia James</title>
