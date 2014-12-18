@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>MountainCast - Gary Eck and Laura Davis</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Bonus Laura Davis</itunes:subtitle>
+<itunes:summary>Alice sits in her living room and talks to comedian, director, writer all rounder Australian champion Gary Eck about the business of podcasting, sponsorship and lies. Laura Davis drops in to say hallo, and eat some chocolate, and it all goes downhill from there. </itunes:summary>
+<description>Alice sits in her living room and talks to comedian, director, writer all rounder Australian champion Gary Eck about the business of podcasting, sponsorship and lies. Laura Davis drops in to say hallo, and eat some chocolate, and it all goes downhill from there. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/051_mountaincast_-_gary_eck_and_laura_davis.mp3" length="107198928" type="audio/mp3"/>
+<pubDate>Thu, 18 Dec 2014 23:24:30 +1100</pubDate>
+<itunes:duration>55:50</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/051_mountaincast_-_gary_eck_and_laura_davis.mp3</guid>
+</item>
+
+<item>
 <title>Repressed Furycast - Mark Humphries and Laura Davis</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
