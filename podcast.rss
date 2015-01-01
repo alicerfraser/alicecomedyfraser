@@ -40,6 +40,28 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Secrets and Liescast - Happy New Year</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Solo Podcast</itunes:subtitle>
+<itunes:summary>Alice drinks green tea alone and answers intimate listener questions about her, you, and the abstract realities of life. 
+
+alicerfraser at gmail.com for more questions if you want to ask them
+http://alicecomedyfraser.com
+http://twitter.com/aliterative
+</itunes:summary>
+<description>Alice drinks green tea alone and answers intimate listener questions about her, you, and the abstract realities of life. 
+
+alicerfraser at gmail.com for more questions if you want to ask them
+http://alicecomedyfraser.com
+http://twitter.com/aliterative
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/053_secrets_and_liescast_-_happy_new_year.mp3" length="45496028" type="audio/mp3"/>
+<pubDate>Thu, 01 Jan 2015 17:28:07 +1100</pubDate>
+<itunes:duration>31:35</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/053_secrets_and_liescast_-_happy_new_year.mp3</guid>
+</item>
+
+<item>
 <title>Henry ReturnsCast - Twin Trilogy</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Christmas Special</itunes:subtitle>
