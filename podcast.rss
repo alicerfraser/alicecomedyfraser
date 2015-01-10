@@ -40,6 +40,30 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Pat the Rodcast - Patrick Brown and Roderick Makim</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle> Politics and News</itunes:subtitle>
+<itunes:summary>Alice sits and drinks warm water with Roderick Makim (Journalist) and Patrick Brown, (Lawyer, Autodidact and Middle East non-expert ex-ex-pat). They talk about Charlie Hebdo, Generalising from Extremism, and whether you should follow the news at all. 
+
+Pat is at http://twitter.com/pjbow and Roderick is at http://twitter.com/roderickmakim  
+
+Their podcast "Pat and Rod Save The World" is here: https://itunes.apple.com/au/podcast/pat-and-rod-save-the-world/id920725924?mt=2
+
+Alice is at http://twitter.com/aliterative or http://alicecomedyfraser.com</itunes:summary>
+<description>Alice sits and drinks warm water with Roderick Makim (Journalist) and Patrick Brown, (Lawyer, Autodidact and Middle East non-expert ex-ex-pat). They talk about Charlie Hebdo, Generalising from Extremism, and whether you should follow the news at all. 
+
+Pat is at http://twitter.com/pjbow and Roderick is at http://twitter.com/roderickmakim  
+
+Their podcast "Pat and Rod Save The World" is here: https://itunes.apple.com/au/podcast/pat-and-rod-save-the-world/id920725924?mt=2
+
+Alice is at http://twitter.com/aliterative or http://alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/054_pat_the_rodcast_-_patrick_brown_and_roderick_makim.mp3" length="87278363" type="audio/mp3"/>
+<pubDate>Sat, 10 Jan 2015 14:16:24 +1100</pubDate>
+<itunes:duration>01:00:36</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/054_pat_the_rodcast_-_patrick_brown_and_roderick_makim.mp3</guid>
+</item>
+
+<item>
 <title>Secrets and Liescast - Happy New Year</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Solo Podcast</itunes:subtitle>
