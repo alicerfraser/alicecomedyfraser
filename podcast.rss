@@ -40,6 +40,35 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Herocast Podcast - Helen Zaltzman</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits in the UK, land of Tea and does a podcast in the Scandinavian kitchen with Helen Zaltzman who is incredibly cool. 
+
+Listen
+
+helen is @helenzaltzman on twitter
+
+Alice is @aliterative
+
+email her on alicerfraser@gmail.com or visit the website on http://alicecomedyfraser.com
+</itunes:summary>
+<description>Alice sits in the UK, land of Tea and does a podcast in the Scandinavian kitchen with Helen Zaltzman who is incredibly cool. 
+
+Listen
+
+helen is @helenzaltzman on twitter
+
+Alice is @aliterative
+
+email her on alicerfraser@gmail.com or visit the website on http://alicecomedyfraser.com
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/055_herocast_podcast_-_helen_zaltzman.mp3" length="57528864" type="audio/mp3"/>
+<pubDate>Sun, 01 Feb 2015 09:32:19 +1100</pubDate>
+<itunes:duration>39:57</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/055_herocast_podcast_-_helen_zaltzman.mp3</guid>
+</item>
+<item>
 <title>Pat the Rodcast - Patrick Brown and Roderick Makim</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle> Politics and News</itunes:subtitle>
