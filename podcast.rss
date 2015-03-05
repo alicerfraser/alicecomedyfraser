@@ -40,6 +40,28 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Untangled Webb - Lindsay Webb</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits in the Rhino Room in Adelaide and talks to legendary touring comedian Lindsay Webb about Public Transport, Capitalism, Jobs, High Culture, Low Culture and Agriculture.
+
+Lindsay is accessible online at http://twitter.com/lindswebb
+
+Alice is available at http://alicecomedyfraser.com 
+or on twitter at http://www.twitter.com/aliterative</itunes:summary>
+<description>Alice sits in the Rhino Room in Adelaide and talks to legendary touring comedian Lindsay Webb about Public Transport, Capitalism, Jobs, High Culture, Low Culture and Agriculture.
+
+Lindsay is accessible online at http://twitter.com/lindswebb
+
+Alice is available at http://alicecomedyfraser.com 
+or on twitter at http://www.twitter.com/aliterative</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/60_untangled_webb_-_lindsay_webb.mp3" length="94686901" type="audio/mp3"/>
+<pubDate>Thu, 05 Mar 2015 17:19:02 +1100</pubDate>
+<itunes:duration>49:19</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/60_untangled_webb_-_lindsay_webb.mp3</guid>
+</item>
+
+<item>
 <title>JockShock Teacast - Paul Solomon</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Peppermint Tea</itunes:subtitle>
