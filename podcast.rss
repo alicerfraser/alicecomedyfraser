@@ -40,6 +40,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Myq-sing it up - Myq Kaplan</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits upstairs in the Victoria Hotel in Melbourne with Myq Kaplan to talk about Veganism, Non-Monogamy, the Ten Commandments, Queer Identity for the Straight Guy, Constitutional Literalism</itunes:summary>
+<description>Alice sits upstairs in the Victoria Hotel in Melbourne with Myq Kaplan to talk about Veganism, Non-Monogamy, the Ten Commandments, Queer Identity for the Straight Guy, Constitutional Literalism</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/063_myq-sing_it_up_-_myq_kaplan.mp3" length="100869354" type="audio/mp3"/>
+<pubDate>Tue, 07 Apr 2015 16:13:15 +1100</pubDate>
+<itunes:duration>52:32</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/063_myq-sing_it_up_-_myq_kaplan.mp3</guid>
+</item>
+
+<item>
 <title>Tasting Hastings - John Hastings</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Less Haste More Speed</itunes:subtitle>
