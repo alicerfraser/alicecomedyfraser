@@ -40,6 +40,26 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Alice on Alicecast talking Comedy as Therapy</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice Fraser sits in the State Library of Victoria in Melbourne City and talks to herself about moving to Melbourne, Comedy as Therapy, Expressing fury through Blog Posts, the point of doing art about Death and the future of the Teacast. 
+
+look her up at @aliterative
+
+http://alicecomedyfraser.com</itunes:summary>
+<description>Alice Fraser sits in the State Library of Victoria in Melbourne City and talks to herself about moving to Melbourne, Comedy as Therapy, Expressing fury through Blog Posts, the point of doing art about Death and the future of the Teacast. 
+
+look her up at @aliterative
+
+http://alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/067_alice_on_alicecast_talking_comedy_as_therapy.mp3" length="26557880" type="audio/mp3"/>
+<pubDate>Sat, 23 May 2015 13:07:37 +1100</pubDate>
+<itunes:duration>13:50</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/067_alice_on_alicecast_talking_comedy_as_therapy.mp3</guid>
+</item>
+
+<item>
 <title>Goldstein Shower - Mike Goldstein</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Monogamy in the Basement</itunes:subtitle>
