@@ -40,6 +40,30 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Units of ComedyCast - Andy Matthews</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice Fraser sits in the Victorian State Library with Andy Matthews who is full of hot chocolate. They talk about comedy, poetry, engineering, time travel and being zoo exhibits.
+
+Find Andy on twitter at @stupidoldandy
+
+find alice at alicerfraser@gmail.com
+
+ </itunes:summary>
+<description>Alice Fraser sits in the Victorian State Library with Andy Matthews who is full of hot chocolate. They talk about comedy, poetry, engineering, time travel and being zoo exhibits.
+
+Find Andy on twitter at @stupidoldandy
+
+find alice at alicerfraser@gmail.com
+
+ </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/070_units_of_comedycast_-_andy_matthews.mp3" length="111188766" type="audio/mp3"/>
+<pubDate>Fri, 05 Jun 2015 14:48:48 +1100</pubDate>
+<itunes:duration>57:55</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/070_units_of_comedycast_-_andy_matthews.mp3</guid>
+</item>
+
+<item>
 <title>Rebel HeartCast - Georgie Carroll</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Anarchy in the Australia</itunes:subtitle>
