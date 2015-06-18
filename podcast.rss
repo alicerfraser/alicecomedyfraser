@@ -40,6 +40,25 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Lawrence Leung - Leung full of Aircast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits with Lawrence Leung in Grub Food Van and Kitchen, over a Jasmine Pearl tea talking ghosts, magic, film-making, random acts of kindness, comedians vs actors, form vs function and fighting the fear. 
+
+Lawrence can be found at http://lawrenceleung.com
+
+Alice can be found at http://alicefraser.com</itunes:summary>
+<description>Alice sits with Lawrence Leung in Grub Food Van and Kitchen, over a Jasmine Pearl tea talking ghosts, magic, film-making, random acts of kindness, comedians vs actors, form vs function and fighting the fear. 
+
+Lawrence can be found at http://lawrenceleung.com
+
+Alice can be found at http://alicefraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/072_lawrence_leung_-_leung_full_of_aircast.mp3" length="145855974" type="audio/mp3"/>
+<pubDate>Thu, 18 Jun 2015 17:33:35 +1100</pubDate>
+<itunes:duration>01:15:58</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/072_lawrence_leung_-_leung_full_of_aircast.mp3</guid>
+</item>
+<item>
 <title>Lawrence Mooney - Waxing Mooncast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
