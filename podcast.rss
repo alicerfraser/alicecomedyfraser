@@ -40,6 +40,22 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Jen Carnovale - Extra CreamCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits in Waterstones in London having tea with comedian and friend of the podcast Jen Carnovale. 
+
+They talk over black tea with scones, jam and extra cream about gravity, anxiety, depression, octopuses solving mazes, perception, meditation, passivity and reactions. </itunes:summary>
+<description>Alice sits in Waterstones in London having tea with comedian and friend of the podcast Jen Carnovale. 
+
+They talk over black tea with scones, jam and extra cream about gravity, anxiety, depression, octopuses solving mazes, perception, meditation, passivity and reactions. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/080_jen_carnovale_-_extra_creamcast.mp3" length="85781027" type="audio/mp3"/>
+<pubDate>Wed, 23 Sep 2015 15:21:47 +1100</pubDate>
+<itunes:duration>44:41</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/080_jen_carnovale_-_extra_creamcast.mp3</guid>
+</item>
+
+<item>
 <title>Winnie M Li in The Consentcast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
