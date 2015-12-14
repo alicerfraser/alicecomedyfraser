@@ -39,7 +39,17 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
-
+<item>
+<title>Kyran Wheatley Unwrapcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>50:08</itunes:subtitle>
+<itunes:summary>Pottery, partnership and unwrapping toys. Alice sits in the new living room of the excellent Kyran Wheatley in Sydney. They talk about lies and liberalism, the fallacy of free will and what happens when you find yourself on the wrong side of an argument. </itunes:summary>
+<description>Pottery, partnership and unwrapping toys. Alice sits in the new living room of the excellent Kyran Wheatley in Sydney. They talk about lies and liberalism, the fallacy of free will and what happens when you find yourself on the wrong side of an argument. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/089_kyran_wheatley_unwrapcast.mp3" length="96275982" type="audio/mp3"/>
+<pubDate>Mon, 14 Dec 2015 10:42:25 +1100</pubDate>
+<itunes:duration>50:08</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/089_kyran_wheatley_unwrapcast.mp3</guid>
+</item>
 
 <item>
 <title>Sami Shah Ship to Shahcast</title>
