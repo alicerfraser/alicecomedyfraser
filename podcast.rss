@@ -40,6 +40,26 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Laura Davis Trustcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Doctors, Lovers, Poisoners</itunes:subtitle>
+<itunes:summary>Alice sits with Laura Davis talking about the complex issues of trust, from crossing the road to falling in love. 
+
+Find Laura on twitter @lauradaviscomic
+
+Alice is available at alicecomedyfraser.com</itunes:summary>
+<description>Alice sits with Laura Davis talking about the complex issues of trust, from crossing the road to falling in love. 
+
+Find Laura on twitter @lauradaviscomic
+
+Alice is available at alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/093_laura_davis_trustcast.mp3" length="73858323" type="audio/mp3"/>
+<pubDate>Mon, 18 Jan 2016 18:36:58 +1100</pubDate>
+<itunes:duration>38:28</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/093_laura_davis_trustcast.mp3</guid>
+</item>
+
+<item>
 <title>Alex Cubis in Cubis SquaredCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Tea With Nazi Merman</itunes:subtitle>
