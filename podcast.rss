@@ -40,6 +40,26 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Sammy J BackstageCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Regrets, Evolution, Maintstream and Resilience</itunes:subtitle>
+<itunes:summary>Alice Sits backstage in the State Theatre with famous musical comedy man and half of Sammy J and Randy, Sammy J. 
+
+They talk over Matcha (which Sammy J isn't sure he likes) about Mainstream comedy, setting a mood, narratives, bullying, real jobs, regrets, the responsibilities of parenthood, God as Love, and how hard it is to know what you actually do and what you ACTUALLY like. 
+
+Sammy J is available online at http://www.Sammy-J.com</itunes:summary>
+<description>Alice Sits backstage in the State Theatre with famous musical comedy man and half of Sammy J and Randy, Sammy J. 
+
+They talk over Matcha (which Sammy J isn't sure he likes) about Mainstream comedy, setting a mood, narratives, bullying, real jobs, regrets, the responsibilities of parenthood, God as Love, and how hard it is to know what you actually do and what you ACTUALLY like. 
+
+Sammy J is available online at http://www.Sammy-J.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/094_sammy_j_backstagecast.mp3" length="89979845" type="audio/mp3"/>
+<pubDate>Fri, 29 Jan 2016 15:30:43 +1100</pubDate>
+<itunes:duration>46:52</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/094_sammy_j_backstagecast.mp3</guid>
+</item>
+
+<item>
 <title>Laura Davis Trustcast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Doctors, Lovers, Poisoners</itunes:subtitle>
