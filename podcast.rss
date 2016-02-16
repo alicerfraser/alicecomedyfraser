@@ -39,6 +39,20 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>Gordon Southern MemoryCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Memory and dementia, Iced Teas, world word clowns, and shouting at the gym. Alice sits in the dressing room of The Rhino Room in Adelaide, and talks with Gordon Southern, british wit and general good time guy about five a side football, hips, dads and whether we should leave dying to the professionals. </itunes:summary>
+<description>Memory and dementia, Iced Teas, world word clowns, and shouting at the gym. Alice sits in the dressing room of The Rhino Room in Adelaide, and talks with Gordon Southern, british wit and general good time guy about five a side football, hips, dads and whether we should leave dying to the professionals. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/095_gordon_southern_memorycast.mp3" length="67534600" type="audio/mp3"/>
+<pubDate>Wed, 17 Feb 2016 09:51:44 +1100</pubDate>
+<itunes:duration>35:10</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/095_gordon_southern_memorycast.mp3</guid>
+</item>
+
+
 <item>
 <title>Sammy J BackstageCast</title>
 <itunes:author>Alice Fraser</itunes:author>
