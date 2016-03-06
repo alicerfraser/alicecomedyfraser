@@ -39,6 +39,23 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Adam Richard in For Richard or PoorerCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>For Richard or Poorer</itunes:subtitle>
+<itunes:summary>Names, games and addictions. Filling the hole. Euphemisms and family. Alice sits with Adam Richard in the legendary Rhino Room in Adelaide. 
+
+Look Adam up online at adamrichard.com
+Alice is at alicecomedyfraser.com</itunes:summary>
+<description>Names, games and addictions. Filling the hole. Euphemisms and family. Alice sits with Adam Richard in the legendary Rhino Room in Adelaide. 
+
+Look Adam up online at adamrichard.com
+Alice is at alicecomedyfraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/097_adam_richard_in_for_richard_or_poorercast.mp3" length="130428264" type="audio/mp3"/>
+<pubDate>Sun, 06 Mar 2016 12:46:44 +1100</pubDate>
+<itunes:duration>01:07:56</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/097_adam_richard_in_for_richard_or_poorercast.mp3</guid>
+</item>
 
 <item>
 <title>Brendon BurnsCast - Put some calamine lotion on that burns</title>
