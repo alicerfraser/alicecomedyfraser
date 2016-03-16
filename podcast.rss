@@ -40,6 +40,22 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Tom Walker Texas Rangercast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Clowns, Bodybuilding, Gummy Bears, Tea</itunes:subtitle>
+<itunes:summary>Alice sits in the Rhino Room greenroom at Adelaide Fringe and talks to Tom Walker about male body image, clowning, epithets, WWE wrestling and Haribo Sugar Free Gummy Bear Amazon Review Reading Therapy.
+
+</itunes:summary>
+<description>Alice sits in the Rhino Room greenroom at Adelaide Fringe and talks to Tom Walker about male body image, clowning, epithets, WWE wrestling and Haribo Sugar Free Gummy Bear Amazon Review Reading Therapy.
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/098_tom_walker_texas_rangercast.mp3" length="76804099" type="audio/mp3"/>
+<pubDate>Wed, 16 Mar 2016 12:01:33 +1100</pubDate>
+<itunes:duration>40:00</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/098_tom_walker_texas_rangercast.mp3</guid>
+</item>
+
+<item>
 <title>Adam Richard in For Richard or PoorerCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>For Richard or Poorer</itunes:subtitle>
