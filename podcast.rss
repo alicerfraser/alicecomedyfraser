@@ -40,6 +40,22 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Wil Anderson of a Preacher Man</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Discourse, Status and Being The Most Important</itunes:subtitle>
+<itunes:summary>Alice sits with Wil in an apartment in Melbourne over an English Breakfast tea, and talks about podcasting, capitalism, opinions and fourth dates. 
+
+Find Wil on Google or Television. </itunes:summary>
+<description>Alice sits with Wil in an apartment in Melbourne over an English Breakfast tea, and talks about podcasting, capitalism, opinions and fourth dates. 
+
+Find Wil on Google or Television. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/099_wil_anderson_of_a_preacher_man.mp3" length="132880013" type="audio/mp3"/>
+<pubDate>Sat, 02 Apr 2016 15:14:16 +1100</pubDate>
+<itunes:duration>01:09:12</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/099_wil_anderson_of_a_preacher_man.mp3</guid>
+</item>
+
+<item>
 <title>Tom Walker Texas Rangercast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Clowns, Bodybuilding, Gummy Bears, Tea</itunes:subtitle>
