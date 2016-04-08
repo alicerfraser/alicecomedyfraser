@@ -39,6 +39,27 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>John Hastings less hastings more speedCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Education Systems, Conspiracy Theories, Mathematics, Jobs, Being an Adult.</itunes:subtitle>
+<itunes:summary>Alice has green tea and John Hastings has black tea, as they sit in a Hotel room in Melbourne, talking al dente pasta, schooling, popularity, bullying, and conformity. 
+
+Look up John Hastings at @thejohnhastings
+
+Alice is on twitter at @aliterative. </itunes:summary>
+<description>Alice has green tea and John Hastings has black tea, as they sit in a Hotel room in Melbourne, talking al dente pasta, schooling, popularity, bullying, and conformity. 
+
+Look up John Hastings at @thejohnhastings
+
+Alice is on twitter at @aliterative. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/100_john_hastings_less_hastings_more_speedcast.mp3" length="91610722" type="audio/mp3"/>
+<pubDate>Fri, 08 Apr 2016 21:56:28 +1100</pubDate>
+<itunes:duration>47:43</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/100_john_hastings_less_hastings_more_speedcast.mp3</guid>
+</item>
+
 <item>
 <title>Wil Anderson of a Preacher Man</title>
 <itunes:author>Alice Fraser</itunes:author>
