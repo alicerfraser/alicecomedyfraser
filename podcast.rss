@@ -39,6 +39,27 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Justin Moorhouse the Moorhouse or Lesscast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Success, Family, Floor-beds, Radio, Manchester Arrogance and Jobs</itunes:subtitle>
+<itunes:summary>Alice sits with British comedian and excellent human Justin Moorhouse, talking about the real world, 80's hairstyles, becoming a real man and what Success looks like. 
+
+Find Justin and his excellent podcast here: http://www.justinmoorhouse.com/
+
+Alice is at alicecomedyfraser.com
+</itunes:summary>
+<description>Alice sits with British comedian and excellent human Justin Moorhouse, talking about the real world, 80's hairstyles, becoming a real man and what Success looks like. 
+
+Find Justin and his excellent podcast here: http://www.justinmoorhouse.com/
+
+Alice is at alicecomedyfraser.com
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/101_justin_moorhouse_the_moorhouse_or_lesscast.mp3" length="119434265" type="audio/mp3"/>
+<pubDate>Sun, 17 Apr 2016 14:18:02 +1100</pubDate>
+<itunes:duration>01:02:12</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/101_justin_moorhouse_the_moorhouse_or_lesscast.mp3</guid>
+</item>
 
 <item>
 <title>John Hastings less hastings more speedCast</title>
