@@ -39,6 +39,29 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>Alex Edelman - Edelman or boycast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Ageism and the Infantilisation of Marketing to Millenials</itunes:subtitle>
+<itunes:summary>Alice sits in the cafe section of a fancy hotel with NY comedian Alex Edelman and he drinks hot chocolate while she drinks tea. They discuss big ideas, American Politics and meme-ification, sloganeering and what's actually cool. 
+
+Find Alex Edelman online at alexedelmancomedy.com
+
+Alice is at alicecomedyfraser.com
+</itunes:summary>
+<description>Alice sits in the cafe section of a fancy hotel with NY comedian Alex Edelman and he drinks hot chocolate while she drinks tea. They discuss big ideas, American Politics and meme-ification, sloganeering and what's actually cool. 
+
+Find Alex Edelman online at alexedelmancomedy.com
+
+Alice is at alicecomedyfraser.com
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/102_alex_edelman_-_edelman_or_boycast.mp3" length="109791111" type="audio/mp3"/>
+<pubDate>Sat, 23 Apr 2016 13:36:13 +1100</pubDate>
+<itunes:duration>57:11</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/102_alex_edelman_-_edelman_or_boycast.mp3</guid>
+</item>
+
 <item>
 <title>Justin Moorhouse the Moorhouse or Lesscast</title>
 <itunes:author>Alice Fraser</itunes:author>
