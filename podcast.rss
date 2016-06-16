@@ -38,6 +38,29 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>Helen Duff Clown LuxuryCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Helen and Alice sit outside a cafe in Camden and talk about Luxury, preparedness, orgasms and status. Alice does a lot of interrupting that, on listening back,x is a bit cringey. THIS IS A SELF INDULGENT ONE, GUYS.
+They debate ideas vs non-ideas and the virtue of the Aristocracy over mint tea. 
+
+Helen is available at HelenDuff.com
+Alice you can find at Alicecomedyfraser.com
+</itunes:summary>
+<description>Helen and Alice sit outside a cafe in Camden and talk about Luxury, preparedness, orgasms and status. Alice does a lot of interrupting that, on listening back,x is a bit cringey. THIS IS A SELF INDULGENT ONE, GUYS.
+They debate ideas vs non-ideas and the virtue of the Aristocracy over mint tea. 
+
+Helen is available at HelenDuff.com
+Alice you can find at Alicecomedyfraser.com
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/110_helen_duff_clown_luxurycast.mp3" length="92076328" type="audio/mp3"/>
+<pubDate>Thu, 16 Jun 2016 12:21:18 +1100</pubDate>
+<itunes:duration>47:57</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/110_helen_duff_clown_luxurycast.mp3</guid>
+</item>
+
 <item>
 <title>Henry Fraser Twincast redux redux returns </title>
 <itunes:author>Alice Fraser</itunes:author>
