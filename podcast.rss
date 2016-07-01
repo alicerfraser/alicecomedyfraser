@@ -38,6 +38,25 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Larry Dean Black Tea No OpinionsCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Gimme Some Sugar Baybee</itunes:subtitle>
+<itunes:summary>Alice sits with Larry Dean in Crouch End, talking about people pleasing, having opinions, socialism, offensive words and what it all means. 
+
+Larry Dean is available online via http://www.larrydeancomedy.com/
+
+Alice is up at alicecomedyfraser.com as usual</itunes:summary>
+<description>Alice sits with Larry Dean in Crouch End, talking about people pleasing, having opinions, socialism, offensive words and what it all means. 
+
+Larry Dean is available online via http://www.larrydeancomedy.com/
+
+Alice is up at alicecomedyfraser.com as usual</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/111_larry_dean_black_tea_no_opinionscast.mp3" length="97302490" type="audio/mp3"/>
+<pubDate>Fri, 01 Jul 2016 20:23:16 +1100</pubDate>
+<itunes:duration>50:41</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/111_larry_dean_black_tea_no_opinionscast.mp3</guid>
+</item>
 
 <item>
 <title>Helen Duff Clown LuxuryCast</title>
