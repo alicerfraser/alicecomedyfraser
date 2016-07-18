@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Barry Ferns AngelCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Festival Quickie</itunes:subtitle>
+<itunes:summary>Morality and community comedy, the ethics of pedophiles and a cup of straight hot water. Alice talks to Barry Ferns of Angel Comedy about his kickstarter, and his difficult ideas. 
+
+Barry can be found</itunes:summary>
+<description>Morality and community comedy, the ethics of pedophiles and a cup of straight hot water. Alice talks to Barry Ferns of Angel Comedy about his kickstarter, and his difficult ideas. 
+
+Barry can be found</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/113_barry_ferns_angelcast.mp3" length="57312154" type="audio/mp3"/>
+<pubDate>Tue, 19 Jul 2016 00:19:25 +1100</pubDate>
+<itunes:duration>29:51</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/113_barry_ferns_angelcast.mp3</guid>
+</item>
+
+<item>
 <title>Mitch Alexander Heavy Metal Philosophy</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Primal Rage Scream</itunes:subtitle>
