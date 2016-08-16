@@ -39,6 +39,26 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Larry Dean ControversyCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits in bed with returning friend of the teacast, Larry Dean. We talk about controversy and having an opinion about things. 
+
+Larry can be found at http://www.larrydeancomedy.com/
+
+Alice is as http://alicefraser.com</itunes:summary>
+<description>Alice sits in bed with returning friend of the teacast, Larry Dean. We talk about controversy and having an opinion about things. 
+
+Larry can be found at http://www.larrydeancomedy.com/
+
+Alice is as http://alicefraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/117_larry_dean_controversycast.mp3" length="83654450" type="audio/mp3"/>
+<pubDate>Mon, 15 Aug 2016 14:47:00 +1100</pubDate>
+<itunes:duration>43:34</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/117_larry_dean_controversycast.mp3</guid>
+</item>
+
+<item>
 <title>Alana Zivanovic Jazz Non Standard</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
