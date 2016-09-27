@@ -38,6 +38,17 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+ <item>
+<title>Matt Kirshen at the LA PodFestCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Kirshen and Shpitten </itunes:subtitle>
+<itunes:summary>Alice sits poolside at the LA Podcast festival with excellent comedian and cohost of Probably Science, Matt Kirshen. They talk about what you do when there's no way to make tea, the implications of allergies, why terrorism isn't that bad, and how some tragic accidents aren't that tragic or accidental. </itunes:summary>
+<description>Alice sits poolside at the LA Podcast festival with excellent comedian and cohost of Probably Science, Matt Kirshen. They talk about what you do when there's no way to make tea, the implications of allergies, why terrorism isn't that bad, and how some tragic accidents aren't that tragic or accidental. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/120_matt_kirshen_at_the_la_podfestcast.mp3" length="75677281" type="audio/mp3"/>
+<pubDate>Tue, 27 Sep 2016 14:50:10 +1100</pubDate>
+<itunes:duration>39:25</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/120_matt_kirshen_at_the_la_podfestcast.mp3</guid>
+</item>
 
 <item>
 <title>James Nokise Culture Bend Cast</title>
