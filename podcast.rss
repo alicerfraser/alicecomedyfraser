@@ -37,6 +37,22 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+ 
+ <item>
+<title>Troy Conrad ShortBusCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits drinking yellow sparkly Arya turmeric Water with Troy Conrad, while they talk about cross cultural communication and the nature of insult and risk. 
+
+You can find Troy Conrad by googling Troy Conrad, and Alice is as ever available on twitter at @aliterative</itunes:summary>
+<description>Alice sits drinking yellow sparkly Arya turmeric Water with Troy Conrad, while they talk about cross cultural communication and the nature of insult and risk. 
+
+You can find Troy Conrad by googling Troy Conrad, and Alice is as ever available on twitter at @aliterative</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/121_troy_conrad_shortbuscast.mp3" length="67961754" type="audio/mp3"/>
+<pubDate>Tue, 04 Oct 2016 12:58:14 +1100</pubDate>
+<itunes:duration>35:24</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/121_troy_conrad_shortbuscast.mp3</guid>
+</item>
 
  <item>
 <title>Matt Kirshen at the LA PodFestCast</title>
