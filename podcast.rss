@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Lucy Fraser - Anniversary Podcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>A conversation with Lucy Fraser</itunes:summary>
+<description>A conversation with Lucy Fraser</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/122_lucy_fraser_-_anniversary_podcast.mp3" length="42757143" type="audio/mp3"/>
+<pubDate>Wed, 12 Oct 2016 23:53:13 +1100</pubDate>
+<itunes:duration>22:16</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/122_lucy_fraser_-_anniversary_podcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Troy Conrad ShortBusCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
