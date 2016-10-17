@@ -38,6 +38,35 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>The Jig is Up Teacast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The first Four-Way Teacast in the Sofitel at the @lapodfest.
+
+Alice talks to the three stars of The 'The Jig is Up' podcast in the lobby of the Sofitel in Los Angeles about Honesty vs Diplomacy and the complexities of Lust, Love in terms of Gender. Do men want love? Do women want sex? Or vice versa?
+
+Find the Jig is Up people at http://thejigisuppodcast.com/?tag=the-jig-is-up-podcast
+
+and Alice, as ever, is at patreon.com/alicefraser
+
+</itunes:summary>
+<description>The first Four-Way Teacast in the Sofitel at the @lapodfest.
+
+Alice talks to the three stars of The 'The Jig is Up' podcast in the lobby of the Sofitel in Los Angeles about Honesty vs Diplomacy and the complexities of Lust, Love in terms of Gender. Do men want love? Do women want sex? Or vice versa?
+
+Find the Jig is Up people at http://thejigisuppodcast.com/?tag=the-jig-is-up-podcast
+
+and Alice, as ever, is at patreon.com/alicefraser
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/123_the_jig_is_up_teacast.mp3" length="74917431" type="audio/mp3"/>
+<pubDate>Mon, 17 Oct 2016 17:03:33 +1100</pubDate>
+<itunes:duration>39:01</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/123_the_jig_is_up_teacast.mp3</guid>
+</item>
+ 
  <item>
 <title>Lucy Fraser - Anniversary Podcast</title>
 <itunes:author>Alice Fraser</itunes:author>
