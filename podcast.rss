@@ -38,6 +38,22 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Tom Lang Science Educast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Sitting in Alice Fraser's flat in Melbourne, drinking green tea and liquorice tea, Tom Lang, Science Educator and comedian talks about Plants, Science Education and branding versus reputation.
+
+Look Tom Lang up at @langaround on twitter or find him sciencing somewhere near you. </itunes:summary>
+<description>Sitting in Alice Fraser's flat in Melbourne, drinking green tea and liquorice tea, Tom Lang, Science Educator and comedian talks about Plants, Science Education and branding versus reputation.
+
+Look Tom Lang up at @langaround on twitter or find him sciencing somewhere near you. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/124_tom_lang_science_educast.mp3" length="97149517" type="audio/mp3"/>
+<pubDate>Wed, 26 Oct 2016 17:20:34 +1100</pubDate>
+<itunes:duration>50:36</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/124_tom_lang_science_educast.mp3</guid>
+</item>
+ 
  
  <item>
 <title>The Jig is Up Teacast</title>
