@@ -38,25 +38,7 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
- <item>
-<title>Anya Anastasia Personal ResponsibilityCast</title>
-<itunes:author>Alice Fraser</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary>Alice talks to the brilliant Anya Anastasia about personal responsibility, art, identity, roles, work, mental health and marketing, the history of cabaret and playing the piano upside down behind your head.
 
-Look up Anya Anastasia at http://anyaanastasia.com/
-
-Alice is at http://alicefraser.com as usual. </itunes:summary>
-<description>Alice talks to the brilliant Anya Anastasia about personal responsibility, art, identity, roles, work, mental health and marketing, the history of cabaret and playing the piano upside down behind your head.
-
-Look up Anya Anastasia at http://anyaanastasia.com/
-
-Alice is at http://alicefraser.com as usual. </description>
-<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/125_anya_anastasia_personal_responsibilitycast.mp3" length="114469746" type="audio/mp3"/>
-<pubDate>Fri, 04 Nov 2016 15:11:40 +1100</pubDate>
-<itunes:duration>59:37</itunes:duration>
-<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/125_anya_anastasia_personal_responsibilitycast.mp3</guid>
-</item>
  
  <item>
 <title>Tom Lang Science Educast</title>
