@@ -37,6 +37,31 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+ 
+ <item>
+<title>Mitch Alexander The Metal PhilosophyCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Plus background Russian dancing. </itunes:subtitle>
+<itunes:summary>In the ACMI cafe, Alice talks over Lemongrass and Ginger tea and a Peppermint tea with Philosophy Educator and MetalHead, Mitch Alexander. 
+
+What's happened to the Left Wing? Moral Reasoning, Social Justice Warriors, whose job is it to educate you, who's on the wrong side of history, who has to fight and when. A good chat with some traditional dancing in the background
+
+Mitch Alexander is online as Philosophica.
+
+Alice is at @aliterative</itunes:summary>
+<description>In the ACMI cafe, Alice talks over Lemongrass and Ginger tea and a Peppermint tea with Philosophy Educator and MetalHead, Mitch Alexander. 
+
+What's happened to the Left Wing? Moral Reasoning, Social Justice Warriors, whose job is it to educate you, who's on the wrong side of history, who has to fight and when. A good chat with some traditional dancing in the background
+
+Mitch Alexander is online as Philosophica.
+
+Alice is at @aliterative</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/126_mitch_alexander_the_metal_philosophycast.mp3" length="80597497" type="audio/mp3"/>
+<pubDate>Fri, 11 Nov 2016 14:52:22 +1100</pubDate>
+<itunes:duration>41:59</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/126_mitch_alexander_the_metal_philosophycast.mp3</guid>
+</item>
+ 
 <item>
 <title>Anya Anastasia Personal ResponsibilityCast</title>
 <itunes:author>Alice Fraser</itunes:author>
