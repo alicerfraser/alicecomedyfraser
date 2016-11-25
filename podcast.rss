@@ -38,6 +38,25 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+<item>
+<title>Professor Michael Fraser first ever DadCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Professor Michael Fraser sits with me to talk about the AMP foundation Tomorrow Makers award, morality in a post-truth world, artificial intelligence, and the capacity of human beings for good and evil. I also talk to some of the other Tomorrow Makers, and say thanks to you guys. 
+
+Michael Fraser can be emailed at fraser.michael@bigppond.com.au
+
+but you're probably better off going through me at http://alicefraser.com</itunes:summary>
+<description>Professor Michael Fraser sits with me to talk about the AMP foundation Tomorrow Makers award, morality in a post-truth world, artificial intelligence, and the capacity of human beings for good and evil. I also talk to some of the other Tomorrow Makers, and say thanks to you guys. 
+
+Michael Fraser can be emailed at fraser.michael@bigppond.com.au
+
+but you're probably better off going through me at http://alicefraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/127_professor_michael_fraser_first_ever_dadcast.mp3" length="70488736" type="audio/mp3"/>
+<pubDate>Fri, 25 Nov 2016 14:31:51 +1100</pubDate>
+<itunes:duration>36:43</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/127_professor_michael_fraser_first_ever_dadcast.mp3</guid>
+</item>
  <item>
 <title>Mitch Alexander The Metal PhilosophyCast</title>
 <itunes:author>Alice Fraser</itunes:author>
