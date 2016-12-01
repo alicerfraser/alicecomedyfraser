@@ -38,6 +38,26 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Scott Huntington Prodigal SonCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits with Scott Huntington, polymath, DJ, pop music producer, expat and games designer in a foodcourt in Sydney, and they talk about being a good person, and what's useful to say, think and do. 
+
+Scott can be found with great difficulty, though look up his music by looking up Huntington on your music search facility. 
+
+Alice is, as usual, at @aliterative, alicefraser.com and alicerfraser@gmail.com like a chump. </itunes:summary>
+<description>Alice sits with Scott Huntington, polymath, DJ, pop music producer, expat and games designer in a foodcourt in Sydney, and they talk about being a good person, and what's useful to say, think and do. 
+
+Scott can be found with great difficulty, though look up his music by looking up Huntington on your music search facility. 
+
+Alice is, as usual, at @aliterative, alicefraser.com and alicerfraser@gmail.com like a chump. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/128_scott_huntington_prodigal_soncast.mp3" length="115341609" type="audio/mp3"/>
+<pubDate>Thu, 01 Dec 2016 23:44:31 +1100</pubDate>
+<itunes:duration>01:00:04</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/128_scott_huntington_prodigal_soncast.mp3</guid>
+</item>
+ 
 <item>
 <title>Professor Michael Fraser first ever DadCast</title>
 <itunes:author>Alice Fraser</itunes:author>
