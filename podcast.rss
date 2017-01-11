@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Kirsty Newton</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>The Sound of Silence Late at Night</itunes:subtitle>
+<itunes:summary>Alice sits in a cafe called Edith's House and talks with London based musician-comedian-collaborator-teacher-performer Kirsty Newton about sleep, insomnia, teaching, rehabilitating the bad reputation of musical comedy, art and death and how to do grief properly. </itunes:summary>
+<description>Alice sits in a cafe called Edith's House and talks with London based musician-comedian-collaborator-teacher-performer Kirsty Newton about sleep, insomnia, teaching, rehabilitating the bad reputation of musical comedy, art and death and how to do grief properly. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/132_kirsty_newton.mp3" length="101772982" type="audio/mp3"/>
+<pubDate>Wed, 11 Jan 2017 11:50:47 +1100</pubDate>
+<itunes:duration>53:00</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/132_kirsty_newton.mp3</guid>
+</item>
+ 
+ <item>
 <title>Ed Byrne Free SpeechCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>End of The Year and Ed Byrne doesn't like tea. </itunes:subtitle>
