@@ -39,6 +39,24 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Stuart Goldsmith - ComComCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Pod Pod Pod</itunes:subtitle>
+<itunes:summary>Alice sits with Stuart Goldsmith in his flat in London, and nerds out about interview process, victimhood, vectors and saying "I don't know". 
+
+You can find Stuart Goldsmith at:
+http://www.stuartgoldsmith.co.uk/</itunes:summary>
+<description>Alice sits with Stuart Goldsmith in his flat in London, and nerds out about interview process, victimhood, vectors and saying "I don't know". 
+
+You can find Stuart Goldsmith at:
+http://www.stuartgoldsmith.co.uk/</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/134_stuart_goldsmith_-_comcomcast.mp3" length="106168029" type="audio/mp3"/>
+<pubDate>Fri, 20 Jan 2017 17:57:15 +1100</pubDate>
+<itunes:duration>01:13:43</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/134_stuart_goldsmith_-_comcomcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Jason Stone The Cheryl Cole of Media Journalism</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
