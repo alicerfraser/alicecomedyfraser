@@ -38,6 +38,28 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Dean Mayes - VoicelessCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Dean Mayes returns to the teacast to talk about not talking, writing novels, the resources we have, the economics of healthcare and all of the ways your place in the world changes when you're a nurse without a voice. 
+
+Look up dean's books by googling Dean From Australia.
+
+Alice is available as ever at alicefraser.com
+</itunes:summary>
+<description>Dean Mayes returns to the teacast to talk about not talking, writing novels, the resources we have, the economics of healthcare and all of the ways your place in the world changes when you're a nurse without a voice. 
+
+Look up dean's books by googling Dean From Australia.
+
+Alice is available as ever at alicefraser.com
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/140_dean_mayes_-_voicelesscast.mp3" length="49132692" type="audio/mp3"/>
+<pubDate>Sun, 12 Mar 2017 17:26:10 +1100</pubDate>
+<itunes:duration>51:11</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/140_dean_mayes_-_voicelesscast.mp3</guid>
+</item>
+ 
  
  <item>
 <title>James Nokise - Return of the ColonisedCast</title>
