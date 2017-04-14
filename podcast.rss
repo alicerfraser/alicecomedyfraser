@@ -38,6 +38,26 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Jeeves Verma - Jeeves and WistfulCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice and Jeeves sit outside in Melbourne, drinking tea with bits in. The world of Emojis, the reality of the times when people don't laugh, how to change the past in a laboratory.
+
+Jeeves Verma is available online if you google his name @jeevesverma 
+
+Alice is as ever available at alicefraser.com</itunes:summary>
+<description>Alice and Jeeves sit outside in Melbourne, drinking tea with bits in. The world of Emojis, the reality of the times when people don't laugh, how to change the past in a laboratory.
+
+Jeeves Verma is available online if you google his name @jeevesverma 
+
+Alice is as ever available at alicefraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/144_jeeves_verma_-_jeeves_and_wistfulcast.mp3" length="58687240" type="audio/mp3"/>
+<pubDate>Fri, 14 Apr 2017 12:16:08 +1100</pubDate>
+<itunes:duration>01:01:08</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/144_jeeves_verma_-_jeeves_and_wistfulcast.mp3</guid>
+</item>
  <item>
 <title>Tim Batt - Battening Down The HatchesCast</title>
 <itunes:author>Alice Fraser</itunes:author>
