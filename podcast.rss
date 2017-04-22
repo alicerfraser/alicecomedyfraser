@@ -38,6 +38,25 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Andrew McClelland - The HumanityCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Andrew McClelland sits in the QV building in Melbourne to be joyous, articulate and ethical. Chalky green tea and an almond milk latte are the underlay for conversation about the universal basic income, his revised attitude to his catholic confirmation name, Catholic comic books and the worth of a human being. 
+
+Hit him up at @Andy_McClelland ‏
+
+Alice is @aliterative as ever</itunes:summary>
+<description>Andrew McClelland sits in the QV building in Melbourne to be joyous, articulate and ethical. Chalky green tea and an almond milk latte are the underlay for conversation about the universal basic income, his revised attitude to his catholic confirmation name, Catholic comic books and the worth of a human being. 
+
+Hit him up at @Andy_McClelland ‏
+
+Alice is @aliterative as ever</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/145_andrew_mcclelland_-_the_humanitycast.mp3" length="38001185" type="audio/mp3"/>
+<pubDate>Sat, 22 Apr 2017 13:04:03 +1100</pubDate>
+<itunes:duration>39:35</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/145_andrew_mcclelland_-_the_humanitycast.mp3</guid>
+</item>
  
  <item>
 <title>Jeeves Verma - Jeeves and WistfulCast</title>
