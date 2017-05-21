@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>John Vlismas - RaceCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>John Vlismas on race, preachiness, being offensive versus being polite. Crime in South Africa. Facets of rage. How to be a commentator in a foreign land. Refugees from democracy. </itunes:summary>
+<description>John Vlismas on race, preachiness, being offensive versus being polite. Crime in South Africa. Facets of rage. How to be a commentator in a foreign land. Refugees from democracy. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/149_john_vlismas_-_racecast.mp3" length="40144480" type="audio/mp3"/>
+<pubDate>Sun, 21 May 2017 12:17:25 +1100</pubDate>
+<itunes:duration>41:49</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/149_john_vlismas_-_racecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Paul Solomon - Return of Sandwich JonesCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
