@@ -38,6 +38,27 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Laura Davis - Rage and BraCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In Alice's temporary home in Collingwood, Laura Davis drinks Russian Caravan tea and talks about ethical dilemmas, moving house, travel and rage. 
+
+Laura is online at http://lauradaviscomedy.com
+
+Alice is at alicefraser.com</itunes:summary>
+<description>In Alice's temporary home in Collingwood, Laura Davis drinks Russian Caravan tea and talks about ethical dilemmas, moving house, travel and rage. 
+
+Laura is online at http://lauradaviscomedy.com
+
+Alice is at alicefraser.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/150_laura_davis_-_rage_and_bracast.mp3" length="44635033" type="audio/mp3"/>
+<pubDate>Sun, 28 May 2017 23:06:18 +1100</pubDate>
+<itunes:duration>46:29</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/150_laura_davis_-_rage_and_bracast.mp3</guid>
+</item>
+ 
  <item>
 <title>John Vlismas - RaceCast</title>
 <itunes:author>Alice Fraser</itunes:author>
