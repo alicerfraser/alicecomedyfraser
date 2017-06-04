@@ -38,7 +38,17 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
-
+<item>
+<title>David Maney - Alternative Medicinecast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>David Maney is a performer, teacher of Clowning, works with disabled people and is trying to brush up his resume. He talks to Alice over Peppermint tea about Invisible Disabilities, New Age Medicine and Being a Tea. </itunes:summary>
+<description>David Maney is a performer, teacher of Clowning, works with disabled people and is trying to brush up his resume. He talks to Alice over Peppermint tea about Invisible Disabilities, New Age Medicine and Being a Tea. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/151_david_maney_-_alternative_medicinecast.mp3" length="60613196" type="audio/mp3"/>
+<pubDate>Sun, 04 Jun 2017 11:25:42 +1100</pubDate>
+<itunes:duration>01:03:08</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/151_david_maney_-_alternative_medicinecast.mp3</guid>
+</item>
  
  <item>
 <title>Laura Davis - Rage and BraCast</title>
