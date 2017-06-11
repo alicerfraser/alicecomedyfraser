@@ -38,6 +38,20 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+
+<item>
+<title>Mitch Alexander - Dangerous IdeasCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Mitch Alexander on sex robots, thinking like a nazi and the state of academia. discuss fear, censorship and the danger or virtue of dangerous ideas about virtue. Also, a battle with passing trolleys. 
+</itunes:summary>
+<description>Mitch Alexander on sex robots, thinking like a nazi and the state of academia. discuss fear, censorship and the danger or virtue of dangerous ideas about virtue. Also, a battle with passing trolleys. 
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/152_mitch_alexander_-_dangerous_ideascast.mp3" length="52267386" type="audio/mp3"/>
+<pubDate>Sun, 11 Jun 2017 22:50:58 +1100</pubDate>
+<itunes:duration>54:26</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/152_mitch_alexander_-_dangerous_ideascast.mp3</guid>
+</item>
 <item>
 <title>David Maney - Alternative Medicinecast</title>
 <itunes:author>Alice Fraser</itunes:author>
