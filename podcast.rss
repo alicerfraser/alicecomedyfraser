@@ -38,7 +38,17 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
-
+<item>
+<title>Tea for OneCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This week, I sit alone in a room with a cuppa, talking to the void. We discuss modular identities, why "whatabouting" depletes empathy, the night I hung out by a fridge with Alan Cumming and whether we're more than the sum of our parts. </itunes:summary>
+<description>This week, I sit alone in a room with a cuppa, talking to the void. We discuss modular identities, why "whatabouting" depletes empathy, the night I hung out by a fridge with Alan Cumming and whether we're more than the sum of our parts. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/153_tea_for_onecast.mp3" length="34505792" type="audio/mp3"/>
+<pubDate>Sun, 18 Jun 2017 18:18:30 +1100</pubDate>
+<itunes:duration>35:56</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/153_tea_for_onecast.mp3</guid>
+</item>
 <item>
 <title>Mitch Alexander - Dangerous IdeasCast</title>
 <itunes:author>Alice Fraser</itunes:author>
