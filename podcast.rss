@@ -38,6 +38,27 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Kirsty Webeck - DisappointmentCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>State Library, unsweetened iced green tea on a cold day, the evolution of language in silos, being on a pedestal, communicating, and what Kirsty wears to a wedding. 
+
+Find Kirsty Webeck at @kirstywebeck on all the social media. 
+
+Alice is at @aliterative as always</itunes:summary>
+<description>State Library, unsweetened iced green tea on a cold day, the evolution of language in silos, being on a pedestal, communicating, and what Kirsty wears to a wedding. 
+
+Find Kirsty Webeck at @kirstywebeck on all the social media. 
+
+Alice is at @aliterative as always</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/154_kirsty_webeck_-_disappointmentcast.mp3" length="70480794" type="audio/mp3"/>
+<pubDate>Sun, 25 Jun 2017 16:35:05 +1100</pubDate>
+<itunes:duration>01:13:25</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/154_kirsty_webeck_-_disappointmentcast.mp3</guid>
+</item>
+ 
 <item>
 <title>Tea for OneCast</title>
 <itunes:author>Alice Fraser</itunes:author>
