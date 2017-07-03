@@ -38,6 +38,25 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Henry Fraser - FightCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Academic and twin brother Henry Fraser sits with Alice in his flat in London drinking lapsang souchong and talks about the economy of attention, deep long held carrot resentment, sharks, terrorism, cycling and hope. 
+
+Henry's taken himself offline for the most part but can be found on instagram at @h_fray_day
+
+Alice is at @aliterative as ever. </itunes:summary>
+<description>Academic and twin brother Henry Fraser sits with Alice in his flat in London drinking lapsang souchong and talks about the economy of attention, deep long held carrot resentment, sharks, terrorism, cycling and hope. 
+
+Henry's taken himself offline for the most part but can be found on instagram at @h_fray_day
+
+Alice is at @aliterative as ever. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/155_henry_fraser_-_fightcast.mp3" length="54,668,980" type="audio/mp3"/>
+<pubDate>Mon, 03 Jul 2017 22:27:22 +1100</pubDate>
+<itunes:duration>56:57</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/155_henry_fraser_-_fightcast.mp3</guid>
+</item>
  
  <item>
 <title>Kirsty Webeck - DisappointmentCast</title>
