@@ -38,6 +38,26 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+<item>
+<title>Sameena Zehra - CultureCast </title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice drinks tea at the house of Sameena Zehra, who is a fascinating bundle of ideas, an immigrant, activist, artist, actor and standup, she lives in Brighton and we talked about all sorts, including culture, belief, family and how she lost her religion, asking questions and getting in trouble.
+
+You can find Sameena at sameenazehra.com
+ 
+Alice is at @aliterative as ever.</itunes:summary>
+<description>Alice drinks tea at the house of Sameena Zehra, who is a fascinating bundle of ideas, an immigrant, activist, artist, actor and standup, she lives in Brighton and we talked about all sorts, including culture, belief, family and how she lost her religion, asking questions and getting in trouble.
+
+You can find Sameena at sameenazehra.com
+ 
+Alice is at @aliterative as ever.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/160_sameena_zehra_-_culturecast_.mp3" length="45324666" type="audio/mp3"/>
+<pubDate>Sun, 06 Aug 2017 18:32:14 +1100</pubDate>
+<itunes:duration>47:13</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/160_sameena_zehra_-_culturecast_.mp3</guid>
+</item>
+ 
  <item>
 <title>The Return of Solo</title>
 <itunes:author>Alice Fraser</itunes:author>
