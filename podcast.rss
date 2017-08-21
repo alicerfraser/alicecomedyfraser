@@ -38,6 +38,30 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Lydia Rickards - Getting Oldcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Lydia Rickards sits with Alice Fraser in a tea house in Soho in London to talk about ageing, life plans, being boring and why she's drinking hot water with Lemon. 
+
+You can find Lydia at @lydiarickards
+
+Alice is at @aliterative as ever. 
+
+</itunes:summary>
+<description>Lydia Rickards sits with Alice Fraser in a tea house in Soho in London to talk about ageing, life plans, being boring and why she's drinking hot water with Lemon. 
+
+You can find Lydia at @lydiarickards
+
+Alice is at @aliterative as ever. 
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/161_lydia_rickards_-_getting_oldcast.mp3" length="50365254" type="audio/mp3"/>
+<pubDate>Mon, 21 Aug 2017 19:17:11 +1100</pubDate>
+<itunes:duration>52:28</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/161_lydia_rickards_-_getting_oldcast.mp3</guid>
+</item>
+ 
 <item>
 <title>Sameena Zehra - CultureCast </title>
 <itunes:author>Alice Fraser</itunes:author>
