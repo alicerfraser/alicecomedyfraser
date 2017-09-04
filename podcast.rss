@@ -39,6 +39,30 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Laura Davis - Mothcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Laura Davis, friend of the podcast and Alice sit in a London flat over Choc-Mint Rooibos tea, talking Moths, Travel, Existential Crises, the Essential trouble with Comedic News Satire and Edinburgh.
+
+You can find Laura at @lauradaviscomic
+Alice is at @aliterative 
+Alice is at @aliterative as ever. 
+
+</itunes:summary>
+<description>Laura Davis, friend of the podcast and Alice sit in a London flat over Choc-Mint Rooibos tea, talking Moths, Travel, Existential Crises, the Essential trouble with Comedic News Satire and Edinburgh.
+
+You can find Laura at @lauradaviscomic
+Alice is at @aliterative 
+Alice is at @aliterative as ever. 
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/163_laura_davis_-_mothcast.mp3" length="44729910" type="audio/mp3"/>
+<pubDate>Mon, 04 Sep 2017 23:38:49 +1100</pubDate>
+<itunes:duration>46:35</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/163_laura_davis_-_mothcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Andy Zaltzman - Economic InequityCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
