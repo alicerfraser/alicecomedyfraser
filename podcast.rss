@@ -39,6 +39,27 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Alice Fraser - WallCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Thwarted in this week's podcast recording, Alice returns to her trusty friend, talking to the wall. Extreme jetlag and post-adrenaline combine to make for a very rambling teacast, in which death threats, heckling, jumpsuits, Artificial Intelligence and listener e-mails weave together in bare coherence. 
+
+Alice is at @aliterative as ever. 
+
+</itunes:summary>
+<description>Thwarted in this week's podcast recording, Alice returns to her trusty friend, talking to the wall. Extreme jetlag and post-adrenaline combine to make for a very rambling teacast, in which death threats, heckling, jumpsuits, Artificial Intelligence and listener e-mails weave together in bare coherence. 
+
+Alice is at @aliterative as ever. 
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/165_alice_fraser_-_wallcast.mp3" length="26801968" type="audio/mp3"/>
+<pubDate>Mon, 18 Sep 2017 22:04:26 +1100</pubDate>
+<itunes:duration>27:55</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/165_alice_fraser_-_wallcast.mp3</guid>
+</item>
+ 
+ 
+ <item>
 <title>Tiff Stevenson - RepresentCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
