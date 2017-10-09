@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Paul Gilmartin - MentalCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice talks to Paul Gilmartin of the Mental Illness Happy Hour Podcast about shame, support groups, the incest spectrum, his experience with doing a podcast about mental illness, and American Politics.
+
+Alice is at @aliterative as ever. </itunes:summary>
+<description>Alice talks to Paul Gilmartin of the Mental Illness Happy Hour Podcast about shame, support groups, the incest spectrum, his experience with doing a podcast about mental illness, and American Politics.
+
+Alice is at @aliterative as ever. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/168_paul_gilmartin_-_mentalcast.mp3" length="57593440" type="audio/mp3"/>
+<pubDate>Mon, 09 Oct 2017 01:24:41 +1100</pubDate>
+<itunes:duration>59:59</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/168_paul_gilmartin_-_mentalcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Andrew X - Manners Make Mancast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
