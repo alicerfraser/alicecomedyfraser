@@ -38,6 +38,26 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Henry Fraser - SwearingCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Henry Fraser over fizzy water, green tea and a hastily swallowed quiche in a busy cafe in Drury Lane. Listen to Alice make her long suffering twin and Oxford Alumnus Henry talk to her about nuance, the techniques of mediation, and the complexities of feminism. 
+
+Henry can be found at @henryfraserecho on twitter BUT NOWHERE ELSE!
+Alice is at @aliterative as ever. 
+</itunes:summary>
+<description>Henry Fraser over fizzy water, green tea and a hastily swallowed quiche in a busy cafe in Drury Lane. Listen to Alice make her long suffering twin and Oxford Alumnus Henry talk to her about nuance, the techniques of mediation, and the complexities of feminism. 
+
+Henry can be found at @henryfraserecho on twitter BUT NOWHERE ELSE!
+Alice is at @aliterative as ever. 
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/176_henry_fraser_-_swearingcast.mp3" length="46394642" type="audio/mp3"/>
+<pubDate>Wed, 13 Dec 2017 20:33:55 +1100</pubDate>
+<itunes:duration>48:19</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/176_henry_fraser_-_swearingcast.mp3</guid>
+</item>
+ 
 <item>
 <title>Tiff Stevenson - Consent Cast</title>
 <itunes:author>Alice Fraser</itunes:author>
