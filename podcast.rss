@@ -38,6 +38,25 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Chris Skinner - InheritanceCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Chris Skinner, producer of The Bugle Podcast sits with Alice in a tea shop in Soho over not-quite black tea and talks about inheritance, the news, dignity, class fiction and meeting your enemies in a pub. 
+
+Find Chris at @producerchris on Twitter
+
+Alice is at @aliterative as ever</itunes:summary>
+<description>Chris Skinner, producer of The Bugle Podcast sits with Alice in a tea shop in Soho over not-quite black tea and talks about inheritance, the news, dignity, class fiction and meeting your enemies in a pub. 
+
+Find Chris at @producerchris on Twitter
+
+Alice is at @aliterative as ever</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/178_chris_skinner_-_inheritancecast.mp3" length="54240990" type="audio/mp3"/>
+<pubDate>Mon, 08 Jan 2018 20:22:10 +1100</pubDate>
+<itunes:duration>56:30</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/178_chris_skinner_-_inheritancecast.mp3</guid>
+</item>
  
  <item>
 <title>Ed Byrne - Rage and Winning</title>
