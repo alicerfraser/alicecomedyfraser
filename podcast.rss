@@ -37,9 +37,8 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
- 
- <item>
-<title>Elf Lyons - Economics, Awards and Alcoholismcast</title>
+<item>
+<title>Elf Lyons - Economics Awards and Alcoholismcast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary>Elf Lyons, AA, drinking, Malthusian Economics, the punchline of Veganism, impostor syndrome and queer self policing. 
@@ -52,10 +51,10 @@ Alice is at @aliterative as always</itunes:summary>
 Find Elf on twitter at @elf_lyons
 
 Alice is at @aliterative as always</description>
-<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/185_elf_lyons_-_economics,_awards_and_alcoholismcast.mp3" length="42043269" type="audio/mp3"/>
-<pubDate>Tue, 06 Mar 2018 10:32:41 +1100</pubDate>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/185_elf_lyons_-_economics_awards_and_alcoholismcast.mp3" length="42043269" type="audio/mp3"/>
+<pubDate>Tue, 06 Mar 2018 10:40:29 +1100</pubDate>
 <itunes:duration>43:47</itunes:duration>
-<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/185_elf_lyons_-_economics,_awards_and_alcoholismcast.mp3</guid>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/185_elf_lyons_-_economics_awards_and_alcoholismcast.mp3</guid>
 </item>
  
  <item>
