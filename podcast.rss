@@ -37,6 +37,19 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+ 
+ <item>
+<title>John Hastings - Freudian Slip Slop Slapcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>John Hastings sits with Alice in an outdoors cafe in Adelaide talking about Tyson, Chappelle, Adulthood, Advertising, making good rape jokes, Masculinity and school uniforms. </itunes:summary>
+<description>John Hastings sits with Alice in an outdoors cafe in Adelaide talking about Tyson, Chappelle, Adulthood, Advertising, making good rape jokes, Masculinity and school uniforms. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/186_john_hastings_-_freudian_slip_slop_slapcast.mp3" length="48832180" type="audio/mp3"/>
+<pubDate>Sun, 11 Mar 2018 16:20:15 +1100</pubDate>
+<itunes:duration>50:52</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/186_john_hastings_-_freudian_slip_slop_slapcast.mp3</guid>
+</item>
+ 
 <item>
 <title>Elf Lyons - Economics Awards and Alcoholismcast</title>
 <itunes:author>Alice Fraser</itunes:author>
