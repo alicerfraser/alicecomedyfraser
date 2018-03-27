@@ -38,6 +38,27 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Kirsty Webeck - Scandal and ExclusionCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Kirsty Webeck sits in Adelaide with Alice over an iced green tea old school style where you just pour cold water over a teabag, talking about getting booted out of the moral high-ground, how to deal with social media and whether you can write good comedy when you're very happy. 
+
+Kirsty can be found at @kirstywebeck on twitter. 
+
+Alice is at @aliterative as ever. </itunes:summary>
+<description>Kirsty Webeck sits in Adelaide with Alice over an iced green tea old school style where you just pour cold water over a teabag, talking about getting booted out of the moral high-ground, how to deal with social media and whether you can write good comedy when you're very happy. 
+
+Kirsty can be found at @kirstywebeck on twitter. 
+
+Alice is at @aliterative as ever. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/188_kirsty_webeck_-_scandal_and_exclusioncast.mp3" length="59186701" type="audio/mp3"/>
+<pubDate>Tue, 27 Mar 2018 12:58:13 +1100</pubDate>
+<itunes:duration>01:01:39</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/188_kirsty_webeck_-_scandal_and_exclusioncast.mp3</guid>
+</item>
+ 
  <item>
 <title>Aditi Mittal - Blacking Out OnstageCast</title>
 <itunes:author>Alice Fraser</itunes:author>
