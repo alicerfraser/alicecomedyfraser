@@ -38,6 +38,25 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Dean Mayes - Too Sexy Nursecast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Dean Mayes, Working class man, romance novelist and night nurse, talks over Gyokuro with Alice in Adelaide about being a man in female dominated industries, and whether he understands anything about anything any more. 
+
+Dean's website is http://deanfromaustralia.com
+
+Find Alice on twitter as usual at @aliterative </itunes:summary>
+<description>Dean Mayes, Working class man, romance novelist and night nurse, talks over Gyokuro with Alice in Adelaide about being a man in female dominated industries, and whether he understands anything about anything any more. 
+
+Dean's website is http://deanfromaustralia.com
+
+Find Alice on twitter as usual at @aliterative </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/189_dean_mayes_-_too_sexy_nursecast.mp3" length="54811504" type="audio/mp3"/>
+<pubDate>Wed, 04 Apr 2018 12:51:07 +1100</pubDate>
+<itunes:duration>57:05</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/189_dean_mayes_-_too_sexy_nursecast.mp3</guid>
+</item>
  
  <item>
 <title>Kirsty Webeck - Scandal and ExclusionCast</title>
