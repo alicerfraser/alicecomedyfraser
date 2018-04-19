@@ -38,6 +38,23 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Michael Fraser - Buddhism and ReligionCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This is a slightly unusual pod, with my father Michael Fraser, asking him about his history with Buddhist tradition and meditation, in an age of productivity focused meditation apps. How he went from Judaism to Buddhism, and what meditation is for, from his perspective. 
+
+I'll pass on any messages, hit me up at the usual places or on twitter @aliterative</itunes:summary>
+<description>This is a slightly unusual pod, with my father Michael Fraser, asking him about his history with Buddhist tradition and meditation, in an age of productivity focused meditation apps. How he went from Judaism to Buddhism, and what meditation is for, from his perspective. 
+
+I'll pass on any messages, hit me up at the usual places or on twitter @aliterative</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/191_michael_fraser_-_buddhism_and_religioncast.mp3" length="40640179" type="audio/mp3"/>
+<pubDate>Thu, 19 Apr 2018 14:49:00 +1100</pubDate>
+<itunes:duration>42:20</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/191_michael_fraser_-_buddhism_and_religioncast.mp3</guid>
+</item>
+ 
  <item>
 <title>Tim Batt - Street PreacherCast</title>
 <itunes:author>Alice Fraser</itunes:author>
