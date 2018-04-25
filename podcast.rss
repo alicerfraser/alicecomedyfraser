@@ -38,7 +38,23 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
- 
+ <item>
+<title>James Nokise - LemongrassCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>James Nokise over lemongrass tea on why he avoided Australia, Pacific Island history, the ins and outs of trench warfare, the pragmatism of injury, rights and responsibility, construction worker-esses. 
+
+Find james at @jamesnokise 
+Alice is at @aliterative as ever.</itunes:summary>
+<description>James Nokise over lemongrass tea on why he avoided Australia, Pacific Island history, the ins and outs of trench warfare, the pragmatism of injury, rights and responsibility, construction worker-esses. 
+
+Find james at @jamesnokise 
+Alice is at @aliterative as ever.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/192_james_nokise_-_lemongrasscast.mp3" length="46323171" type="audio/mp3"/>
+<pubDate>Wed, 25 Apr 2018 18:53:14 +1100</pubDate>
+<itunes:duration>48:15</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/192_james_nokise_-_lemongrasscast.mp3</guid>
+</item>
  <item>
 <title>Michael Fraser - Buddhism and ReligionCast</title>
 <itunes:author>Alice Fraser</itunes:author>
