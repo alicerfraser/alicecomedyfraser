@@ -39,6 +39,20 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Solo Teacast - Q and A</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice answers questions from Tea With Alice listeners, and one from a non-listener.
+</itunes:summary>
+<description>Alice answers questions from Tea With Alice listeners, and one from a non-listener.
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/195_solo_teacast_-_q_and_a.mp3" length="29797900" type="audio/mp3"/>
+<pubDate>Sun, 20 May 2018 09:12:44 +1100</pubDate>
+<itunes:duration>31:02</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/195_solo_teacast_-_q_and_a.mp3</guid>
+</item>
+ 
+ <item>
 <title>Craig Quartermaine - The QuarterCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
