@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Laura Davis - CouchCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Laura Davis sits in the basement of the Phoenix Pub in London, dehydrated, and talks to Alice about travel, shades of the Guilt Economy, Bodies, Couches and Copyright.</itunes:summary>
+<description>Laura Davis sits in the basement of the Phoenix Pub in London, dehydrated, and talks to Alice about travel, shades of the Guilt Economy, Bodies, Couches and Copyright.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/196_laura_davis_-_couchcast.mp3" length="27135082" type="audio/mp3"/>
+<pubDate>Mon, 28 May 2018 18:53:11 +1100</pubDate>
+<itunes:duration>28:16</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/196_laura_davis_-_couchcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Solo Teacast - Q and A</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
