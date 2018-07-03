@@ -38,6 +38,25 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Laura Davis - Mace in the FaceCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Laura Davis sits in her flat in London over a cool cup of calcium carbonate, and talks with Alice about how much responsibility people should be expected to take for their own safety, whether women should be armed, what's interchangeable about people and calcium carbonate. 
+
+Find Laura at @lauradaviscomic on twitter
+
+Alice is @aliterative as ever </itunes:summary>
+<description>Laura Davis sits in her flat in London over a cool cup of calcium carbonate, and talks with Alice about how much responsibility people should be expected to take for their own safety, whether women should be armed, what's interchangeable about people and calcium carbonate. 
+
+Find Laura at @lauradaviscomic on twitter
+
+Alice is @aliterative as ever </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/200_laura_davis_-_mace_in_the_facecast.mp3" length="46275523" type="audio/mp3"/>
+<pubDate>Tue, 03 Jul 2018 13:11:16 +1100</pubDate>
+<itunes:duration>48:12</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/200_laura_davis_-_mace_in_the_facecast.mp3</guid>
+</item>
  
  <item>
 <title>Tiff Stevenson - Safety at NightCast</title>
