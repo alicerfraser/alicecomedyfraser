@@ -38,7 +38,7 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
- <item>
+<item>
 <title>George Egg - Food and DeathCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
@@ -46,9 +46,9 @@
 </itunes:summary>
 <description>I sat with George Egg, the Anarchist Cook/ DIY Chef @georgeegg at Mei Leaf Tea House in Camden, and we talked about Chai in India, being annoyed by the approach of death, loving your family, and what comedy is and isn't. 
 </description>
-<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/201_george_egg_-_food_and_deathcast.mp3" length="57902730" type="audio/mp3"/>
-<pubDate>Thu, 12 Jul 2018 13:43:46 +1100</pubDate>
-<itunes:duration>01:00:19</itunes:duration>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/201_george_egg_-_food_and_deathcast.mp3" length="49991181" type="audio/mp3"/>
+<pubDate>Sat, 14 Jul 2018 10:42:08 +1100</pubDate>
+<itunes:duration>52:04</itunes:duration>
 <guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/201_george_egg_-_food_and_deathcast.mp3</guid>
 </item>
  
