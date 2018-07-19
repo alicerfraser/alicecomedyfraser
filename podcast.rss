@@ -38,6 +38,22 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Tiff Stevenson - Wrong vs Evilcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Returning guest Tiff Stevenson sits over fresh cold lemon tea and talks with Alice about Richard Dawkins, the difference between being wrong and evil, physical stress manifestations and social media bullying. 
+
+</itunes:summary>
+<description>Returning guest Tiff Stevenson sits over fresh cold lemon tea and talks with Alice about Richard Dawkins, the difference between being wrong and evil, physical stress manifestations and social media bullying. 
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/202_tiff_stevenson_-_wrong_vs_evilcast.mp3" length="70076628" type="audio/mp3"/>
+<pubDate>Thu, 19 Jul 2018 19:40:00 +1100</pubDate>
+<itunes:duration>01:13:00</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/202_tiff_stevenson_-_wrong_vs_evilcast.mp3</guid>
+</item>
+ 
 <item>
 <title>George Egg - Food and DeathCast</title>
 <itunes:author>Alice Fraser</itunes:author>
