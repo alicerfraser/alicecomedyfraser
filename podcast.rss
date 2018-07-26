@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Solo Question and AnswerCast </title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Sexuality, Spanish legalities, home and travel, immoral jokes. Alice answers listener questions from Twitter. 
+
+</itunes:summary>
+<description>Sexuality, Spanish legalities, home and travel, immoral jokes. Alice answers listener questions from Twitter. 
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/203_solo_question_and_answercast_.mp3" length="29298439" type="audio/mp3"/>
+<pubDate>Fri, 27 Jul 2018 00:12:07 +1100</pubDate>
+<itunes:duration>30:31</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/203_solo_question_and_answercast_.mp3</guid>
+</item>
+ 
+ <item>
 <title>Tiff Stevenson - Wrong vs Evilcast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
