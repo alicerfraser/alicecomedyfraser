@@ -38,6 +38,18 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>James Nokise - DollsCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>James Nokise, friend of the podcast over liquorice tea, on Golliwogs, explaining consent and inherited trauma. </itunes:summary>
+<description>James Nokise, friend of the podcast over liquorice tea, on Golliwogs, explaining consent and inherited trauma. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/205_james_nokise_-_dollscast.mp3" length="47250622" type="audio/mp3"/>
+<pubDate>Sun, 19 Aug 2018 12:25:45 +1100</pubDate>
+<itunes:duration>49:13</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/205_james_nokise_-_dollscast.mp3</guid>
+</item>
+ 
 <item>
 <title>Myq Kaplan - StreetSweepCast</title>
 <itunes:author>Alice Fraser</itunes:author>
