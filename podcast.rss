@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Beth O'Brien - Medicine and HumilityCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Beth O'Brien sits over tea in her flat in Hampstead Heath talking self esteem vs self respect, medical terminology, journalistic ethics, and the problem with autoimmune disorders. </itunes:summary>
+<description>Beth O'Brien sits over tea in her flat in Hampstead Heath talking self esteem vs self respect, medical terminology, journalistic ethics, and the problem with autoimmune disorders. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/208_beth_o'brien_-_medicine_and_humilitycast.mp3" length="47797313" type="audio/mp3"/>
+<pubDate>Thu, 20 Sep 2018 19:40:56 +1100</pubDate>
+<itunes:duration>49:47</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/208_beth_o'brien_-_medicine_and_humilitycast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Henry Fraser - TechBro and ObscenityCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
