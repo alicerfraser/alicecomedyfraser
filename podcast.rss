@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Lucy Fraser - ReRelease</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>AnniversaryCast</itunes:subtitle>
+<itunes:summary> </itunes:summary>
+<description> </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/210_lucy_fraser_-_rerelease.mp3" length="25110070" type="audio/mp3"/>
+<pubDate>Fri, 12 Oct 2018 12:13:15 +1100</pubDate>
+<itunes:duration>26:09</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/210_lucy_fraser_-_rerelease.mp3</guid>
+</item>
+ 
+ <item>
 <title>Solo Podcast - Why do fools Fall in Lovecast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
