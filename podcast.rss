@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Phil Nichol - Murderous RageCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary> Phil Nichol sits with Alice in his flat in Camden over some mint and liquorice tea, talking anger, acid reflux, public weeping and human connection.
+
+</itunes:summary>
+<description> Phil Nichol sits with Alice in his flat in Camden over some mint and liquorice tea, talking anger, acid reflux, public weeping and human connection.
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/211_phil_nichol_-_murderous_ragecast.mp3" length="49271455" type="audio/mp3"/>
+<pubDate>Thu, 18 Oct 2018 19:38:23 +1100</pubDate>
+<itunes:duration>51:19</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/211_phil_nichol_-_murderous_ragecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Lucy Fraser - ReRelease</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>AnniversaryCast</itunes:subtitle>
