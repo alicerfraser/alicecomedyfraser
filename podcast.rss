@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Amanda S- EducationCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Amanda S is a fascinating person. She works in education in South East Asia, and spoke about some of the challenges of doing good in a complex world</itunes:summary>
+<description>Amanda S is a fascinating person. She works in education in South East Asia, and spoke about some of the challenges of doing good in a complex world</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/218_amanda_s-_educationcast.mp3" length="87396209" type="audio/mp3"/>
+<pubDate>Thu, 20 Dec 2018 14:04:01 +1100</pubDate>
+<itunes:duration>01:00:42</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/218_amanda_s-_educationcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Cally - Historical BlackfaceCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
