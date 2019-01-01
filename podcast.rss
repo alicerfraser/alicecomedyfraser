@@ -38,6 +38,19 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Solo - New Year AnswersCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This Year, New Year answering some questions from Patreon, Twitter and Email. </itunes:summary>
+<description>This Year, New Year answering some questions from Patreon, Twitter and Email. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/220_solo_-_new_year_answerscast.mp3" length="27039787" type="audio/mp3"/>
+<pubDate>Tue, 01 Jan 2019 20:29:03 +1100</pubDate>
+<itunes:duration>28:10</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/220_solo_-_new_year_answerscast.mp3</guid>
+</item>
+ 
  <item>
 <title>Solo - End of YearCast</title>
 <itunes:author>Alice Fraser</itunes:author>
