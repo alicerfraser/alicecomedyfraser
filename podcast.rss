@@ -38,6 +38,17 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Juliette Burton - All the Single MenCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Juliette Burton over grape tea on independence, codependence, being unbangable, weakness, the difference between male and female shame, and the assertion that we all have no skin. </itunes:summary>
+<description>Juliette Burton over grape tea on independence, codependence, being unbangable, weakness, the difference between male and female shame, and the assertion that we all have no skin. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/221_juliette_burton_-_all_the_single_mencast.mp3" length="65255258" type="audio/mp3"/>
+<pubDate>Wed, 09 Jan 2019 12:38:48 +1100</pubDate>
+<itunes:duration>45:19</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/221_juliette_burton_-_all_the_single_mencast.mp3</guid>
+</item>
  
  <item>
 <title>Solo - New Year AnswersCast</title>
