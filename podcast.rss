@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Matt Kirshen - Roles and StrangersCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Matt Kirshen, Probably Science Podcaster, writer on the Jim Jefferies show, comedian, british export to the US talks over a cup of "normal tea" about nerves, confidence, roles and dating. 
+
+</itunes:summary>
+<description>Matt Kirshen, Probably Science Podcaster, writer on the Jim Jefferies show, comedian, british export to the US talks over a cup of "normal tea" about nerves, confidence, roles and dating. 
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/222_matt_kirshen_-_roles_and_strangerscast.mp3" length="86544191" type="audio/mp3"/>
+<pubDate>Thu, 17 Jan 2019 12:53:02 +1100</pubDate>
+<itunes:duration>01:00:06</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/222_matt_kirshen_-_roles_and_strangerscast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Juliette Burton - All the Single MenCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
