@@ -37,13 +37,12 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
- 
+
  <item>
 <title>Neil Gaiman - Icky SpeechCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary>Neil Gaiman, writer and reluctant showrunner talks about when you can let go of work and when you have a duty to fight for it to be a particular way, how his graphic bible story nearly got someone thrown in jail, and the importance of protecting icky speech. 
-
 
 Find Neal at http://neilgaiman.com
 
@@ -51,17 +50,15 @@ I'm at http://patreon.com/alicefraser
 </itunes:summary>
 <description>Neil Gaiman, writer and reluctant showrunner talks about when you can let go of work and when you have a duty to fight for it to be a particular way, how his graphic bible story nearly got someone thrown in jail, and the importance of protecting icky speech. 
 
-
 Find Neal at http://neilgaiman.com
 
 I'm at http://patreon.com/alicefraser 
 </description>
 <enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/223_neil_gaiman_-_icky_speechcast.mp3" length="76142676" type="audio/mp3"/>
-<pubDate>Thu, 24 Jan 2019 11:31:40 +1100</pubDate>
+<pubDate>Thu, 24 Jan 2019 12:13:23 +1100</pubDate>
 <itunes:duration>52:53</itunes:duration>
 <guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/223_neil_gaiman_-_icky_speechcast.mp3</guid>
 </item>
- 
  
  <item>
 <title>Matt Kirshen - Roles and StrangersCast</title>
