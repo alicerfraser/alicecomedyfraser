@@ -37,6 +37,28 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+ 
+ <item>
+<title>Laura Davis - HypnoCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Laura Davis has a mystery tea and talks to Alice about hypnotherapy, the fears you grow out of and into, and the time she went for a very long swim without telling anyone where she was going. 
+
+Content warning for discussion of mental illness/suicide.
+
+Find Laura at @lauradaviscomic on twitter. Alice is at @aliterative as ever. 
+</itunes:summary>
+<description>Laura Davis has a mystery tea and talks to Alice about hypnotherapy, the fears you grow out of and into, and the time she went for a very long swim without telling anyone where she was going. 
+
+Content warning for discussion of mental illness/suicide.
+
+Find Laura at @lauradaviscomic on twitter. Alice is at @aliterative as ever. 
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/224_laura_davis_-_hypnocast.mp3" length="76200343" type="audio/mp3"/>
+<pubDate>Thu, 31 Jan 2019 23:13:33 +1100</pubDate>
+<itunes:duration>52:55</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/224_laura_davis_-_hypnocast.mp3</guid>
+</item>
 
  <item>
 <title>Neil Gaiman - Icky SpeechCast</title>
