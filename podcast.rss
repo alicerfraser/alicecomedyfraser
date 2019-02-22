@@ -38,6 +38,25 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Chris Skinner - Missing Hipcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Chris Skinner, the one-hipped wonder, suddenly ex-triathlete and current Producer of The Bugle Podcast talks to Alice over black tea about exercise, pain, dignity, ageing and vulnerability.
+
+Find Chris' work at thebuglepodcast.com
+Alice is at @aliterative as ever</itunes:summary>
+<description>Chris Skinner, the one-hipped wonder, suddenly ex-triathlete and current Producer of The Bugle Podcast talks to Alice over black tea about exercise, pain, dignity, ageing and vulnerability.
+
+Find Chris' work at thebuglepodcast.com
+Alice is at @aliterative as ever</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/227_chris_skinner_-_missing_hipcast.mp3" length="90109612" type="audio/mp3"/>
+<pubDate>Fri, 22 Feb 2019 17:02:39 +1100</pubDate>
+<itunes:duration>01:02:35</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/227_chris_skinner_-_missing_hipcast.mp3</guid>
+</item>
+ 
  <item>
 <title>Greg Dickens and Dr Guen Bradbury - Abomination of WaterCast</title>
 <itunes:author>Alice Fraser</itunes:author>
