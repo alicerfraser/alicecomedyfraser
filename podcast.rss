@@ -38,6 +38,24 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Kate Leaver - Friendship and DogsCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Kate Leaver, old friend, journalist, Author and ex-writer of Pottermore, the official Harry Potter website talks over a glamorous courtesan tea about depression, medication and friendship.
+
+Find Kate at @kateileaver
+Alice is @aliterative as ever</itunes:summary>
+<description>Kate Leaver, old friend, journalist, Author and ex-writer of Pottermore, the official Harry Potter website talks over a glamorous courtesan tea about depression, medication and friendship.
+
+Find Kate at @kateileaver
+Alice is @aliterative as ever</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/228_kate_leaver_-_friendship_and_dogscast.mp3" length="52840490" type="audio/mp3"/>
+<pubDate>Fri, 01 Mar 2019 17:53:32 +1100</pubDate>
+<itunes:duration>44:02</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/228_kate_leaver_-_friendship_and_dogscast.mp3</guid>
+</item>
+ 
  
  <item>
 <title>Chris Skinner - Missing Hipcast</title>
