@@ -38,6 +38,27 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Wil Anderson - Interpersonal FutureCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Wil Anderson, friend of the podcast and top-notch comedian, has black tea and talks about his coffee routine, habit management, audience management, the mindfulness of comedy, and how to talk about climate change. 
+
+Find Wil at @wil_anderson on twitter
+
+Come see MYTHOS in the world somewhere and sign up to support the podcast on Patreon.com/AliceFraser</itunes:summary>
+<description>Wil Anderson, friend of the podcast and top-notch comedian, has black tea and talks about his coffee routine, habit management, audience management, the mindfulness of comedy, and how to talk about climate change. 
+
+Find Wil at @wil_anderson on twitter
+
+Come see MYTHOS in the world somewhere and sign up to support the podcast on Patreon.com/AliceFraser</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/235_wil_anderson_-_interpersonal_futurecast.mp3" length="80171093" type="audio/mp3"/>
+<pubDate>Thu, 09 May 2019 11:47:21 +1100</pubDate>
+<itunes:duration>55:40</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/235_wil_anderson_-_interpersonal_futurecast.mp3</guid>
+</item>
+ 
  <item>
 <title>David O'Doherty - Corruption and ComplexityCast</title>
 <itunes:author>Alice Fraser</itunes:author>
