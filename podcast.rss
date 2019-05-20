@@ -38,6 +38,22 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>James Hoare - MasculinityWeepsCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>James Hoare on Masculinity and Grief
+
+Come see MYTHOS in the world somewhere and sign up to support the podcast on Patreon.com/AliceFraser</itunes:summary>
+<description>James Hoare on Masculinity and Grief
+
+Come see MYTHOS in the world somewhere and sign up to support the podcast on Patreon.com/AliceFraser</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/236_james_hoare_-_masculinityweepscast.mp3" length="56217644" type="audio/mp3"/>
+<pubDate>Mon, 20 May 2019 11:48:14 +1100</pubDate>
+<itunes:duration>39:02</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/236_james_hoare_-_masculinityweepscast.mp3</guid>
+</item>
+ 
  
  <item>
 <title>Wil Anderson - Interpersonal FutureCast</title>
