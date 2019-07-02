@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Solo Episode - Answers and QuestionsCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this episode, Alice answers some of your questions.</itunes:summary>
+<description>In this episode, Alice answers some of your questions.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/241_solo_episode_-_answers_and_questionscast.mp3" length="42088951" type="audio/mp3"/>
+<pubDate>Tue, 02 Jul 2019 06:37:30 +1100</pubDate>
+<itunes:duration>29:14</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/241_solo_episode_-_answers_and_questionscast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Eshaan Akbar - Dancing MasterCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
