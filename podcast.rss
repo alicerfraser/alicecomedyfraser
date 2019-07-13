@@ -39,6 +39,24 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Alice Gorman - Space ArcheologyCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Tea With Alice With Alice</itunes:subtitle>
+<itunes:summary>Alice Gorman, aka Dr Space Junk talks to Alice about the heritage of the moon, driving giant trucks, mining interests and space animals.
+
+Find Alice Gorman at @drspacejunk 
+Alice is at @aliterative as ever. </itunes:summary>
+<description>Alice Gorman, aka Dr Space Junk talks to Alice about the heritage of the moon, driving giant trucks, mining interests and space animals.
+
+Find Alice Gorman at @drspacejunk 
+Alice is at @aliterative as ever. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/242_alice_gorman_-_space_archeologycast.mp3" length="74119880" type="audio/mp3"/>
+<pubDate>Sat, 13 Jul 2019 11:39:10 +1100</pubDate>
+<itunes:duration>51:28</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/242_alice_gorman_-_space_archeologycast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Solo Episode - Answers and QuestionsCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
