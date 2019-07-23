@@ -39,6 +39,25 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>John Hastings - Weddings And FuneralsCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Tea With Alice With John</itunes:subtitle>
+<itunes:summary>John Hastings speaks with Alice about ceremony, weddings and funerals.
+
+John is @thejohnhastings
+Alice is at @aliterative as ever. </itunes:summary>
+<description>John Hastings speaks with Alice about ceremony, weddings and funerals.
+
+John is @thejohnhastings
+Alice is at @aliterative as ever. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/243_john_hastings_-_weddings_and_funeralscast.mp3" length="81185480" type="audio/mp3"/>
+<pubDate>Tue, 23 Jul 2019 06:15:00 +1100</pubDate>
+<itunes:duration>56:23</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/243_john_hastings_-_weddings_and_funeralscast.mp3</guid>
+</item>
+ 
+ 
+ <item>
 <title>Alice Gorman - Space ArcheologyCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Tea With Alice With Alice</itunes:subtitle>
