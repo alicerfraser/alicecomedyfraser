@@ -39,6 +39,26 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Tom Houghton - Public SchoolBoyCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The Honourable Tom Houghton talks about living up to a high achieving father, the pathologies of British boarding school culture and a bunch of other fun stuff. 
+
+Find Tom online on twitter at HonourableTom
+Alice is on twitter @aliterative
+. </itunes:summary>
+<description>The Honourable Tom Houghton talks about living up to a high achieving father, the pathologies of British boarding school culture and a bunch of other fun stuff. 
+
+Find Tom online on twitter at HonourableTom
+Alice is on twitter @aliterative
+. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/245_tom_houghton_-_public_schoolboycast.mp3" length="69765791" type="audio/mp3"/>
+<pubDate>Wed, 14 Aug 2019 19:15:45 +1100</pubDate>
+<itunes:duration>48:27</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/245_tom_houghton_-_public_schoolboycast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Helen Jenkins - JapanCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
