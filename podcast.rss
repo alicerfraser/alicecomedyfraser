@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Tiff Stevenson - CertaintyCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Friend of the podcast Tiff Stevenson sits in my flat in edinburgh and talks about everything from bodily autonomy to grey spaces to abortion tee-shirts to robots telling us to kill ourselves to what we're even allowed to joke about any more. 
+
+Find Tiff at @tiffstevenson all over the place</itunes:summary>
+<description>Friend of the podcast Tiff Stevenson sits in my flat in edinburgh and talks about everything from bodily autonomy to grey spaces to abortion tee-shirts to robots telling us to kill ourselves to what we're even allowed to joke about any more. 
+
+Find Tiff at @tiffstevenson all over the place</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/246_tiff_stevenson_-_certaintycast.mp3" length="77005053" type="audio/mp3"/>
+<pubDate>Wed, 21 Aug 2019 18:21:18 +1100</pubDate>
+<itunes:duration>53:29</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/246_tiff_stevenson_-_certaintycast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Tom Houghton - Public SchoolBoyCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
