@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Solo Q and A PostEdinburghcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Your Questions, My Answers</itunes:summary>
+<description>Your Questions, My Answers</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/247_solo_q_and_a_postedinburghcast.mp3" length="43949079" type="audio/mp3"/>
+<pubDate>Sat, 31 Aug 2019 17:50:45 +1100</pubDate>
+<itunes:duration>30:31</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/247_solo_q_and_a_postedinburghcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Tiff Stevenson - CertaintyCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
