@@ -39,6 +39,24 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Jason John Whitehead - Haircutcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Jason John Whitehead, writer and comedian comes to my flat in Edinburgh and we have a chat about hairstyles, comedy, growing up and international homesickness.
+
+Find JJ at @jjwhitesnake on twitter. 
+</itunes:summary>
+<description>Jason John Whitehead, writer and comedian comes to my flat in Edinburgh and we have a chat about hairstyles, comedy, growing up and international homesickness.
+
+Find JJ at @jjwhitesnake on twitter. 
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/248_jason_john_whitehead_-_haircutcast.mp3" length="59131028" type="audio/mp3"/>
+<pubDate>Wed, 11 Sep 2019 23:56:01 +1100</pubDate>
+<itunes:duration>41:04</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/248_jason_john_whitehead_-_haircutcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Solo Q and A PostEdinburghcast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
