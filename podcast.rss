@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Richard Herring - Gas Explosioncast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Richard Herring sits in Alice's flat over a herbal tea and talks about death, near death, family and fear. This podcast was a lot of fun.
+
+Find Richard Herring @herring1967</itunes:summary>
+<description>Richard Herring sits in Alice's flat over a herbal tea and talks about death, near death, family and fear. This podcast was a lot of fun.
+
+Find Richard Herring @herring1967</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/249_richard_herring_-_gas_explosioncast.mp3" length="81226858" type="audio/mp3"/>
+<pubDate>Thu, 19 Sep 2019 02:59:45 +1100</pubDate>
+<itunes:duration>56:24</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/249_richard_herring_-_gas_explosioncast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Jason John Whitehead - Haircutcast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
