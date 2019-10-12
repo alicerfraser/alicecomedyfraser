@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Lucy Fraser rerelease</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Today is the anniversary of my mum's death. This is the only podcast I did with her before she died. </itunes:summary>
+<description>Today is the anniversary of my mum's death. This is the only podcast I did with her before she died. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/252_lucy_fraser_rerelease.mp3" length="31015802" type="audio/mp3"/>
+<pubDate>Sat, 12 Oct 2019 19:09:24 +1100</pubDate>
+<itunes:duration>25:51</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/252_lucy_fraser_rerelease.mp3</guid>
+</item>
+ 
+ <item>
 <title>Sarah Keyworth - Fitting InCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
