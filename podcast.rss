@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Richard Glover - Australian HistoryCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Richard Glover, Australian culture giant, writer and radio man talks over a cup of teabag tea about Yorkshire, teleology, peacock evolution, cultural cringe, anger and epidemics. 
+
+Find Richard at @rgloveroz on twitter </itunes:summary>
+<description>Richard Glover, Australian culture giant, writer and radio man talks over a cup of teabag tea about Yorkshire, teleology, peacock evolution, cultural cringe, anger and epidemics. 
+
+Find Richard at @rgloveroz on twitter </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/256_richard_glover_-_australian_historycast.mp3" length="95040827" type="audio/mp3"/>
+<pubDate>Fri, 15 Nov 2019 01:30:43 +1100</pubDate>
+<itunes:duration>01:06:00</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/256_richard_glover_-_australian_historycast.mp3</guid>
+</item>
+ 
+ <item>
 <title>DA Carter - LegitimacyCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
