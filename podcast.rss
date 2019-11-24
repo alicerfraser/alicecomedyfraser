@@ -39,6 +39,22 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Daniel Townes - Death and The ConspiracyCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Daniel Townes over herbal tea, talking death, conspiracies and social movements.
+
+Find Daniel at https://danieltownes.com/</itunes:summary>
+<description>Daniel Townes over herbal tea, talking death, conspiracies and social movements.
+
+Find Daniel at https://danieltownes.com/</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/257_daniel_townes_-_death_and_the_conspiracycast.mp3" length="105059936" type="audio/mp3"/>
+<pubDate>Sun, 24 Nov 2019 12:33:36 +1100</pubDate>
+<itunes:duration>01:12:57</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/257_daniel_townes_-_death_and_the_conspiracycast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Richard Glover - Australian HistoryCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
