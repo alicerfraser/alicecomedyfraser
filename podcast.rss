@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Chris Mancini - Kung Fu Dragon MasterCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Chris Mancini, over a skype-tea, is a writer, comedian, community creator and cohost of the popular podcast Comedy Film Nerds. He talks about his new podcast, fatherhood, graphic novels, cultural appropriation and Kung Fu.</itunes:summary>
+<description>Chris Mancini, over a skype-tea, is a writer, comedian, community creator and cohost of the popular podcast Comedy Film Nerds. He talks about his new podcast, fatherhood, graphic novels, cultural appropriation and Kung Fu.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/258_chris_mancini_-_kung_fu_dragon_mastercast.mp3" length="76016370" type="audio/mp3"/>
+<pubDate>Sun, 01 Dec 2019 03:21:12 +1100</pubDate>
+<itunes:duration>52:47</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/258_chris_mancini_-_kung_fu_dragon_mastercast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Daniel Townes - Death and The ConspiracyCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
