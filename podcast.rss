@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Alice Fraser - Weepy SoloCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>I start rambly and then get deep, in a sick grateful solocast in cold lonely England. </itunes:summary>
+<description>I start rambly and then get deep, in a sick grateful solocast in cold lonely England. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/259_alice_fraser_-_weepy_solocast.mp3" length="20286990" type="audio/mp3"/>
+<pubDate>Fri, 13 Dec 2019 21:34:16 +1100</pubDate>
+<itunes:duration>24:09</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/259_alice_fraser_-_weepy_solocast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Chris Mancini - Kung Fu Dragon MasterCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
