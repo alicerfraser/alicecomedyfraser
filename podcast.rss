@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Kate Smurthwaite - DrainageCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>First podcast of the year was recorded with me sick on my couch, talking to Kate Smurthwaite about algorithms, uncertainty and flood mitigation strategy.  </itunes:summary>
+<description>First podcast of the year was recorded with me sick on my couch, talking to Kate Smurthwaite about algorithms, uncertainty and flood mitigation strategy.  </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/260_kate_smurthwaite_-_drainagecast.mp3" length="73793245" type="audio/mp3"/>
+<pubDate>Fri, 10 Jan 2020 10:20:04 +1100</pubDate>
+<itunes:duration>51:15</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/260_kate_smurthwaite_-_drainagecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Alice Fraser - Weepy SoloCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
