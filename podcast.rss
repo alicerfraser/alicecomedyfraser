@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Henry Fraser - TwinCast One</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Man Mum Returns</itunes:subtitle>
+<itunes:summary>Alice's twin, Dr Henry Fraser in the first of a two part crossover episode with his podcast The Man Mum Podcast. Listen to the first half here, go download the second half on his feed where it starts to get messy.</itunes:summary>
+<description>Alice's twin, Dr Henry Fraser in the first of a two part crossover episode with his podcast The Man Mum Podcast. Listen to the first half here, go download the second half on his feed where it starts to get messy.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/263_henry_fraser_-_twincast_one.mp3" length="71325614" type="audio/mp3"/>
+<pubDate>Wed, 19 Feb 2020 19:12:49 +1100</pubDate>
+<itunes:duration>49:32</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/263_henry_fraser_-_twincast_one.mp3</guid>
+</item>
+ 
+ <item>
 <title>Aaron Simmonds - PowerCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
