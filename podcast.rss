@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Laura Davis - Work and HomeCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Laura Davis sits with Alice in her flat and discusses work, home and travel over tea and doughnuts. </itunes:summary>
+<description>Laura Davis sits with Alice in her flat and discusses work, home and travel over tea and doughnuts. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/264_laura_davis_-_work_and_homecast.mp3" length="70276119" type="audio/mp3"/>
+<pubDate>Tue, 03 Mar 2020 13:48:35 +1100</pubDate>
+<itunes:duration>48:48</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/264_laura_davis_-_work_and_homecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Henry Fraser - TwinCast One</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Man Mum Returns</itunes:subtitle>
