@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Charlie George - BodiesCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Charlie George sits in my flat and chats about bodies, education, culture and being a brown working class woman writing smart stuff.</itunes:summary>
+<description>Charlie George sits in my flat and chats about bodies, education, culture and being a brown working class woman writing smart stuff.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/265_charlie_george_-_bodiescast.mp3" length="106893105" type="audio/mp3"/>
+<pubDate>Sat, 14 Mar 2020 18:34:10 +1100</pubDate>
+<itunes:duration>01:14:14</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/265_charlie_george_-_bodiescast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Laura Davis - Work and HomeCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
