@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>ManMum Redux</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice and Henry sit together in London and talk about ideas. The first of a two part Tea With Alice and Man-Mum crossover.</itunes:summary>
+<description>Alice and Henry sit together in London and talk about ideas. The first of a two part Tea With Alice and Man-Mum crossover.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/266_manmum_redux.mp3" length="47795348" type="audio/mp3"/>
+<pubDate>Thu, 26 Mar 2020 22:45:23 +1100</pubDate>
+<itunes:duration>33:11</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/266_manmum_redux.mp3</guid>
+</item>
+ 
+ <item>
 <title>Charlie George - BodiesCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
