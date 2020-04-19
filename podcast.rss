@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Neil Gaiman - SavageCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>I spoke to Neil Gaiman on my instagram live about the release of Savage on Amazon Prime. </itunes:summary>
+<description>I spoke to Neil Gaiman on my instagram live about the release of Savage on Amazon Prime. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/268_neil_gaiman_-_savagecast.mp3" length="51646633" type="audio/mp3"/>
+<pubDate>Sun, 19 Apr 2020 23:39:01 +1100</pubDate>
+<itunes:duration>35:52</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/268_neil_gaiman_-_savagecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Maddie King - ImmuneCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
