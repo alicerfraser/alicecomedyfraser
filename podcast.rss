@@ -39,6 +39,20 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Emma Gatti - ScienceCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>I spoke to NASA scientist, Vulcanologist and Science Educator, Emma Gatti about science, communication, Italy and Mona Lisa Bytes.
+Find Emma's new project at monalisabytes.com</itunes:summary>
+<description>I spoke to NASA scientist, Vulcanologist and Science Educator, Emma Gatti about science, communication, Italy and Mona Lisa Bytes.
+Find Emma's new project at monalisabytes.com</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/269_emma_gatti_-_sciencecast.mp3" length="65184122" type="audio/mp3"/>
+<pubDate>Tue, 28 Apr 2020 00:37:39 +1100</pubDate>
+<itunes:duration>45:16</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/269_emma_gatti_-_sciencecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Neil Gaiman - SavageCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
