@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Nato Green - UnionCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Nato Green is a Union Organiser, comedian and Bugle Cohost. I spoke to him about people power, his drink cart aesthetic, and whether the world can really be changed. </itunes:summary>
+<description>Nato Green is a Union Organiser, comedian and Bugle Cohost. I spoke to him about people power, his drink cart aesthetic, and whether the world can really be changed. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/269_nato_green_-_unioncast.mp3" length="55808253" type="audio/mp3"/>
+<pubDate>Tue, 19 May 2020 02:07:22 +1100</pubDate>
+<itunes:duration>38:45</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/269_nato_green_-_unioncast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Corey Tutt - Deadly ScienceCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
