@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Chris Mancini - White CatCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Chris Mancini is a friend of the podcast, and there's one day left on his new kickstarter. We talked about failure, storytelling, fantasy and starting businesses in a pandemic. </itunes:summary>
+<description>Chris Mancini is a friend of the podcast, and there's one day left on his new kickstarter. We talked about failure, storytelling, fantasy and starting businesses in a pandemic. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/270_chris_mancini_-_white_catcast.mp3" length="61627498" type="audio/mp3"/>
+<pubDate>Sat, 30 May 2020 03:22:55 +1100</pubDate>
+<itunes:duration>42:48</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/270_chris_mancini_-_white_catcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Nato Green - UnionCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
