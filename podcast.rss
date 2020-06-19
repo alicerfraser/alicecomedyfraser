@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Mike Schmidt - RiotCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Mike Schmidt is an old friend from America, and living in the midst of the chaos there. We talked about news, standup, riots, racism and failure.</itunes:summary>
+<description>Mike Schmidt is an old friend from America, and living in the midst of the chaos there. We talked about news, standup, riots, racism and failure.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/271_mike_schmidt_-_riotcast.mp3" length="80653209" type="audio/mp3"/>
+<pubDate>Fri, 19 Jun 2020 05:54:29 +1100</pubDate>
+<itunes:duration>56:01</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/271_mike_schmidt_-_riotcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Chris Mancini - White CatCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
