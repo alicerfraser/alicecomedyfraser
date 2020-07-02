@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Sami Shah - VoiceCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Sami Shah, author, broadcaster and comedian, talks about the problem with getting the dream job, what he wants to say and what it's like getting hate mail from white supremacists AND the Taliban.</itunes:summary>
+<description>Sami Shah, author, broadcaster and comedian, talks about the problem with getting the dream job, what he wants to say and what it's like getting hate mail from white supremacists AND the Taliban.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/272_sami_shah_-_voicecast.mp3" length="75551182" type="audio/mp3"/>
+<pubDate>Thu, 02 Jul 2020 23:08:40 +1100</pubDate>
+<itunes:duration>52:28</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/272_sami_shah_-_voicecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Mike Schmidt - RiotCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
