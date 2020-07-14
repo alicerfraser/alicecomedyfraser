@@ -38,6 +38,19 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ 
+ <item>
+<title>Gary Michael Anderson - Biracial ParenthoodCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Gary Anderson is an LA based comedian and friend - we talk about the politics of parenting, race and conservative commentary. </itunes:summary>
+<description>Gary Anderson is an LA based comedian and friend - we talk about the politics of parenting, race and conservative commentary. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/273_gary_michael_anderson_-_biracial_parenthoodcast.mp3" length="64575364" type="audio/mp3"/>
+<pubDate>Tue, 14 Jul 2020 10:06:32 +1100</pubDate>
+<itunes:duration>44:51</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/273_gary_michael_anderson_-_biracial_parenthoodcast.mp3</guid>
+</item>
+ 
  <item>
 <title>Sami Shah - VoiceCast</title>
 <itunes:author>Alice Fraser</itunes:author>
