@@ -38,6 +38,22 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Tegan Higginbotham - Erotica RedemptionCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Tegan Higginbotham is a writer, presenter, comedian and friend of the podcast. We talked genre fiction and the chilling effect of online discourse. 
+
+@teganmh</itunes:summary>
+<description>Tegan Higginbotham is a writer, presenter, comedian and friend of the podcast. We talked genre fiction and the chilling effect of online discourse. 
+
+@teganmh</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/274_tegan_higginbotham_-_erotica_redemptioncast.mp3" length="105370271" type="audio/mp3"/>
+<pubDate>Sun, 26 Jul 2020 00:23:17 +1100</pubDate>
+<itunes:duration>01:13:10</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/274_tegan_higginbotham_-_erotica_redemptioncast.mp3</guid>
+</item>
+ 
  
  <item>
 <title>Gary Michael Anderson - Biracial ParenthoodCast</title>
