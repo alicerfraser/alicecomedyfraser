@@ -38,22 +38,21 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
- <item>
+<item>
 <title>Mitch Alexander - LandCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
-<itunes:summary>Mitch Alexander of NotGoodPod talks about revolution, landlords and capitalism. 
+<itunes:summary>Mitch Alexander of Not Good Enough talks about revolution, landlords and capitalism. 
 
 Find him online at @notgoodpod</itunes:summary>
-<description>Mitch Alexander of NotGoodPod talks about revolution, landlords and capitalism. 
+<description>Mitch Alexander of Not Good Enough talks about revolution, landlords and capitalism. 
 
 Find him online at @notgoodpod</description>
 <enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/276_mitch_alexander_-_landcast.mp3" length="78345541" type="audio/mp3"/>
-<pubDate>Wed, 02 Sep 2020 04:24:51 +1100</pubDate>
+<pubDate>Wed, 02 Sep 2020 04:43:18 +1100</pubDate>
 <itunes:duration>54:24</itunes:duration>
 <guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/276_mitch_alexander_-_landcast.mp3</guid>
 </item>
- 
  <item>
 <title>Ash Fontana - PastCast</title>
 <itunes:author>Alice Fraser</itunes:author>
