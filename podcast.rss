@@ -37,6 +37,26 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+
+<item>
+<title>David Rose - Offensively JewishCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>David Rose is a comedian and documentarian, talking with me about his ancestor, a Jewish comedian who played a caricature jew. We discuss offense, progress, context, hate speech and the function of minorities mocking themselves. 
+
+Find David on twitter and instagram at @davidrosecomedy
+
+</itunes:summary>
+<description>David Rose is a comedian and documentarian, talking with me about his ancestor, a Jewish comedian who played a caricature jew. We discuss offense, progress, context, hate speech and the function of minorities mocking themselves. 
+
+Find David on twitter and instagram at @davidrosecomedy
+
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/277_david_rose_-_offensively_jewishcast.mp3" length="53098623" type="audio/mp3"/>
+<pubDate>Tue, 15 Sep 2020 08:42:45 +1100</pubDate>
+<itunes:duration>36:52</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/277_david_rose_-_offensively_jewishcast.mp3</guid>
+</item>
  
 <item>
 <title>Mitch Alexander - LandCast</title>
