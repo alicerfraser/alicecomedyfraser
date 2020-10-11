@@ -37,6 +37,18 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+ 
+ <item>
+<title>Lucy Fraser - Anniversary</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/279_lucy_fraser_-_anniversary.mp3" length="43328075" type="audio/mp3"/>
+<pubDate>Mon, 12 Oct 2020 07:34:45 +1100</pubDate>
+<itunes:duration>22:34</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/279_lucy_fraser_-_anniversary.mp3</guid>
+</item>
 
 <item>
 <title>Laura Davis - Horrible Little Mince ManCast</title>
