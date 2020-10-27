@@ -38,6 +38,18 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>SpaceAcre - Artist BunkerCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Spaceacre is a duo of musicians, locked down in the south of France, making an album in the midst of the world collapsing. What does that feel like? We discuss over tea. </itunes:summary>
+<description>Spaceacre is a duo of musicians, locked down in the south of France, making an album in the midst of the world collapsing. What does that feel like? We discuss over tea. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/280_spaceacre_-_artist_bunkercast.mp3" length="63135913" type="audio/mp3"/>
+<pubDate>Wed, 28 Oct 2020 09:03:54 +1100</pubDate>
+<itunes:duration>43:51</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/280_spaceacre_-_artist_bunkercast.mp3</guid>
+</item>
+ 
 <item>
 <title>Lucy Fraser - Anniversary</title>
 <itunes:author>Alice Fraser</itunes:author>
