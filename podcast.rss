@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>George Dimarelos - ClassCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>George Dimarelos on class, communism, argumentation and emotion. Find George on social media at @georgewhatup</itunes:summary>
+<description>George Dimarelos on class, communism, argumentation and emotion. Find George on social media at @georgewhatup</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/282_george_dimarelos_-_classcast.mp3" length="75625787" type="audio/mp3"/>
+<pubDate>Mon, 14 Dec 2020 12:30:50 +1100</pubDate>
+<itunes:duration>52:31</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/282_george_dimarelos_-_classcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Hugh Mackay - Love and DutyCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>74316739</itunes:subtitle>
