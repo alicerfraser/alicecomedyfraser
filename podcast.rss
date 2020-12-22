@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Richard Makim - Soil Regeneration Cast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Richard Makim on his little experimental farm, soil regeneration and saving the world, piece by practical piece. </itunes:summary>
+<description>Richard Makim on his little experimental farm, soil regeneration and saving the world, piece by practical piece. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/283_richard_makim_-_soil_regeneration_cast.mp3" length="37509791" type="audio/mp3"/>
+<pubDate>Wed, 23 Dec 2020 09:19:29 +1100</pubDate>
+<itunes:duration>26:03</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/283_richard_makim_-_soil_regeneration_cast.mp3</guid>
+</item>
+ 
+ <item>
 <title>George Dimarelos - ClassCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
