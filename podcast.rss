@@ -37,6 +37,18 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+
+<item>
+<title>Solo New Year Fears and RevelationsCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice Fraser talks to a wall about fears and revelations, the function and effectiveness of advertising, half baked ideas and self. </itunes:summary>
+<description>Alice Fraser talks to a wall about fears and revelations, the function and effectiveness of advertising, half baked ideas and self. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/284_solo_new_year_fears_and_revelationscast.mp3" length="43841245" type="audio/mp3"/>
+<pubDate>Tue, 12 Jan 2021 01:19:27 +1100</pubDate>
+<itunes:duration>30:27</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/284_solo_new_year_fears_and_revelationscast.mp3</guid>
+</item>
  
  <item>
 <title>Richard Makim - Soil Regeneration Cast</title>
