@@ -37,6 +37,18 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+ 
+ <item>
+<title>Catherine Jones - MediCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Catherine Jones is a specialist chest radiologist and writer, living in Queensland. We talked about the differences between practical and research based help, the place of doctors and the piece she wrote for a recently published anthology. </itunes:summary>
+<description>Catherine Jones is a specialist chest radiologist and writer, living in Queensland. We talked about the differences between practical and research based help, the place of doctors and the piece she wrote for a recently published anthology. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/285_catherine_jones_-_medicast.mp3" length="66379067" type="audio/mp3"/>
+<pubDate>Thu, 21 Jan 2021 12:38:28 +1100</pubDate>
+<itunes:duration>46:06</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/285_catherine_jones_-_medicast.mp3</guid>
+</item>
 
 <item>
 <title>Solo New Year Fears and RevelationsCast</title>
