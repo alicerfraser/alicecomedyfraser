@@ -38,14 +38,14 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
- <item>
+<item>
 <title>Solo Salon Q and A</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
-<itunes:summary>A behind the scenes peep at a Q&A during one of my recent Tea With Alice Salon - I only recorded my side of the convo this time, so let me know what you think. </itunes:summary>
-<description>A behind the scenes peep at a Q&A during one of my recent Tea With Alice Salon - I only recorded my side of the convo this time, so let me know what you think. </description>
+<itunes:summary>A behind the scenes peep at a Q and A during one of my recent Tea With Alice Salon - I only recorded my side of the convo this time, so let me know what you think. </itunes:summary>
+<description>A behind the scenes peep at a Q and A during one of my recent Tea With Alice Salon - I only recorded my side of the convo this time, so let me know what you think. </description>
 <enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/289_solo_salon_q_and_a.mp3" length="55637098" type="audio/mp3"/>
-<pubDate>Sun, 14 Mar 2021 12:03:09 +1100</pubDate>
+<pubDate>Thu, 18 Mar 2021 22:49:43 +1100</pubDate>
 <itunes:duration>38:38</itunes:duration>
 <guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/289_solo_salon_q_and_a.mp3</guid>
 </item>
