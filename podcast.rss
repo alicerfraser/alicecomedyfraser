@@ -38,6 +38,24 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
  
+ <item>
+<title>Sami Shah - NegotiationCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Sami Shah returns to Tea With Alice to talk about multitasking, sense of self and the arguments he's having now. 
+
+Find Sami online @samishah on twitter
+</itunes:summary>
+<description>Sami Shah returns to Tea With Alice to talk about multitasking, sense of self and the arguments he's having now. 
+
+Find Sami online @samishah on twitter
+</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/290_sami_shah_-_negotiationcast.mp3" length="98939760" type="audio/mp3"/>
+<pubDate>Tue, 13 Apr 2021 08:28:11 +1100</pubDate>
+<itunes:duration>01:08:42</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/290_sami_shah_-_negotiationcast.mp3</guid>
+</item>
+ 
 <item>
 <title>Solo Salon Q and A</title>
 <itunes:author>Alice Fraser</itunes:author>
