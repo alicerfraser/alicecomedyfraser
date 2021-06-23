@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Colt Cabana Literal WrestlingCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Justin Hamilton is a good friend and an excellent interlocutor. We discussed culture, age, artistry and existential angst. A lovely time. </itunes:summary>
+<description>Justin Hamilton is a good friend and an excellent interlocutor. We discussed culture, age, artistry and existential angst. A lovely time. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/293_colt_cabana_literal_wrestlingcast.mp3" length="81204289" type="audio/mp3"/>
+<pubDate>Wed, 23 Jun 2021 12:07:35 +1100</pubDate>
+<itunes:duration>56:23</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/293_colt_cabana_literal_wrestlingcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Justin Hamilton CultureCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
