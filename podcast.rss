@@ -39,11 +39,23 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Visakan V - Enthusiastic Nerdcast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Visa is a thinker who thinks about thinking - I've known him for a while on twitter, and I've always enjoyed watching the process of him organising thoughts in webs and threads. This episode we talked about enthusiastic nerdery, online selfhood and making connections. </itunes:summary>
+<description>Visa is a thinker who thinks about thinking - I've known him for a while on twitter, and I've always enjoyed watching the process of him organising thoughts in webs and threads. This episode we talked about enthusiastic nerdery, online selfhood and making connections. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/294_visakan_v_-_enthusiastic_nerdcast.mp3" length="89679247" type="audio/mp3"/>
+<pubDate>Fri, 16 Jul 2021 10:56:43 +1100</pubDate>
+<itunes:duration>01:02:17</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/294_visakan_v_-_enthusiastic_nerdcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Colt Cabana Literal WrestlingCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
-<itunes:summary>Justin Hamilton is a good friend and an excellent interlocutor. We discussed culture, age, artistry and existential angst. A lovely time. </itunes:summary>
-<description>Justin Hamilton is a good friend and an excellent interlocutor. We discussed culture, age, artistry and existential angst. A lovely time. </description>
+<itunes:summary> Colt Cabana is a lovely human, a deep thinker in disguise. We talked about how covid affected the world of wrestling, the upside of being objectified and how to use your body. </itunes:summary>
+<description>Colt Cabana is a lovely human, a deep thinker in disguise. We talked about how covid affected the world of wrestling, the upside of being objectified and how to use your body. </description>
 <enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/293_colt_cabana_literal_wrestlingcast.mp3" length="81204289" type="audio/mp3"/>
 <pubDate>Wed, 23 Jun 2021 12:07:35 +1100</pubDate>
 <itunes:duration>56:23</itunes:duration>
