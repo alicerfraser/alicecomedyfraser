@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Adam Richard - WeightCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Adam Richard came on the podcast to talk about weight, work, how to dress, giving up comedy and being a nerd. </itunes:summary>
+<description>Adam Richard came on the podcast to talk about weight, work, how to dress, giving up comedy and being a nerd. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/295_adam_richard_-_weightcast.mp3" length="77116021" type="audio/mp3"/>
+<pubDate>Fri, 06 Aug 2021 10:35:09 +1100</pubDate>
+<itunes:duration>53:33</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/295_adam_richard_-_weightcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Visakan V - Enthusiastic Nerdcast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
