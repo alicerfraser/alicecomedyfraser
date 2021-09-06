@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Cal Wilson - Age and GardeningCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Cal Wilson talks to me over a fancy hotel tea about creativity, lockdown gardening and self expression. </itunes:summary>
+<description>Cal Wilson talks to me over a fancy hotel tea about creativity, lockdown gardening and self expression. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/297_cal_wilson_-_age_and_gardeningcast.mp3" length="87132622" type="audio/mp3"/>
+<pubDate>Mon, 06 Sep 2021 14:07:35 +1100</pubDate>
+<itunes:duration>01:00:30</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/297_cal_wilson_-_age_and_gardeningcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Craig Quartermaine - Talent and Successcast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
