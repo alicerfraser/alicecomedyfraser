@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Dan Ilic - EnviroCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Dan Ilic of A Rational Fear is a very old friend of mine, and a relentless participator in things, creator of work and the genesis of jobs for other people. We chatted in our separate houses in Sydney Lockdown about climate change, helplessness and activism.</itunes:summary>
+<description>Dan Ilic of A Rational Fear is a very old friend of mine, and a relentless participator in things, creator of work and the genesis of jobs for other people. We chatted in our separate houses in Sydney Lockdown about climate change, helplessness and activism.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/298_dan_ilic_-_envirocast.mp3" length="75899133" type="audio/mp3"/>
+<pubDate>Fri, 24 Sep 2021 14:28:51 +1100</pubDate>
+<itunes:duration>52:42</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/298_dan_ilic_-_envirocast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Cal Wilson - Age and GardeningCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
