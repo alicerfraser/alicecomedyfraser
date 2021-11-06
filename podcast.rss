@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Justine Rogers - FamilyCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Justine Rogers is a legal academic, an old friend and an ex member of Alice's old girl-group, Aggressively Helpful. We talk about family dynamics, and I talk about my baby for the first time on the podcast. </itunes:summary>
+<description>Justine Rogers is a legal academic, an old friend and an ex member of Alice's old girl-group, Aggressively Helpful. We talk about family dynamics, and I talk about my baby for the first time on the podcast. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/300_justine_rogers_-_familycast.mp3" length="84703861" type="audio/mp3"/>
+<pubDate>Sun, 07 Nov 2021 08:43:48 +1100</pubDate>
+<itunes:duration>58:49</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/300_justine_rogers_-_familycast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Damian Smith - RhetoricCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
