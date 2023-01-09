@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Season Two for Tea With Alice</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Season Two Launch</itunes:subtitle>
+<itunes:summary>After a year of Maternity Leave, Alice welcomes you back to the table.</itunes:summary>
+<description>After a year of Maternity Leave, Alice welcomes you back to the table.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/299_season_two_for_tea_with_alice.mp3" length="5139333" type="audio/mp3"/>
+<pubDate>Mon, 09 Jan 2023 13:55:14 +1100</pubDate>
+<itunes:duration>03:33</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/299_season_two_for_tea_with_alice.mp3</guid>
+</item>
+ 
+ <item>
 <title>Justine Rogers - FamilyCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
