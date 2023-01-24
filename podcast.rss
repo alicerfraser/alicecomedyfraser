@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Josh Gondelman - GiveCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Josh Gondelman talks over tea about duty, being a sucker and Effective Altruism</itunes:summary>
+<description>Josh Gondelman talks over tea about duty, being a sucker and Effective Altruism</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/301_josh_gondelman_-_givecast.mp3" length="80531927" type="audio/mp3"/>
+<pubDate>Tue, 24 Jan 2023 16:27:51 +1100</pubDate>
+<itunes:duration>55:46</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/301_josh_gondelman_-_givecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Relationship Endcast - Amy Carver</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle>Season Two Episode 1</itunes:subtitle>
