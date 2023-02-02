@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Laurie Kilmartin - RestartCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Laurie Kilmartin sits with Alice over tea and talks about success, failure, writing for late night television, how to survive life and maintaining work in the face of difficulty. </itunes:summary>
+<description>Laurie Kilmartin sits with Alice over tea and talks about success, failure, writing for late night television, how to survive life and maintaining work in the face of difficulty. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/302_laurie_kilmartin_-_restartcast.mp3" length="64647314" type="audio/mp3"/>
+<pubDate>Fri, 03 Feb 2023 09:05:28 +1100</pubDate>
+<itunes:duration>44:40</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/302_laurie_kilmartin_-_restartcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Josh Gondelman - GiveCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
