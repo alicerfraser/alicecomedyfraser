@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Baratunde Thurston - BattleCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Baratunde Thurston sits with a cuppa to talk about which bits of identity are relevant and when, how to be patient with teaching complicated things and being complicated things and the joy of the great outdoors. </itunes:summary>
+<description>Baratunde Thurston sits with a cuppa to talk about which bits of identity are relevant and when, how to be patient with teaching complicated things and being complicated things and the joy of the great outdoors. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/303_baratunde_thurston_-_battlecast.mp3" length="72802495" type="audio/mp3"/>
+<pubDate>Wed, 15 Feb 2023 11:00:09 +1100</pubDate>
+<itunes:duration>50:22</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/303_baratunde_thurston_-_battlecast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Laurie Kilmartin - RestartCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
