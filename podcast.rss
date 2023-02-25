@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Maris Kreitzman - PaperCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Maris Kreitzman, author, blogger, podcaster, publishing industry maven, talks with Alice about writers rights, the publishing industry and how to look after each other </itunes:summary>
+<description>Maris Kreitzman, author, blogger, podcaster, publishing industry maven, talks with Alice about writers rights, the publishing industry and how to look after each other </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/304_maris_kreitzman_-_papercast.mp3" length="61853760" type="audio/mp3"/>
+<pubDate>Sat, 25 Feb 2023 12:43:45 +1100</pubDate>
+<itunes:duration>42:44</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/304_maris_kreitzman_-_papercast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Baratunde Thurston - BattleCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
