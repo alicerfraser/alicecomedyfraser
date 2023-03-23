@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>DeAnne Smith - ExesCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>DeAnne Smith talks over tea with Alice about doing comedy about their exes TO their exes, creating boundaries and formatting the past through narrative.  </itunes:summary>
+<description>DeAnne Smith talks over tea with Alice about doing comedy about their exes TO their exes, creating boundaries and formatting the past through narrative.  </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/306_deanne_smith_-_exescast.mp3" length="63363954" type="audio/mp3"/>
+<pubDate>Fri, 24 Mar 2023 10:10:48 +1100</pubDate>
+<itunes:duration>43:49</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/306_deanne_smith_-_exescast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Chris Rivas - Form and ConformCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
