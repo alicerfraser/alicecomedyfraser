@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Nato Green - RevolutionCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Alice sits with Nato Green and talks about kitchenware, jazz, how to negotiate the firehose of content, mental health, helping your children navigate the world. </itunes:summary>
+<description>Alice sits with Nato Green and talks about kitchenware, jazz, how to negotiate the firehose of content, mental health, helping your children navigate the world. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/307_nato_green_-_revolutioncast.mp3" length="67938462" type="audio/mp3"/>
+<pubDate>Tue, 11 Apr 2023 13:02:07 +1100</pubDate>
+<itunes:duration>46:58</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/307_nato_green_-_revolutioncast.mp3</guid>
+</item>
+ 
+ <item>
 <title>DeAnne Smith - ExesCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
