@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
  
  <item>
+<title>Jordan Morris - HealthCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Jordan Morris talks to Alice over Herbal Tea on privacy, mental health and how to negotiate levels of selfhood. </itunes:summary>
+<description>Jordan Morris talks to Alice over Herbal Tea on privacy, mental health and how to negotiate levels of selfhood. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/308_jordan_morris_-_healthcast.mp3" length="51353196" type="audio/mp3"/>
+<pubDate>Tue, 09 May 2023 10:53:23 +1100</pubDate>
+<itunes:duration>35:27</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/308_jordan_morris_-_healthcast.mp3</guid>
+</item>
+ 
+ <item>
 <title>Nato Green - RevolutionCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
