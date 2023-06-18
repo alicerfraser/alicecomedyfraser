@@ -37,6 +37,18 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+
+<item>
+<title>Melissa Febos - The Traitor MemoryCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Melissa Febos sits over tea with Alice and talks about the traps and joys of memoir; writing about real people, and how art can be reality, shape reality and help process reality. </itunes:summary>
+<description>Melissa Febos sits over tea with Alice and talks about the traps and joys of memoir; writing about real people, and how art can be reality, shape reality and help process reality. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/310_melissa_febos_-_the_traitor_memorycast.mp3" length="62719962" type="audio/mp3"/>
+<pubDate>Sun, 18 Jun 2023 12:05:36 +1100</pubDate>
+<itunes:duration>43:31</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/310_melissa_febos_-_the_traitor_memorycast.mp3</guid>
+</item>
  
  <item>
 <title>Jesse Thorn - Burt Reynolds SexCast</title>
