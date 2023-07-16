@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>AJ LaMarque - ReMarquesCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>AJ LaMarque is a comedian, writer and human community hub. This was such a fun conversation, characterised by coming out of isolation and rebuilding self. It's one from a while ago, but so good I was excited to find it and bring it to you. </itunes:summary>
+<description>AJ LaMarque is a comedian, writer and human community hub. This was such a fun conversation, characterised by coming out of isolation and rebuilding self. It's one from a while ago, but so good I was excited to find it and bring it to you. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/312_aj_lamarque_-_remarquescast.mp3" length="53184705" type="audio/mp3"/>
+<pubDate>Sun, 16 Jul 2023 15:55:34 +1100</pubDate>
+<itunes:duration>36:54</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/312_aj_lamarque_-_remarquescast.mp3</guid>
+</item>
+
+<item>
 <title>Sarah Pappalardo - PlanningCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
