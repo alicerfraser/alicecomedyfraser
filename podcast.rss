@@ -38,6 +38,18 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Aaron Simmonds - Eddie IzzardCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Aaron talks over not-tea about a weird corporate gig that he just did with Alice, about performing standup standing up, consent in performance and kink, being fetishised and more. </itunes:summary>
+<description>Aaron talks over not-tea about a weird corporate gig that he just did with Alice, about performing standup standing up, consent in performance and kink, being fetishised and more. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/315_aaron_simmonds_-_eddie_izzardcast.mp3" length="71509776" type="audio/mp3"/>
+<pubDate>Sun, 27 Aug 2023 14:48:51 +1100</pubDate>
+<itunes:duration>49:39</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/315_aaron_simmonds_-_eddie_izzardcast.mp3</guid>
+</item>
+
 
 <item>
 <title>Steffan Alun - Self Diagnosis-Cast</title>
