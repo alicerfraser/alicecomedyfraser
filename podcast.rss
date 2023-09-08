@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Cerys Bradley - Social BatteryCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Cerys sits with Alice in Edinburgh and talks about accommodations, social battery, the language of needs and the future of work. </itunes:summary>
+<description>Cerys sits with Alice in Edinburgh and talks about accommodations, social battery, the language of needs and the future of work. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/316_cerys_bradley_-_social_batterycast.mp3" length="63322227" type="audio/mp3"/>
+<pubDate>Fri, 08 Sep 2023 11:20:47 +1100</pubDate>
+<itunes:duration>43:58</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/316_cerys_bradley_-_social_batterycast.mp3</guid>
+</item>
+
+<item>
 <title>Aaron Simmonds - Eddie IzzardCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
