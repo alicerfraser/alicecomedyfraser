@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>Mina Starsiak Hawk - Reality of FamilyCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle>Obligations, Fame and Family</itunes:subtitle>
+<itunes:summary>Mina Starsiak Hawk, podcaster and reality star sits with Alice and talks family Christmas, what we owe the people we love, and how to say no when you want to give in. </itunes:summary>
+<description>Mina Starsiak Hawk, podcaster and reality star sits with Alice and talks family Christmas, what we owe the people we love, and how to say no when you want to give in. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/318_mina_starsiak_hawk_-_reality_of_familycast.mp3" length="79291642" type="audio/mp3"/>
+<pubDate>Fri, 17 Nov 2023 06:32:58 +1100</pubDate>
+<itunes:duration>55:02</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/318_mina_starsiak_hawk_-_reality_of_familycast.mp3</guid>
+</item>
+
+<item>
 <title>Sian Docksey - PoleCast </title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
