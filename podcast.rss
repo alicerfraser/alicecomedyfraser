@@ -33,7 +33,7 @@
 
 </itunes:owner>
 
-<itunes:image href="https://s3.console.aws.amazon.com/s3/object/alicepodcast?region=ap-southeast-2&prefix=Tea+With+Alice+Art.jpeg" />
+<itunes:image href="https://alicepodcast.s3.ap-southeast-2.amazonaws.com/Tea+With+Alice+Art.jpeg" />
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
