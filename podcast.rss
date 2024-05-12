@@ -23,7 +23,7 @@
 
 <description>Every week Alice Fraser, chronic thinker, comedian, ex lawyer and cambridge graduate drinks tea and solves the world. With a rotating cast of bright and brilliant guests.</description>
 
-<itunes:explicit>Yes</itunes:explicit>
+<itunes:explicit>No</itunes:explicit>
 
 <itunes:owner>
 
@@ -37,6 +37,18 @@
 
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
+
+<item>
+<title>Avril Speaks - CreationCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Avril Speaks talks to Alice about names, creation and the drive towards communication. </itunes:summary>
+<description>Avril Speaks talks to Alice about names, creation and the drive towards communication. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/322_avril_speaks_-_creationcast.mp3" length="56589804" type="audio/mp3"/>
+<pubDate>Sun, 12 May 2024 18:42:58 +1100</pubDate>
+<itunes:duration>39:13</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/322_avril_speaks_-_creationcast.mp3</guid>
+</item>
 
 <item>
 <title>Night Feed Thoughts Season 3 Begins</title>
