@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>SoloCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>A solo tea with Alice this week. </itunes:summary>
+<description>A solo tea with Alice this week. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/325_solocast.mp3" length="10042291" type="audio/mp3"/>
+<pubDate>Sun, 07 Jul 2024 19:13:52 +1100</pubDate>
+<itunes:duration>06:58</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/325_solocast.mp3</guid>
+</item>
+
+<item>
 <title>Marcel Blanch De Wilt - Brain EngineeringCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
