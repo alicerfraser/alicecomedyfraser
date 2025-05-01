@@ -38,6 +38,19 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>Abigoliah Schamaun - Promotioncast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Abigoliah Schamaun - drinking tea made by the sun, using up the expensive things rather than saving them for a special occasion. Burning it all down and starting again. Cryptocurrency and trying to stay balanced. Small activism, fighting fear. </itunes:summary>
+<description>Abigoliah Schamaun - drinking tea made by the sun, using up the expensive things rather than saving them for a special occasion. Burning it all down and starting again. Cryptocurrency and trying to stay balanced. Small activism, fighting fear. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/301_abigoliah_schamaun_-_promotioncast.mp3" length="67555008" type="audio/mp3"/>
+<pubDate>Thu, 01 May 2025 12:35:17 +1100</pubDate>
+<itunes:duration>46:55</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/301_abigoliah_schamaun_-_promotioncast.mp3</guid>
+</item>
+
 <item>
 <title>Richard Glover - National TreasureCast The Rebirth Season</title>
 <itunes:author>Alice Fraser</itunes:author>
