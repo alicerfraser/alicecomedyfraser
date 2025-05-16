@@ -38,6 +38,18 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Emilie Zoey Baker - Back to Front Poetry</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Poetry and dyslexia, sharing our flaws and facing our place in society as we age. </itunes:summary>
+<description>Poetry and dyslexia, sharing our flaws and facing our place in society as we age. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/331_emilie_zoey_baker_-_back_to_front_poetry.mp3" length="50914368" type="audio/mp3"/>
+<pubDate>Fri, 16 May 2025 12:10:47 +1100</pubDate>
+<itunes:duration>35:21</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/331_emilie_zoey_baker_-_back_to_front_poetry.mp3</guid>
+</item>
+
 
 <item>
 <title>Abigoliah Schamaun - Promotioncast</title>
