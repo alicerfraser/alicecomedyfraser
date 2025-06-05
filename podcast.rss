@@ -39,6 +39,18 @@
 <itunes:category text="Arts"/>
 
 <item>
+<title>KrackerJak - Blood and AgeCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>KrackerJak, Australian Professional Wrestling legend and educator talks with Alice over tea about blood and ageing, wily age and teaching people how to hurt themselves.</itunes:summary>
+<description>KrackerJak, Australian Professional Wrestling legend and educator talks with Alice over tea about blood and ageing, wily age and teaching people how to hurt themselves.</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/333_krackerjak_-_blood_and_agecast.mp3" length="57726720" type="audio/mp3"/>
+<pubDate>Thu, 05 Jun 2025 12:11:12 +1100</pubDate>
+<itunes:duration>40:05</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/333_krackerjak_-_blood_and_agecast.mp3</guid>
+</item>
+
+<item>
 <title>Tim Shiel - Doing The BusinessCast</title>
 <itunes:author>Alice Fraser</itunes:author>
 <itunes:subtitle></itunes:subtitle>
