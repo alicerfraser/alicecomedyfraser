@@ -38,6 +38,19 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+
+<item>
+<title>Bruce Schneier and Nathan E. Sanders - AI and Democracycast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Bruce Schneier and Nathan E. Sanders talk about the dangers of AI and its possibilities for democracy. Alice talks about refusing to decide how she feels just yet. Nathan and Bruce's book can be found here: https://www.schneier.com/books/rewiring-democracy/</itunes:summary>
+<description>Bruce Schneier and Nathan E. Sanders talk about the dangers of AI and its possibilities for democracy. Alice talks about refusing to decide how she feels just yet. Nathan and Bruce's book can be found here: https://www.schneier.com/books/rewiring-democracy/</description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/335_bruce_schneier_and_nathan_e._sanders_-_ai_and_democracycast.mp3" length="47200709" type="audio/mp3"/>
+<pubDate>Fri, 03 Oct 2025 08:58:31 +1100</pubDate>
+<itunes:duration>32:45</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/335_bruce_schneier_and_nathan_e._sanders_-_ai_and_democracycast.mp3</guid>
+</item>
+
 <item>
 <title>Oliver Darkshire - Identity and the ShelfCast</title>
 <itunes:author>Alice Fraser</itunes:author>
