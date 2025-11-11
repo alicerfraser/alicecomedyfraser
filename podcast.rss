@@ -38,6 +38,18 @@
 <itunes:category text="Comedy"/>
 <itunes:category text="Arts"/>
 
+<item>
+<title>Vidya Rajan - SecretsCast</title>
+<itunes:author>Alice Fraser</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Vidya Rajan talks about the line between public and private, the childcare responsibilities of people without children, and having a body on stage. </itunes:summary>
+<description>Vidya Rajan talks about the line between public and private, the childcare responsibilities of people without children, and having a body on stage. </description>
+<enclosure url="http://s3-ap-southeast-2.amazonaws.com/alicepodcast/336_vidya_rajan_-_secretscast.mp3" length="53026560" type="audio/mp3"/>
+<pubDate>Wed, 12 Nov 2025 09:11:33 +1100</pubDate>
+<itunes:duration>36:49</itunes:duration>
+<guid>http://s3-ap-southeast-2.amazonaws.com/alicepodcast/336_vidya_rajan_-_secretscast.mp3</guid>
+</item>
+
 
 <item>
 <title>Bruce Schneier and Nathan E. Sanders - AI and Democracycast</title>
